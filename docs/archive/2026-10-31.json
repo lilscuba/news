@@ -1,0 +1,1065 @@
+{
+ "version": 1,
+ "headline": "Global developments highlight geopolitical tensions, major gaming announcements, and ongoing artificial intelligence safety research.",
+ "top": [
+  {
+   "id": "e60672933fbf",
+   "title": "US Approves Sale of 500 Patriot Missiles to Ukraine",
+   "summary": "Following weeks of complaints from Ukrainian authorities regarding dwindling interceptor supplies, the US administration has approved a potential sale of 500 Patriot missiles, sending the measure to Congress for review.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "World",
+   "published": "2026-10-31T15:48:49Z",
+   "outlet_count": 3,
+   "sources": [
+    {
+     "outlet": "BBC News: World",
+     "title": "US approves sale of 500 Patriot missiles to Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+     "official": false
+    },
+    {
+     "outlet": "Washington Examiner",
+     "title": "US greenlights sale of 500 Patriot missiles to Ukraine after alleged delivery delays",
+     "url": "https://www.washingtonexaminer.com/policy/defense/4787040/us-greenlight-sale-500-patriot-missile-ukraine/",
+     "official": false
+    },
+    {
+     "outlet": "The Hindu: International",
+     "title": "Trump admin approves potential Patriot missiles sale to Ukraine",
+     "url": "https://www.thehindu.com/news/international/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/article71650369.ece",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "d91f30b11205",
+   "title": "US Embassy in Moscow Warns of Credible Mass Casualty Threat",
+   "summary": "The US Embassy in Moscow issued a security alert warning of a credible threat of a mass casualty incident in the Russian capital, while Russia's Federal Security Service stated it had also received related information.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Europe",
+   "published": "2026-10-31T15:45:40Z",
+   "outlet_count": 3,
+   "sources": [
+    {
+     "outlet": "Ukrainska Pravda (Ukraine)",
+     "title": "US Embassy warns of threat of mass casualty event in Moscow",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/31/8060650/",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg: Politics",
+     "title": "US Embassy Warns of Mass Casualty Threat at Moscow Museum",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-embassy-warns-of-mass-casualty-threat-at-moscow-museum",
+     "official": false
+    },
+    {
+     "outlet": "SVT Nyheter (Sweden)",
+     "title": "US Embassy in Moscow warns of potential violence",
+     "url": "https://www.svt.se/nyheter/utrikes/usas-ambassad-i-moskva-varnar-for-valdsdad",
+     "official": false,
+     "translated_from": "sv",
+     "original_title": "USA:s ambassad i Moskva varnar för våldsdåd"
+    }
+   ]
+  },
+  {
+   "id": "81bb56097f37",
+   "title": "Iran's Supreme Leader Warns US and Israel Against New Attacks",
+   "summary": "Iran’s supreme leader Mojtaba Khamenei warned the United States and Israel against returning to war following recent threats of a possible resumption of hostilities.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "World",
+   "published": "2026-10-31T14:16:26Z",
+   "outlet_count": 5,
+   "sources": [
+    {
+     "outlet": "The Straits Times: World",
+     "title": "Fresh US strikes will unleash ‘geographically unrestricted response’, Iran’s supreme leader warns",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-warns-fresh-us-strikes-would-unleash-flames-of-war-far-beyond-current-conflict",
+     "official": false
+    },
+    {
+     "outlet": "RTÉ News (Ireland)",
+     "title": "Iran's supreme leader warns US against resuming attacks",
+     "url": "https://www.rte.ie/news/middle-east/2026/1031/1597457-iran-middle-east/",
+     "official": false
+    },
+    {
+     "outlet": "CNA: World (Singapore)",
+     "title": "Iran's supreme leader warns US, Israel against new attacks",
+     "url": "https://www.channelnewsasia.com/world/iran-supreme-leader-warn-us-israel-new-attacks-6509621",
+     "official": false
+    },
+    {
+     "outlet": "The Hindu: International",
+     "title": "Iran’s Supreme Leader warns U.S., Israel against new attacks",
+     "url": "https://www.thehindu.com/news/international/irans-supreme-leader-warns-us-israel-against-new-attacks/article71649244.ece",
+     "official": false
+    },
+    {
+     "outlet": "South China Morning Post",
+     "title": "Iran’s supreme leader warns US, Israel against war",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "836c9726308f",
+   "title": "Judge Temporarily Blocks Trump Administration from Threatening Election Officials",
+   "summary": "A federal judge has temporarily barred the government from using various methods to pressure or threaten election officials ahead of the upcoming midterms.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "US",
+   "published": "2026-10-31T14:57:22Z",
+   "outlet_count": 4,
+   "sources": [
+    {
+     "outlet": "NBC News",
+     "title": "Judge orders Trump administration to stop threatening election officials",
+     "url": "https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659",
+     "official": false
+    },
+    {
+     "outlet": "The Straits Times: World",
+     "title": "US judge orders Trump administration to cease threats to prosecute election officials",
+     "url": "https://www.straitstimes.com/world/united-states/judge-orders-trump-administration-to-cease-threats-to-prosecute-election-officials",
+     "official": false
+    },
+    {
+     "outlet": "The Daily Beast",
+     "title": "Judge Humiliates Rabid Trump Goons Threatening Election Officials",
+     "url": "https://www.thedailybeast.com/judge-smacks-down-trump-goons-threat-to-election-officials",
+     "official": false
+    },
+    {
+     "outlet": "Newsweek",
+     "title": "Trump DOJ Blocked Nationwide From Threatening Election Officials",
+     "url": "https://www.newsweek.com/trump-doj-blocked-nationwide-from-threatening-election-officials-12644511",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "2fd226f7041c",
+   "title": "Thousands Protest Across France and Germany Over Cost of Living",
+   "summary": "Demonstrators, primarily young people, flooded streets across France and Germany for weekend protests addressing the high cost of living and education issues.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "Europe",
+   "published": "2026-10-31T15:38:58Z",
+   "outlet_count": 8,
+   "sources": [
+    {
+     "outlet": "France 24: Europe",
+     "title": "Third weekend of protests looms as tensions persist across France",
+     "url": "https://www.france24.com/en/video/20261030-third-weekend-of-protests-looms-as-tensions-persist-across-france",
+     "official": false
+    },
+    {
+     "outlet": "ORF News (Austria)",
+     "title": "Nationwide protests expected again in France",
+     "url": "https://orf.at/stories/3446658/",
+     "official": false,
+     "translated_from": "de",
+     "original_title": "Erneut landesweite Proteste in Frankreich erwartet"
+    },
+    {
+     "outlet": "New York Times: World",
+     "title": "Why Are There Protests in France?",
+     "url": "https://www.nytimes.com/article/france-student-protests-why.html",
+     "official": false
+    },
+    {
+     "outlet": "CBC News: World",
+     "title": "France braces for 3rd weekend of discord as youth-led protests spread across Europe",
+     "url": "https://www.cbc.ca/news/world/france-student-protests-europe-9.7404105?cmp=rss",
+     "official": false
+    },
+    {
+     "outlet": "The Hindu: International",
+     "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
+     "url": "https://www.thehindu.com/news/international/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/article71649225.ece",
+     "official": false
+    },
+    {
+     "outlet": "Tagesschau (Germany)",
+     "title": "Claudia Kornmeier, ARD Paris, on announced protests in France",
+     "url": "https://www.tagesschau.de/video/video-1675690.html",
+     "official": false,
+     "translated_from": "de",
+     "original_title": "Claudia Kornmeier, ARD Paris, zu Protestankündigungen in Frankreich"
+    },
+    {
+     "outlet": "ORF News (Austria)",
+     "title": "Arrests in France ahead of renewed protests",
+     "url": "https://orf.at/stories/3446705/",
+     "official": false,
+     "translated_from": "de",
+     "original_title": "Festnahmen in Frankreich vor neuerlichen Demos"
+    },
+    {
+     "outlet": "The Guardian: World",
+     "title": "Protests under way in Germany and France as minister warns against use of Halloween masks",
+     "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+     "official": false
+    },
+    {
+     "outlet": "ERT News (Greece)",
+     "title": "France on edge: Third wave of protests, fears of clashes – Paris and other major cities on high alert",
+     "url": "https://www.ertnews.gr/roi-idiseon/epi-podos-i-gallia-trito-kyma-diadiloseon-fovoi-gia-epeisodia-astakos-to-parisi-kai-alles-megales-poleis/",
+     "official": false,
+     "translated_from": "el",
+     "original_title": "Επί ποδός η Γαλλία: Τρίτο κύμα διαδηλώσεων, φόβοι για επεισόδια – «Αστακός» το Παρίσι και άλλες μεγάλες πόλεις"
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "d845a5f34a86",
+     "title": "Anthropic Updates Claude to Prevent Game Cloning",
+     "summary": "Anthropic updated Claude to steer it away from helping users clone other games, following weeks of Steam being inundated with AI-generated software.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-31T15:23:04Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "PC Gamer",
+       "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+       "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "01056a795a9a",
+     "title": "Anthropic Research Shows Harmless-Looking Data Can Train Models to Subvert Oversight",
+     "summary": "Researchers demonstrated that fictional contexts about beekeeping and wrestling can be used to generate training data that trains smaller AI models to misbehave and deceive users.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-31T15:06:14Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+       "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "0405d08a3c73",
+     "title": "Apple Intelligence Set to Launch in China in Open Beta",
+     "summary": "Chinese iPhone users will soon gain access to Apple Intelligence as it rolls out in an open beta beginning November 4.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Tech",
+     "published": "2026-10-31T12:15:10Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "AppleInsider",
+       "title": "Two years later, Apple Intelligence makes its way to China",
+       "url": "https://appleinsider.com/articles/26/10/31/two-years-later-apple-intelligence-makes-its-way-to-china?utm_source=rss",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f3221851b16e",
+     "title": "Apple Maps Begins Blurring Sensitive Military and Space Bases",
+     "summary": "A recent change to Apple Maps has introduced blurring over historic NASA launch pads, Space Force sites, and local Air Force bases.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-31T15:42:14Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "9to5Mac",
+       "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
+       "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2120f3d787da",
+     "title": "Synology NAS Owners Urged to Manually Update Due to PHP Vulnerabilities",
+     "summary": "Network storage device owners are advised to take older Synology units offline and apply manual updates immediately following the discovery of PHP vulnerabilities.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-31T14:19:30Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "AppleInsider",
+       "title": "PSA: Manually update your Synology NAS right now",
+       "url": "https://appleinsider.com/articles/26/10/31/psa-manually-update-your-synology-nas-right-now?utm_source=rss",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "1d78de13bdea",
+     "title": "New 'Volta-Autodoxer' Malware Uses AI to Harvest Personal Data",
+     "summary": "A newly uncovered infostealer malware leverages AI tools to collect comprehensive personal and financial data from victims, including login credentials and messaging sessions.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-31T12:00:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wired",
+       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+       "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "65b8d8f4fedf",
+     "title": "Nintendo Drops Surprise Pikmin Day Direct",
+     "summary": "Nintendo hosted an unexpected Pikmin Day Direct showcasing updates for Pikmin 4 and Pikmin Bloom without announcing any entirely new games.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-31T15:21:38Z",
+     "outlet_count": 6,
+     "sources": [
+      {
+       "outlet": "Stephen Totilo",
+       "title": "BREAKING: Nintendo announces a new holiday",
+       "url": "https://bsky.app/profile/stephentotilo.bsky.social/post/3mz6hjg53hs2h",
+       "official": false
+      },
+      {
+       "outlet": "Wario64",
+       "title": "Pikmin Day Direct (no new game announcements) www.youtube.com/watch?v=7-1l...",
+       "url": "https://www.youtube.com/watch?v=7-1lQh551UY",
+       "official": false
+      },
+      {
+       "outlet": "Jeff Grubb",
+       "title": "Finally, a real holiday youtu.be/7-1lQh551UY?...",
+       "url": "https://youtu.be/7-1lQh551UY?is=wVyDxmDDLP2UJLRy",
+       "official": false
+      },
+      {
+       "outlet": "Nintendo Life",
+       "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
+       "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
+       "official": false
+      },
+      {
+       "outlet": "IGN",
+       "title": "Nintendo Reveals Surprise Pikmin Day Direct",
+       "url": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
+       "official": false
+      },
+      {
+       "outlet": "Kotaku",
+       "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
+       "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "39bfc210f2e1",
+     "title": "Final Fantasy XIV Expansion 'Evercold' Delayed to February 2027",
+     "summary": "Square Enix announced that the upcoming Final Fantasy 14 expansion, Evercold, will launch on February 23, 2027, introducing a new physical ranged DPS job named zephyr.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-31T14:39:25Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Kotaku",
+       "title": "Final Fantasy 14 Evercold Gets A Month Long Delay But An Awesome New Trailer",
+       "url": "https://kotaku.com/final-fantasy-14-evercold-gets-a-month-long-delay-but-an-awesome-new-trailer-2000751936",
+       "official": false
+      },
+      {
+       "outlet": "Insider Gaming",
+       "title": "Final Fantasy 14: Evercold Delayed to February 2027",
+       "url": "https://insider-gaming.com/final-fantasy-14-evercold-release-date/",
+       "official": false
+      },
+      {
+       "outlet": "Wario64",
+       "title": "FINAL FANTASY XIV: Evercold preorders begin Nov 4th, 10 AM PT including the Collector’s Box ($255 or $319.99 bundled with expansion) na.finalfantasyxiv.com/evercold/pro...",
+       "url": "https://na.finalfantasyxiv.com/evercold/product/",
+       "official": false
+      },
+      {
+       "outlet": "Eurogamer",
+       "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+       "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c89046039e18",
+     "title": "Victorian-Inspired Open World Game Silver Palace Arrives in December",
+     "summary": "Free-to-play open world game Silver Palace is scheduled for a worldwide release across PS5, PC, and mobile platforms on December 14.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-31T14:30:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Insider Gaming",
+       "title": "Silver Palace Arrives on PS5, PC, and Mobile This December",
+       "url": "https://insider-gaming.com/silver-palace-release-date/",
+       "official": false
+      },
+      {
+       "outlet": "Push Square",
+       "title": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date",
+       "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "193fbcc0fdac",
+     "title": "Silent Hill: Townfall Update Adds Hard Difficulty Mode",
+     "summary": "Silent Hill: Townfall received an update introducing a new Hard difficulty mode alongside a complete rebalancing of existing game settings.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-31T13:53:19Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Eurogamer",
+       "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
+       "url": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": [
+    {
+     "id": "3a1c7c6935dd",
+     "title": "Washington, D.C. and Virginia Sue to Block Proposed Triumphal Arch",
+     "summary": "Washington, D.C., and Virginia filed a lawsuit to stop President Donald Trump from constructing a 250-foot triumphal arch between the Lincoln Memorial and Arlington National Cemetery.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-10-31T15:24:04Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "Newsweek",
+       "title": "DC, Virginia Sue to Block Trump’s 250-Foot Arch After Judge Questions Plan",
+       "url": "https://www.newsweek.com/donald-trump-arch-dc-virginia-lawsuit-arlington-12644715",
+       "official": false
+      },
+      {
+       "outlet": "The Hill",
+       "title": "DC, Virginia sue to block Trump's triumphal arch",
+       "url": "https://thehill.com/homenews/administration/6186090-trump-triumphal-arch-lawsuit/",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "D.C. and Virginia sue to stop Trump's massive arch days before construction",
+       "url": "https://washingtonpost.com/dc-md-va/2026/10/31/dc-virginia-sue-block-trumps-proposed-triumphal-arch/",
+       "official": false
+      },
+      {
+       "outlet": "Axios",
+       "title": "D.C., Virginia sue to block Trump's 250-foot arch",
+       "url": "https://www.axios.com/2026/10/31/trump-arch-dc-virginia",
+       "official": false
+      },
+      {
+       "outlet": "Washington Examiner",
+       "title": "DC and Virginia sue to block Trump’s Triumphal Arch in latest legal challenge",
+       "url": "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "8e834b3946bd",
+     "title": "Shooting at California Spirit Halloween Store Leaves One Dead and Six Injured",
+     "summary": "A shooting incident at a Spirit Halloween store in Fairfield, California, resulted in one fatality and six injuries, with police reporting no suspects detained yet.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-10-31T14:01:29Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Just the News",
+       "title": "Shooting at Spirit Halloween store in California leaves one dead, six injured",
+       "url": "https://justthenews.com/government/local/shooting-spirit-halloween-store-california-leaves-one-dead-six-injured?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "1 dead and 6 injured in shooting at California Spirit Halloween store",
+       "url": "https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/",
+       "official": false
+      },
+      {
+       "outlet": "Straight Arrow News",
+       "title": "1 dead, six injured in shooting at Fairfield, California Spirit Halloween store",
+       "url": "https://san.com/cc/1-dead-six-injured-in-shooting-at-fairfield-california-spirit-halloween-store/",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "744cfc0171d1",
+     "title": "Evacuees from Russian-Occupied Oleshky Arrive Back in Ukrainian Territory",
+     "summary": "Ukrainian President Volodymyr Zelenskyy confirmed that residents evacuated from the Russian-occupied southern city of Oleshky have successfully reached Ukrainian-controlled territory following a localized ceasefire.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-31T15:26:12Z",
+     "outlet_count": 11,
+     "sources": [
+      {
+       "outlet": "Euronews",
+       "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine amid localised truce between Kyiv and Moscow",
+       "url": "https://www.euronews.com/2026/10/31/oleshky-evacuees-arrive-in-belarus-amid-localised-truce-between-kyiv-and-moscow",
+       "official": false
+      },
+      {
+       "outlet": "CBC News: World",
+       "title": "Civilians evacuated from Russian-occupied Oleshky arrive in Ukraine-held territory",
+       "url": "https://www.cbc.ca/news/world/evacuees-oleshky-belarus-ukraine-9.7404117?cmp=rss",
+       "official": false
+      },
+      {
+       "outlet": "Ukrainska Pravda (Ukraine)",
+       "title": "Evacuees from Oleshky have arrived in Ukraine, says Zelenskyy",
+       "url": "https://www.pravda.com.ua/eng/news/2026/10/31/8060632/",
+       "official": false
+      },
+      {
+       "outlet": "The Kyiv Independent (Ukraine)",
+       "title": "Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+       "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
+       "official": false
+      },
+      {
+       "outlet": "El País (Spain)",
+       "title": "Evacuees from occupied Oleshky return to Ukrainian-controlled territory",
+       "url": "https://elpais.com/internacional/2026-10-31/los-evacuados-de-la-ocupada-olsehki-regresan-a-territorio-controlado-por-ucrania.html",
+       "official": false,
+       "translated_from": "es",
+       "original_title": "Los evacuados de la ocupada Olsehki regresan a territorio controlado por Ucrania"
+      },
+      {
+       "outlet": "TheJournal.ie (Ireland)",
+       "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine under Trump-brokered deal",
+       "url": "https://www.thejournal.ie/oleshky-evacuation-ukraine-7210963-Oct2026/",
+       "official": false
+      },
+      {
+       "outlet": "franceinfo (France)",
+       "title": "Residents evacuated from Russian-occupied Oleshky arrive in Ukraine",
+       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-habitants-evacues-d-olechky-ville-occupee-par-la-russie-sont-arrives-en-ukraine_8261879.html#xtor=RSS-3-[lestitres]",
+       "official": false,
+       "translated_from": "fr",
+       "original_title": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine"
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Residents evacuated from Russian-occupied Oleshky reach Ukraine after localized ceasefire",
+       "url": "https://www.pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Residents evacuated from Russia-occupied city back in Ukraine",
+       "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-arrive-ukraine-temporary-us-brokered-ceasefire/",
+       "official": false
+      },
+      {
+       "outlet": "Tagesschau (Germany)",
+       "title": "Residents of Oleshky arrive in Ukrainian-controlled territory",
+       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
+       "official": false,
+       "translated_from": "de",
+       "original_title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen"
+      },
+      {
+       "outlet": "ORF News (Austria)",
+       "title": "Oleshky evacuees arrive in Ukraine",
+       "url": "https://orf.at/stories/3446701/",
+       "official": false,
+       "translated_from": "de",
+       "original_title": "Oleschky-Gerettete in Ukraine angekommen"
+      }
+     ]
+    },
+    {
+     "id": "bab89b185a83",
+     "title": "UK Prime Minister Burnham Open to Slavery Apology But Rules Out Financial Reparations",
+     "summary": "UK Prime Minister Andy Burnham stated he is open to a formal apology for Britain's historical slave trade, while explicitly ruling out financial reparations.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-31T14:06:18Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "South China Morning Post",
+       "title": "UK PM Burnham ‘open’ to slavery apology, but not reparations",
+       "url": "https://www.scmp.com/news/world/europe/article/3372842/uk-pm-burnham-open-slavery-apology-not-reparations",
+       "official": false
+      },
+      {
+       "outlet": "France 24: Europe",
+       "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+       "url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
+       "official": false
+      },
+      {
+       "outlet": "Politico Europe",
+       "title": "Burnham ‘open’ to formal apology for Britain’s slave trade",
+       "url": "https://www.politico.eu/article/andy-burnham-open-to-formal-apology-for-britain-slave-trade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "official": false
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Burnham opens door to formal apology for Britain’s slave trade",
+       "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+       "official": false
+      },
+      {
+       "outlet": "The Hindu: International",
+       "title": "Britain open to apologising for slavery, says U.K. PM Andy Burnham",
+       "url": "https://www.thehindu.com/news/international/britain-open-to-apologising-for-slavery-says-andy-burnham/article71649276.ece",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "24df481e7341",
+     "title": "DR Congo Ebola Deaths Top 5,000 as Outbreak Spreads",
+     "summary": "Death toll from the Democratic Republic of Congo's Ebola outbreak surpassed 5,000, with additional cases appearing in other African nations.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-31T15:14:49Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "ORF News (Austria)",
+       "title": "Over 5,000 Ebola deaths in the DR Congo",
+       "url": "https://orf.at/stories/3446663/",
+       "official": false,
+       "translated_from": "de",
+       "original_title": "Schon mehr als 5.000 Ebola-Tote in DR Kongo"
+      },
+      {
+       "outlet": "South China Morning Post",
+       "title": "DR Congo Ebola deaths top 5,000, cases recorded in other African nations",
+       "url": "https://www.scmp.com/news/world/africa/article/3372849/dr-congo-ebola-deaths-top-5000-cases-recorded-other-african-nations",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "b747376dd2be",
+     "title": "Spanish Village Gathers for Memorial Mass as Train Crash Death Toll Reaches 69",
+     "summary": "Communities gathered for memorial services in Spain following a devastating rail disaster that left 69 dead, as investigators continue working to identify victims and determine the cause.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-31T15:39:35Z",
+     "outlet_count": 6,
+     "sources": [
+      {
+       "outlet": "ORF News (Austria)",
+       "title": "Train crash in Spain: Half of fatalities identified",
+       "url": "https://orf.at/stories/3446693/",
+       "official": false,
+       "translated_from": "de",
+       "original_title": "Zugsunglück in Spanien: Hälfte der Todesopfer identifiziert"
+      },
+      {
+       "outlet": "The Straits Times: World",
+       "title": "Spanish village gathers for memorial Mass for train crash victims",
+       "url": "https://www.straitstimes.com/world/europe/spanish-village-gathers-for-memorial-mass-for-train-crash-victims",
+       "official": false
+      },
+      {
+       "outlet": "Der Spiegel (Germany)",
+       "title": "Spain: Only about half of train crash fatalities identified",
+       "url": "https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert-a-1171f256-6cbe-47f9-93f7-653085f9cb69#ref=rss",
+       "official": false,
+       "translated_from": "de",
+       "original_title": "Spanien: Erst gut die Hälfte der Todesopfer des Zugunglücks identifiziert"
+      },
+      {
+       "outlet": "CNA: World (Singapore)",
+       "title": "Spanish village gathers for memorial Mass for train crash victims",
+       "url": "https://www.channelnewsasia.com/world/spain-train-crash-victim-memorial-mass-6509721",
+       "official": false
+      },
+      {
+       "outlet": "Le Monde (France)",
+       "title": "Train collision in Spain: A French national among the 69 dead, Foreign Ministry expresses \"profound emotion\"",
+       "url": "https://www.lemonde.fr/international/article/2026/10/31/collision-de-trains-en-espagne-une-francaise-parmi-les-69-morts-le-ministere-des-affaires-etrangeres-dit-sa-tres-vive-emotion_6803714_3210.html",
+       "official": false,
+       "translated_from": "fr",
+       "original_title": "Collision de trains en Espagne : une Française parmi les 69 morts, le ministère des affaires étrangères dit sa « très vive émotion »"
+      },
+      {
+       "outlet": "franceinfo (France)",
+       "title": "French national among victims of train collision in Spain that left 69 dead, Foreign Ministry announces",
+       "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-francaise-figure-parmi-les-victimes-de-la-collision-de-trains-en-espagne-qui-a-fait-69-morts-annonce-le-ministere-des-affaires-etrangeres_8261951.html#xtor=RSS-3-[lestitres]",
+       "official": false,
+       "translated_from": "fr",
+       "original_title": "Une Française figure parmi les victimes de la collision de trains en Espagne qui a fait 69 morts, annonce le ministère des Affaires étrangères"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "b67513ef192a",
+     "title": "Japan Launches Departure Tax-Free Refund System to Curb Reselling",
+     "summary": "Japan has implemented a new tax-free refund system upon departure designed to crack down on illegal commercial reselling.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-10-31T15:00:14Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Mainichi Shimbun (Japanese)",
+       "title": "Tax-free refund system upon departure launched on the 1st to combat illegal reselling",
+       "url": "https://mainichi.jp/articles/20261030/k00/00m/020/278000c",
+       "official": false,
+       "translated_from": "ja",
+       "original_title": "出国時に返金、免税「リファンド方式」 1日開始 不正転売対策"
+      }
+     ]
+    },
+    {
+     "id": "b79e4fd2ee08",
+     "title": "Club Tourism Suffers Suspected Data Breach Affecting Millions of Records",
+     "summary": "Travel agency Club Tourism is reportedly facing a suspected leak of approximately 4.32 million personal data records following unauthorized network access.",
+     "importance": 3,
+     "label": "RUMOR-UNVERIFIED",
+     "category": "Japan",
+     "published": "2026-10-31T13:25:09Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Asahi Shimbun (Japanese)",
+       "title": "Club Tourism suffers suspected leak of approximately 4.32 million personal data records following unauthorized access",
+       "url": "http://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html?ref=rss",
+       "official": false,
+       "translated_from": "ja",
+       "original_title": "クラブツーリズムで約432万件の個人情報が漏れたか 不正アクセス"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "28254d074a58",
+     "title": "South Korea, US, and Japan Reaffirm Denuclearization Commitment",
+     "summary": "Top diplomats from South Korea, the United States, and Japan reaffirmed their resolute commitment to achieving North Korea's complete denuclearization during recent talks.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-31T03:02:47Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Yonhap News",
+       "title": "(URGENT) S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
+       "url": "https://en.yna.co.kr/view/AEN20261031000500315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
+       "url": "https://en.yna.co.kr/view/AEN20261031000551315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "(LEAD) S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
+       "url": "https://en.yna.co.kr/view/AEN20261031000552315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "(2nd LD) S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
+       "url": "https://en.yna.co.kr/view/AEN20261031000553315",
+       "official": false
+      },
+      {
+       "outlet": "KBS World",
+       "title": "S. Korea, US, Japan Reaffirm Commitment to N. Korea's Complete Denuclearization",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205251",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b7a83f7b9502",
+     "title": "KBO Requests MLB Posting for Infield Slugger Noh Si-hwan",
+     "summary": "The Korea Baseball Organization formally requested that Major League Baseball post Hanwha Eagles infielder Noh Si-hwan to all 30 MLB clubs.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-31T15:24:58Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Yonhap News",
+       "title": "KBO asks MLB to post All-Star slugger Roh Si-hwan",
+       "url": "https://en.yna.co.kr/view/AEN20261031003000315",
+       "official": false
+      },
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "'Everyone surprised by Noh Si-hwan's MLB posting application' Foreign media also stunned: 'The Korean national team slugger...'",
+       "url": "https://www.chosun.com/sports/baseball/2026/11/01/GM4GCYLBMQ2DAZRUMU4TEZTDMI/",
+       "official": false,
+       "translated_from": "ko",
+       "original_title": "'모두가 놀란 노시환 ML 포스팅 신청' 해외 언론도 깜짝 \"한국 국대 거포가…\""
+      }
+     ]
+    },
+    {
+     "id": "cc4211af1e21",
+     "title": "Tens of Thousands Gather in Seoul for Halloween Festivities",
+     "summary": "Crowds totaling up to 125,000 people gathered in Seoul's Hongdae district and 30,000 in Itaewon for weekend Halloween celebrations.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-31T13:54:06Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Yonhap News",
+       "title": "(LEAD) Up to 125,000 gather in Seoul's Hongdae area on Halloween; 30,000 in Itaewon: data",
+       "url": "https://en.yna.co.kr/view/AEN20261031002951320",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "008ce375e96b",
+     "title": "Apple Watch Ultra 4 Drops to All-Time Low of $699.99 on Amazon",
+     "summary": "Amazon has discounted the newly released Apple Watch Ultra 4 by $99, matching its lowest recorded price.",
+     "importance": 3,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T15:54:52Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
+       "url": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "0551e7f65016",
+     "title": "M5 MacBook Pro 14-Inch Cleared Out at Record Low $1,349.99",
+     "summary": "Amazon is clearing remaining inventory of the 14-inch M5 MacBook Pro, marking a new record low price.",
+     "importance": 3,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T14:40:03Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "AppleInsider",
+       "title": "Apple's M5 MacBook Pro plunges to $1,349, lowest price on record",
+       "url": "https://appleinsider.com/articles/26/10/31/apples-m5-macbook-pro-plunges-to-1349-lowest-price-on-record?utm_source=rss",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c425a18e7b9e",
+     "title": "ASUS ROG Ally Handheld Drops to $376.35 on Woot",
+     "summary": "Woot has new open-box ASUS ROG Ally 7-inch gaming handhelds with Ryzen Z1 Extreme processors on sale for $376.35.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T15:01:03Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "ASUS ROG Ally 7\" 120Hz FHD 1080p Gaming Handheld Touchscreen AMD Ryzen Z1 Extreme 16GB RAM 512GB White (new open box) $376.35 on Woot buff.ly/YN7piui #ad",
+       "url": "https://buff.ly/YN7piui",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "ed29b72fc935",
+     "title": "Save on PlayStation and Nintendo eShop Gift Cards via Newegg",
+     "summary": "Newegg is offering discounted gift cards, including a $150 PlayStation Store code for $125.80 and a $100 Nintendo eShop code for $90 using promotional codes.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T14:11:19Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Nintendo eShop $100 Gift Card Code is $90 on Newegg DOTD w/ code GTWF973 buff.ly/SGL0snK #ad eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.) Wallet limit is $800",
+       "url": "https://buff.ly/SGL0snK",
+       "official": false
+      },
+      {
+       "outlet": "Wario64",
+       "title": "Sony PlayStation Store $150 Gift Card Code is $125.80 on Newegg w/ code GTWF2796 buff.ly/h9OshXl #ad",
+       "url": "https://buff.ly/h9OshXl",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "68c5d819c5c4",
+     "title": "Govee Christmas Smart String Lights Discounted by 25 Percent",
+     "summary": "Wired-tested Govee Christmas Lights 2 smart string lights are currently discounted by $25 for indoor or outdoor holiday decorating.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T11:00:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wired",
+       "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+       "url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "023aca4cf5f1",
+     "title": "Pikmin 4 Digital Switch Code Available for $39.88",
+     "summary": "Walmart has dropped the price of digital Pikmin 4 for Nintendo Switch down to $39.88.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T14:44:18Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Pikmin 4 (Switch Digital) is $39.88 at Walmart buff.ly/UfqlNXw #ad Switch 2 upgrade pack is $9.99",
+       "url": "https://buff.ly/UfqlNXw",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T15:59:21Z",
+ "mode": "ai",
+ "model": "gemini-3.5-flash-lite",
+ "stats": {
+  "items": 668,
+  "clusters": 595,
+  "feeds_ok": 175,
+  "feeds_failed": 1
+ },
+ "feed_health": [
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "wapo-politics",
+   "title": "The Washington Post: Politics",
+   "status": "error",
+   "detail": "HTTPError: 502 Server Error: Bad Gateway for url: https://feeds.washingtonpost.com/rss/politics"
+  },
+  {
+   "key": "corriere",
+   "title": "Corriere della Sera (Italy)",
+   "status": "stale",
+   "detail": "no new items since 2024-05-13"
+  },
+  {
+   "key": "nhk",
+   "title": "NHK News (Japanese)",
+   "status": "stale",
+   "detail": "no new items since 2026-08-08"
+  },
+  {
+   "key": "dring",
+   "title": "Christopher Dring",
+   "status": "stale",
+   "detail": "no new items since 2026-10-13"
+  }
+ ]
+}

@@ -1,0 +1,1116 @@
+{
+ "version": 1,
+ "headline": "Tech and world events shape today's brief, highlighted by major Apple manufacturing expansions, a massive Google Cloud outage hitting European banks, and escalating geopolitical tensions.",
+ "top": [
+  {
+   "id": "80dab6a33382",
+   "title": "Google Cloud Outage Disrupts European Banks and Services",
+   "summary": "A power outage at a Google Cloud data centre in London caused widespread network disruptions for platforms like Revolut and several European banks. Google reported that the issue has since been mitigated for most customers.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Tech",
+   "published": "2026-10-20T12:56:28Z",
+   "outlet_count": 3,
+   "sources": [
+    {
+     "outlet": "Hacker News (100+ points)",
+     "title": "Google cloud outage takes down banks",
+     "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+     "official": false
+    },
+    {
+     "outlet": "Techmeme",
+     "title": "Google says Cloud services in its London region are recovering after a \"power event\" caused a multi-hour outage that affected Revolut and several European banks (Bloomberg)",
+     "url": "https://www.techmeme.com/261020/p13#a261020p13",
+     "official": false
+    },
+    {
+     "outlet": "Euronews",
+     "title": "Power outage hits Google Cloud services disrupting UK banks",
+     "url": "https://www.euronews.com/2026/10/20/power-outage-hits-google-cloud-services-disrupting-uk-banks",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "039566ad67a8",
+   "title": "Apple Expands U.S. Manufacturing for iPhone 18 Pro and Mac Mini",
+   "summary": "Apple has announced new and expanded partnerships with U.S. companies to manufacture components, titanium enclosures, and camera tech for the iPhone 18 Pro and iPhone Duo, alongside plans to begin domestic Mac mini assembly later this year.",
+   "importance": 5,
+   "label": "CONFIRMED",
+   "category": "Tech",
+   "published": "2026-10-20T14:42:22Z",
+   "outlet_count": 4,
+   "sources": [
+    {
+     "outlet": "Techmeme",
+     "title": "Apple commits up to $100M over three years to Pennsylvania-based Perryman Company, a titanium supplier for the iPhone Duo, and expands its Qnity partnership (MacKenzie Sigalos/CNBC)",
+     "url": "https://www.techmeme.com/261020/p18#a261020p18",
+     "official": false
+    },
+    {
+     "outlet": "9to5Mac",
+     "title": "Apple says American suppliers make almost 100 parts for iPhone 18 Pro and iPhone Duo",
+     "url": "https://9to5mac.com/2026/10/20/apple-says-american-suppliers-make-almost-100-parts-for-iphone-18-pro-and-iphone-duo/",
+     "official": false
+    },
+    {
+     "outlet": "AppleInsider",
+     "title": "iPhone camera and titanium chassis manufacturing expands in US",
+     "url": "https://appleinsider.com/articles/26/10/20/iphone-camera-and-titanium-chassis-manufacturing-expands-in-us?utm_source=rss",
+     "official": false
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Says Nearly 100 iPhone Duo and iPhone 18 Pro Parts Made in USA",
+     "url": "https://www.macrumors.com/2026/10/20/apple-touts-iphone-duo-18-pro-parts-made-in-usa/",
+     "official": false
+    },
+    {
+     "outlet": "9to5Mac",
+     "title": "Apple now selling repair parts for iPhone 18 Pro, latest Mac Studio and Mac mini models",
+     "url": "https://9to5mac.com/2026/10/20/apple-now-selling-repair-parts-for-iphone-18-pro-latest-mac-studio-and-mac-mini-models/",
+     "official": false
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Says Mac Mini Assembly in U.S. to Begin Later This Year",
+     "url": "https://www.macrumors.com/2026/10/20/mac-mini-assembly-in-us-later-this-year/",
+     "official": false
+    },
+    {
+     "outlet": "AppleInsider",
+     "title": "Repair parts for iPhone 18 Pro, M6 Mac mini, Mac Studio are now available",
+     "url": "https://appleinsider.com/articles/26/10/20/repair-parts-for-iphone-18-pro-m6-mac-mini-mac-studio-are-now-available?utm_source=rss",
+     "official": false
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
+     "url": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "1eb0bd0a7879",
+   "title": "Defense Secretary Pete Hegseth Makes Unannounced Visit to Israel",
+   "summary": "U.S. Defense Secretary Pete Hegseth traveled to Israel for unannounced talks with Prime Minister Benjamin Netanyahu and defense officials regarding Iran, occurring just a week ahead of a pivotal election.",
+   "importance": 4,
+   "label": "RUMOR-CREDIBLE",
+   "category": "US",
+   "published": "2026-10-20T15:21:16Z",
+   "outlet_count": 4,
+   "sources": [
+    {
+     "outlet": "HuffPost: Politics",
+     "title": "Hegseth Meets Netanyahu In Unannounced Visit To Israel, Axios Reports",
+     "url": "https://www.huffpost.com/entry/hegseth-meet-netanyahu-unannounced-visit-israel-axios-reports_n_6ad69f23e4b05354557f953f",
+     "official": false
+    },
+    {
+     "outlet": "Straight Arrow News",
+     "title": "Hegseth makes unannounced visit to Israel, meets with Netanyahu ahead of election: Reports",
+     "url": "https://san.com/cc/hegseth-makes-unannounced-visit-to-israel-meets-with-netanyahu-ahead-of-election-reports/",
+     "official": false
+    },
+    {
+     "outlet": "Yahoo News",
+     "title": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say",
+     "url": "https://www.yahoo.com/news/politics/articles/hegseth-meets-netanyahu-unannounced-visit-224727487.html",
+     "official": false
+    },
+    {
+     "outlet": "New York Times: World",
+     "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+     "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "a77238f6d60b",
+   "title": "Japan Launches Unprecedented Mission to Mars' Moons",
+   "summary": "A Japanese spacecraft has successfully launched on a historic mission to explore the mysterious moons of Mars and return soil samples back to Earth.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "World",
+   "published": "2026-10-20T12:42:21Z",
+   "outlet_count": 2,
+   "sources": [
+    {
+     "outlet": "PBS NewsHour",
+     "title": "Japan launches spacecraft to Mars' moon in mission to bring back soil samples",
+     "url": "https://www.pbs.org/newshour/science/japan-launches-spacecraft-to-mars-moon-in-mission-to-bring-back-soil-samples",
+     "official": false
+    },
+    {
+     "outlet": "CBC News: World",
+     "title": "Japan launches spacecraft to mysterious moons of Mars",
+     "url": "https://www.cbc.ca/news/science/japan-phobos-mission-9.7388022?cmp=rss",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "5b6885c6efbc",
+   "title": "Spotify Removes Over 50 Million AI Slop and Spam Tracks",
+   "summary": "Spotify announced that it has pulled more than 50 million AI-generated slop and spam tracks from user recommendation feeds over the past year.",
+   "importance": 4,
+   "label": "CONFIRMED",
+   "category": "Tech",
+   "published": "2026-10-20T14:18:37Z",
+   "outlet_count": 1,
+   "sources": [
+    {
+     "outlet": "The Verge",
+     "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+     "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+     "official": false
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "59252d156fbe",
+     "title": "Army Cyber Command Developing Self-Spreading AI Cyberweapons",
+     "summary": "Internal documents reveal that the U.S. Army Cyber Command is developing a program codenamed ECHOTRIBBLE, featuring AI agents designed to propagate like computer worms to neutralize network targets.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-20T12:32:56Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+       "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9e8beb00c177",
+     "title": "OpenAI Models Gain Enhanced Capabilities for Migrating COBOL Systems",
+     "summary": "OpenAI announced that its models now feature improved native capabilities to help banks migrate legacy COBOL software to modern architectures.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "AI",
+     "published": "2026-10-20T12:01:59Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Engadget",
+       "title": "OpenAI says its models can help banks migrate from old COBOL programs",
+       "url": "https://www.engadget.com/2291457/openai-says-its-models-can-translate-cobol/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "46760e6e2892",
+     "title": "Perplexity Adds Local-First Mode to Mac App for Offline Tasks",
+     "summary": "Perplexity is updating its Mac app with a local-first mode that allows its computer agent to execute tasks entirely on-device without requiring an active internet connection.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-20T15:00:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "9to5Mac",
+       "title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
+       "url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "add383da2fc0",
+     "title": "Meta Muse Exposes Personal and Business Secrets in Shared Conversations",
+     "summary": "A security vulnerability in Meta Muse allows users to uncover thousands of private conversations simply by executing a single query on titles listed publicly.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-20T12:33:13Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Ars Technica",
+       "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "996935b35f41",
+     "title": "Apple TV 4K Gains 'Whole Room Audio' Supporting Four HomePods",
+     "summary": "The newly announced fourth-generation Apple TV 4K can connect to up to four HomePods arranged in a surround configuration to build an all-Apple home theater audio setup.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Tech",
+     "published": "2026-10-20T14:49:32Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
+       "url": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "00cf3e8dd8c0",
+     "title": "TikTok Executives Ignored Internal Warnings Regarding Child Safety Issues",
+     "summary": "Newly unsealed court documents show that TikTok employees raised alarms with executives regarding child safety risks and exposure on Live features, but leadership allegedly failed to act.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-20T15:03:41Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+       "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+       "official": false
+      },
+      {
+       "outlet": "Techmeme",
+       "title": "TikTok staff depositions: TikTok executives ignored internal warnings over child sexual exploitation on Live, where staff said minors appeared in livestreams (Katie McQue/NPR)",
+       "url": "https://www.techmeme.com/261020/p24#a261020p24",
+       "official": false
+      },
+      {
+       "outlet": "TechCrunch",
+       "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+       "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "61b1adcf0170",
+     "title": "Salesforce Agrees to Acquire Marketing Platform Braze for Nearly $5.7B",
+     "summary": "Salesforce has agreed to buy AI-powered marketing platform Braze at $47.50 per share in an enterprise deal valued at nearly $5.7 billion, slated to close in February 2027.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Tech",
+     "published": "2026-10-20T12:35:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Techmeme",
+       "title": "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)",
+       "url": "https://www.techmeme.com/261020/p20#a261020p20",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "4922bfa72a89",
+     "title": "Adobe Lightroom Mobile Adds One-Tap AI Eye-Opening Feature",
+     "summary": "Adobe updated Lightroom mobile for iOS, iPadOS, and Android to feature a generative AI tool that automatically opens closed eyes in portrait photographs with a single tap.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Tech",
+     "published": "2026-10-20T13:06:44Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+       "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f742d94e8927",
+     "title": "Spotify Launches Paid Podcast Memberships Across 34 Markets",
+     "summary": "Spotify has rolled out paid podcast memberships in the US and 33 other markets, letting creators offer perks like bonus content while keeping 90% of revenue.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Tech",
+     "published": "2026-10-20T12:25:01Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+       "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+       "official": false
+      },
+      {
+       "outlet": "Techmeme",
+       "title": "Spotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue (Sarah Perez/TechCrunch)",
+       "url": "https://www.techmeme.com/261020/p19#a261020p19",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c27a621956be",
+     "title": "UK Antitrust Regulator Targets Apple Over NFC Payment Access",
+     "summary": "The UK's competition watchdog is taking aim at Apple's near-monopoly on contactless iPhone payments by pushing for broader third-party access to device NFC functionality.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-20T12:42:27Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Engadget",
+       "title": "UK antitrust regulator wants Apple to open up iPhone NFC access",
+       "url": "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "11023c32a3bd",
+     "title": "CD Projekt RED Announces Surprise Cyberpunk 2077 Update 2.5",
+     "summary": "CD Projekt RED has surprised players with an official announcement for Cyberpunk 2077 Update 2.5, launching alongside the second season of its Edgerunners anime.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-20T15:15:00Z",
+     "outlet_count": 6,
+     "sources": [
+      {
+       "outlet": "Gematsu",
+       "title": "Cyberpunk 2077 version 2.5 update launches October 22",
+       "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-update-launches-october-22",
+       "official": false
+      },
+      {
+       "outlet": "IGN",
+       "title": "Cyberpunk 2077 Gets Surprise Official New Update Announcement From CD Projekt",
+       "url": "https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt",
+       "official": false
+      },
+      {
+       "outlet": "Insider Gaming",
+       "title": "Cyberpunk 2077 Update 2.5 Announced by CD Projekt RED",
+       "url": "https://insider-gaming.com/cyberpunk-2077-update-2-5/",
+       "official": false
+      },
+      {
+       "outlet": "Kotaku",
+       "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
+       "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
+       "official": false
+      },
+      {
+       "outlet": "PC Gamer",
+       "title": "Of course a new Edgerunners series means a new Cyberpunk 2077 patch",
+       "url": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
+       "official": false
+      },
+      {
+       "outlet": "Push Square",
+       "title": "Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here",
+       "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b97107996adc",
+     "title": "Final Fantasy Resonance Launches to High Praise for SNES Era Style",
+     "summary": "Square Enix's Final Fantasy Resonance is arriving later this week on October 22, pulling in highly positive reviews for its cinematic HD-2D visuals and classic turn-based throwback gameplay.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-10-20T15:00:00Z",
+     "outlet_count": 7,
+     "sources": [
+      {
+       "outlet": "PlayStation Blog",
+       "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
+       "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
+       "official": true
+      },
+      {
+       "outlet": "IGN",
+       "title": "Final Fantasy Resonance Review",
+       "url": "https://www.ign.com/articles/final-fantasy-resonance-review",
+       "official": false
+      },
+      {
+       "outlet": "The Verge",
+       "title": "Final Fantasy dips back into the SNES golden era with Resonance",
+       "url": "https://www.theverge.com/games/1013958/final-fantasy-resonance-review",
+       "official": false
+      },
+      {
+       "outlet": "Kotaku",
+       "title": "Final Fantasy Resonance Feels Like Comfort Food, But I Want Cuisine",
+       "url": "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599",
+       "official": false
+      },
+      {
+       "outlet": "Jason Schreier",
+       "title": "Pleased to report that the new game Final Fantasy Resonance is *tremendous*, a must-play for anyone who loves the SNES Final Fantasy games and hopefully the beginning of a new Square strategy to…",
+       "url": "https://bsky.app/profile/jasonschreier.bsky.social/post/3mycoy5uhqs2t",
+       "official": false
+      },
+      {
+       "outlet": "Pure Xbox",
+       "title": "Final Fantasy Resonance Is Launching On Xbox To Extremely Impressive Reviews",
+       "url": "https://www.purexbox.com/news/2026/10/final-fantasy-resonance-is-launching-on-xbox-to-extremely-impressive-reviews",
+       "official": false
+      },
+      {
+       "outlet": "Nintendo Life",
+       "title": "Round Up: The Reviews Are In For Final Fantasy Resonance",
+       "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "97c17be8ed4a",
+     "title": "Helldivers 2 Drops Gameguard for Easy Anti-Cheat After Effectiveness Concerns",
+     "summary": "Arrowhead Game Studios has acknowledged that Gameguard failed to meet expectations, prompting a switch to Easy anti-cheat for Helldivers 2.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-20T13:13:19Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Eurogamer",
+       "title": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
+       "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "aa3d5d26a19b",
+     "title": "Pocketpair Details Next Major Palworld Update 'Side by Side' for Winter",
+     "summary": "Developer Pocketpair has announced that the next major content update for Palworld, titled 'Side by Side', will release this winter.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-20T13:23:41Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Gematsu",
+       "title": "Palworld update ‘Side by Side’ launches this winter",
+       "url": "https://www.gematsu.com/2026/10/palworld-update-side-by-side-launches-this-winter",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9c80f7222141",
+     "title": "Sony Removing GTA 5 and Nine Other Games From PS Plus in November",
+     "summary": "PlayStation Plus is losing 10 titles in its November catalog refresh, notably including Rockstar Games' Grand Theft Auto V.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-20T14:00:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Insider Gaming",
+       "title": "GTA 5 Among 10 Games Leaving PlayStation Plus in November",
+       "url": "https://insider-gaming.com/gta-5-among-10-games-leaving-playstation-plus-in-november/",
+       "official": false
+      },
+      {
+       "outlet": "Push Square",
+       "title": "11 PS Plus Extra Game Removals for November 2026 Confirmed",
+       "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "5481646b899d",
+     "title": "Ys VIII: Lacrimosa of DANA Coming to Nintendo Switch 2 in Early 2027",
+     "summary": "NIS America and Falcom have announced an enhanced Nintendo Switch 2 version of action RPG Ys VIII: Lacrimosa of DANA, featuring 120 FPS support and GameShare co-op.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-10-20T13:14:26Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Ys VIII: Lacrimosa of DANA - Announcement Trailer (Nintendo Switch 2) - out Feb 25, 2027 www.youtube.com/watch?v=-Ii8... -120 FPS -Co-op via GameShare",
+       "url": "https://www.youtube.com/watch?v=-Ii8LYe00Fg",
+       "official": false
+      },
+      {
+       "outlet": "Gematsu",
+       "title": "Ys VIII: Lacrimosa of DANA coming to Switch 2 on February 25, 2027",
+       "url": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": []
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "f38aa69e0165",
+     "title": "EU Unveils New Arctic Strategy to Counter Russian and Chinese Influence",
+     "summary": "The European Union has introduced a security-focused Arctic strategy pledging increased satellite surveillance and protection of undersea communications cables in the region.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-20T15:01:10Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "South China Morning Post",
+       "title": "EU unveils Arctic strategy to counter increasing Russia, China influence",
+       "url": "https://www.scmp.com/news/world/europe/article/3371549/eu-unveils-arctic-strategy-counter-increasing-russia-china-influence",
+       "official": false
+      },
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "EU puts security at center of new Arctic strategy",
+       "url": "https://cphpost.dk/2026-10-20/news/round-up/eu-puts-security-at-center-of-new-arctic-strategy/",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times: World",
+       "title": "EU unveils strategy to boost Arctic security in face of US, Russia threats",
+       "url": "https://www.straitstimes.com/world/europe/eu-unveils-strategy-to-boost-arctic-security-in-face-of-us-russia-threats",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times: World",
+       "title": "EU unveils new Arctic strategy with focus on security",
+       "url": "https://www.straitstimes.com/world/europe/eu-unveils-new-arctic-strategy-with-focus-on-security",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "aedda847a388",
+     "title": "Prince Harry Expresses Desire to Reconcile With Family",
+     "summary": "Prince Harry stated in a London interview that he hopes to mend relations with King Charles and his family after moving to the United States six years ago.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-20T14:56:15Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "BBC News: UK",
+       "title": "Harry says he wants to 'reconcile' with his family",
+       "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times: World",
+       "title": "Prince Harry says he wants to reconcile with family",
+       "url": "https://www.straitstimes.com/world/europe/prince-harry-says-he-wants-to-reconcile-with-family",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b9f03f43438c",
+     "title": "French Police Arrest Suspect Following Limoges City Hall Fire",
+     "summary": "Authorities in France have arrested a suspect after a dramatic weekend blaze gutted the clock tower spire of the historic Limoges city hall.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-20T15:31:51Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Sky News: World",
+       "title": "Suspect arrested in France after fire at historic city hall",
+       "url": "https://news.sky.com/story/suspect-arrested-in-france-after-fire-at-limoges-city-hall-13601372",
+       "official": false
+      },
+      {
+       "outlet": "BBC News: World",
+       "title": "Suspect arrested after historic town hall set alight",
+       "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "a2a8e3ccc3cf",
+     "title": "UK to Deploy Typhoon Fighter Jets to Protect Saudi Arabia From Houthi Attacks",
+     "summary": "The United Kingdom is deploying Typhoon fighter jets to defend Saudi Arabia following a deadly Houthi drone strike on a Yemeni government training camp.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-20T15:20:11Z",
+     "outlet_count": 8,
+     "sources": [
+      {
+       "outlet": "CNA: World (Singapore)",
+       "title": "UK to deploy fighter jets to help protect Saudi from Houthi attacks",
+       "url": "https://www.channelnewsasia.com/world/uk-deploy-fighter-jets-protect-saudi-houthi-attacks-6475431",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian: World",
+       "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+       "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+       "official": false
+      },
+      {
+       "outlet": "Politico Europe",
+       "title": "UK to deploy fighter jets to help Saudis against Houthi attacks",
+       "url": "https://www.politico.eu/article/uk-to-deploy-fighter-jets-to-help-saudis-against-houthi-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "official": false
+      },
+      {
+       "outlet": "New York Times: World",
+       "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
+       "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
+       "official": false
+      },
+      {
+       "outlet": "Mainichi Shimbun (Japanese)",
+       "title": "73 new recruits of Yemen's provisional government killed, UK to send fighter jets to Saudi Arabia",
+       "url": "https://mainichi.jp/articles/20261020/k00/00m/030/336000c",
+       "official": false,
+       "translated_from": "ja",
+       "original_title": "イエメン暫定政権の新兵73人死亡 英国は戦闘機をサウジ派遣へ"
+      },
+      {
+       "outlet": "BBC News: UK",
+       "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+       "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+       "official": false
+      },
+      {
+       "outlet": "Washington Examiner",
+       "title": "UK deploying fighter jets to defend Saudi Arabia from Houthi attacks",
+       "url": "https://www.washingtonexaminer.com/news/world/4771938/uk-fighter-jets-saudi-arabia-houthi-attacks/",
+       "official": false
+      },
+      {
+       "outlet": "New York Post",
+       "title": "UK will deploy Typhoon fighter jets to defend Saudi Arabia from Houthi attacks",
+       "url": "https://nypost.com/2026/10/20/world-news/uk-will-deploy-typhoon-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "fa1722986685",
+     "title": "Zelensky Meets U.S. Envoys in Norway Amid Diplomatic Strains",
+     "summary": "Ukrainian President Volodymyr Zelensky traveled to Oslo to meet U.S. representatives in an effort to stabilize diplomatic ties following reported holdups in air defense and intelligence.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-20T14:11:29Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Axios",
+       "title": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
+       "url": "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin",
+       "official": false
+      },
+      {
+       "outlet": "BBC News: World",
+       "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+       "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+       "official": false
+      },
+      {
+       "outlet": "Politico Europe",
+       "title": "Rubio insists the US isn’t trying to hurt Ukraine",
+       "url": "https://www.politico.eu/article/marco-rubio-denies-us-withholding-ukraine-missile-warnings-air-defense/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "official": false
+      },
+      {
+       "outlet": "France 24: Europe",
+       "title": "Zelensky in Oslo for talks with US envoys as Ukraine claims missile holdup",
+       "url": "https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b71eedc73314",
+     "title": "Ukrainian Forces Complete First-Ever Frontline Drone Medical Evacuation",
+     "summary": "The Ukrainian military released footage celebrating the first successful aerial drone evacuation of a wounded soldier directly from the front line.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-20T14:49:00Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "BBC News: World",
+       "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+       "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+       "official": false
+      },
+      {
+       "outlet": "franceinfo (France)",
+       "title": "Aerial Drone Used to Evacuate Wounded Soldier in Ukraine for the First Time, According to Kyiv",
+       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html#xtor=RSS-3-[lestitres]",
+       "official": false,
+       "translated_from": "fr",
+       "original_title": "Un drone aérien utilisé pour évacuer un soldat blessé en Ukraine, une première selon Kiev"
+      },
+      {
+       "outlet": "Der Spiegel (Germany)",
+       "title": "Ukraine War: Drone Evacuates Wounded Soldier from Frontline for First Time",
+       "url": "https://www.spiegel.de/ausland/ukraine-krieg-drohne-rettet-erstmals-verletzten-soldaten-von-der-front-a-49ed8d13-0bf5-4188-8052-d60d11feee5b#ref=rss",
+       "official": false,
+       "translated_from": "de",
+       "original_title": "Ukraine-Krieg: Drohne rettet erstmals verletzten Soldaten von der Front"
+      }
+     ]
+    },
+    {
+     "id": "cebc4e6882f5",
+     "title": "Paddy Power Cuts 1,400 Jobs Following Government Betting Tax Increases",
+     "summary": "Flutter Entertainment's Paddy Power plans to shed up to 1,400 roles, directly blaming tax hikes implemented on online sports betting and casino operations in the recent budget.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-20T14:53:02Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Guardian: UK",
+       "title": "Paddy Power owner blames tax rises for plan to shed up to 1,400 jobs",
+       "url": "https://www.theguardian.com/society/2026/oct/20/paddy-power-owner-flutter-tax-rises-jobs-cuts-gambling",
+       "official": false
+      },
+      {
+       "outlet": "BBC News: UK",
+       "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+       "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "8dbaf16490b2",
+     "title": "Toyota to Build Hydrogen-Powered Hilux Pickup Trucks in Thailand",
+     "summary": "Toyota Motor has announced plans to manufacture hydrogen fuel-cell variants of its popular Hilux pickup truck at its production facilities in Thailand.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-10-20T15:35:49Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Toyota to build hydrogen-powered Hilux pickup in Thailand",
+       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-hydrogen-powered-hilux-pickup-in-thailand",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "32c770496f1a",
+     "title": "Japan Explores Private-Sector H3 Rocket Launches to Challenge SpaceX",
+     "summary": "Japanese authorities are looking into commercializing and handing over H3 rocket operations to private aerospace companies to better compete with global players like SpaceX.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-10-20T15:35:49Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Japan eyes private-sector H3 launches to compete with SpaceX",
+       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-eyes-private-sector-h3-launches-to-compete-with-spacex",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "40a7b48ecf4a",
+     "title": "Nidec Investigation Finds Former Executives Liable for ¥27.6B Loss",
+     "summary": "An independent investigation committee has held former Nidec executives legally accountable for damages totaling 27.6 billion yen.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-10-20T12:51:53Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Asahi Shimbun (Japanese)",
+       "title": "Nidec former executives held liable for damages, 27.6 billion yen loss found by investigation committee",
+       "url": "http://www.asahi.com/articles/ASVBN42RTVBNPLFA004M.html?ref=rss",
+       "official": false,
+       "translated_from": "ja",
+       "original_title": "ニデック旧役員9人に賠償責任、損害276億円 不正会計で調査委"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "b5f1b6d5a3b8",
+     "title": "South Korea Withdraws Embassy Staff From Ukraine Amid POW Dispute",
+     "summary": "Seoul is pulling a portion of its diplomatic personnel out of Ukraine to address an ongoing dispute over North Korean prisoners of war and restore bilateral trust.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-20T11:30:16Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "KBS World",
+       "title": "S. Korea to Withdraw Some Embassy Staff from Ukraine",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204990",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "(3rd LD) S. Korea to withdraw some embassy staff from Ukraine amid N.K. POW dispute",
+       "url": "https://en.yna.co.kr/view/AEN20261020006753315",
+       "official": false
+      },
+      {
+       "outlet": "The Kyiv Independent (Ukraine)",
+       "title": "South Korea to withdraw some diplomatic staff from Ukraine amid POW dispute",
+       "url": "https://kyivindependent.com/south-korea-to-withdraw-some-diplomatic-staff-from-ukraine-amid-pow-dispute/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "82ac27223ec1",
+     "title": "Tigers Sweep Twins to Win KBO Postseason Championship",
+     "summary": "The Tigers routed the Twins to clinch a sweep of the KBO postseason series, with superstar Kim Do-yeong taking home the postseason MVP award.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-20T14:16:11Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Yonhap News",
+       "title": "Tigers rout Twins to complete KBO postseason series sweep",
+       "url": "https://en.yna.co.kr/view/AEN20261020010100315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "With massive homer in clinching game, Tigers superstar Kim Do-yeong voted KBO postseason series MVP",
+       "url": "https://en.yna.co.kr/view/AEN20261020010200315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "Japanese right-hander pitches Tigers to KBO postseason series win",
+       "url": "https://en.yna.co.kr/view/AEN20261020010300315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "(LEAD) Tigers rout Twins to complete KBO postseason series sweep",
+       "url": "https://en.yna.co.kr/view/AEN20261020010151315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "Tigers manager pleased with complete effort in KBO postseason win",
+       "url": "https://en.yna.co.kr/view/AEN20261020010600315",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "(LEAD) With massive homer in clinching game, Tigers superstar Kim Do-yeong voted KBO postseason series MVP",
+       "url": "https://en.yna.co.kr/view/AEN20261020010251315",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "db00254c9a39",
+     "title": "Nineteen Injured in Simultaneous Fires at Two Seoul Buildings",
+     "summary": "A total of 19 people sustained injuries when two separate structural fires broke out almost simultaneously in the Yeoksam-dong area of Gangnam, Seoul.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-20T06:04:29Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "2 buildings catch fire in Gangnam; 19 injured",
+       "url": "https://www.koreaherald.com/article/10908665",
+       "official": false
+      },
+      {
+       "outlet": "KBS World",
+       "title": "19 Injured in Separate Fires at 2 Buildings in Seoul’s Gangnam District",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204987",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "d7f38a7e649d",
+     "title": "Apple Watch Ultra 3 Drops to All-Time Low of $599 on Amazon",
+     "summary": "Amazon is offering a massive $299 discount on the Black Apple Watch Ultra 3 paired with the Black Milanese Loop, bringing the price down to $599.97.",
+     "importance": 3,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-20T13:29:19Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Watch Ultra 3 Hits New Low Price With Amazon's $299 Discount [Updated]",
+       "url": "https://www.macrumors.com/2026/10/20/apple-watch-ultra-3-new-low-2/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c090bac1a5e8",
+     "title": "Nintendo Switch Sports Resort Preorders Discounted by $10",
+     "summary": "Physical preorders for Nintendo Switch Sports Resort on the Switch 2 are discounted to $49.94 on Amazon ahead of its release this week.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-20T13:02:36Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "IGN",
+       "title": "Nintendo Switch Sports Resort Review",
+       "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-review",
+       "official": false
+      },
+      {
+       "outlet": "Wario64",
+       "title": "Nintendo Switch Sports Resort (Switch 2) preorder is $49.94 on Amazon ($10 off physical MSRP) amzn.to/3SgD4Al #ad out this week (will likely go back to full price once released)",
+       "url": "https://amzn.to/3SgD4Al",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2dde09fc177f",
+     "title": "Sony PlayStation Store $100 Gift Card Code Available for $89",
+     "summary": "Newegg is discounting $100 PlayStation Store digital gift card codes down to $89 using promotional checkout code GTWF822.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-20T12:52:03Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Sony PlayStation Store $100 Gift Card Code is $89 at Newegg w/ code GTWF822 buff.ly/PZ60zyx #ad",
+       "url": "https://buff.ly/PZ60zyx",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9ff527cb2ca3",
+     "title": "PlayStation 5 Pro 2TB Consoles In Stock Directly From PlayStation",
+     "summary": "The PS5 Pro 2 TB console is currently in stock and available for purchase directly through PlayStation Direct for $899.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-20T15:06:24Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "PlayStation 5 Pro Console - 2 TB in-stock at PS Direct ($899) buff.ly/az8y0Nz #ad",
+       "url": "https://buff.ly/az8y0Nz",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T15:35:49Z",
+ "mode": "ai",
+ "model": "gemini-3.5-flash-lite",
+ "stats": {
+  "items": 861,
+  "clusters": 768,
+  "feeds_ok": 175,
+  "feeds_failed": 1
+ },
+ "feed_health": [
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "wapo-politics",
+   "title": "The Washington Post: Politics",
+   "status": "error",
+   "detail": "HTTPError: 502 Server Error: Bad Gateway for url: https://feeds.washingtonpost.com/rss/politics"
+  },
+  {
+   "key": "corriere",
+   "title": "Corriere della Sera (Italy)",
+   "status": "stale",
+   "detail": "no new items since 2024-05-13"
+  },
+  {
+   "key": "nhk",
+   "title": "NHK News (Japanese)",
+   "status": "stale",
+   "detail": "no new items since 2026-08-08"
+  }
+ ]
+}

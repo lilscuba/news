@@ -8,18 +8,28 @@ struct PersonalFeedApp: App {
     @Environment(\.scenePhase) private var scenePhase
 
     var body: some Scene {
+        let model = delegate.model
         WindowGroup {
             RootView()
-                .environment(delegate.model)
-                .task { await delegate.model.restore() }
+                .environment(model)
+                .task {
+                    // Unit tests run inside the app; they build their own models and stores.
+                    guard !AppDelegate.isHostingTests else { return }
+                    await model.restore()
+                }
         }
-        .onChange(of: scenePhase) { _, phase in
-            if phase == .active, delegate.model.phase == .ready {
-                Task { await delegate.model.refresh() }
-                delegate.model.flushPendingSettings()   // retry anything that didn't save
-            } else if phase == .background {
-                delegate.model.flushPendingSettings()   // don't lose a change made just before leaving
+        .onChange(of: scenePhase, initial: true) { _, phase in
+            switch phase {
+            case .active: model.sceneDidBecomeActive()
+            case .inactive: model.sceneWillResignActive()
+            case .background: model.sceneDidEnterBackground()
+            @unknown default: break
             }
+        }
+        // iOS wakes the app now and then to check for news (scheduled when it goes to the
+        // background), so a later open starts from a fresh brief and the badge can count what's new.
+        .backgroundTask(.appRefresh(AppModel.backgroundRefreshID)) {
+            await model.backgroundRefresh()
         }
     }
 }
@@ -28,6 +38,8 @@ struct PersonalFeedApp: App {
 @MainActor
 final class AppDelegate: NSObject, UIApplicationDelegate, UNUserNotificationCenterDelegate {
     let model = AppModel()
+
+    static var isHostingTests: Bool { ProcessInfo.processInfo.environment["XCTestConfigurationFilePath"] != nil }
 
     func application(_ application: UIApplication,
                      didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
@@ -42,28 +54,29 @@ final class AppDelegate: NSObject, UIApplicationDelegate, UNUserNotificationCent
 
     func application(_ application: UIApplication,
                      didFailToRegisterForRemoteNotificationsWithError error: Error) {
-        print("Push registration failed: \(error.localizedDescription)")
+        AppModel.log.error("Push registration failed: \(error.localizedDescription, privacy: .public)")
     }
 
     // The notification delegate methods are nonisolated: the system doesn't promise to call them
     // on the main thread, so anything that touches the model hops there explicitly.
 
-    // Show alerts even while the app is open.
+    // Show alerts even while the app is open. A push means the server just published, so check
+    // for news too; Today offers it as "N new stories" rather than reshuffling under the reader.
     nonisolated func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification,
                                             withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+        Task { @MainActor in
+            if model.phase == .ready { await model.refresh(reason: .push) }
+        }
         completionHandler([.banner, .sound])
     }
 
-    // Tapping an alert opens its story; tapping "brief ready" opens the app on Today.
+    // Tapping an alert opens its story on Today; tapping "brief ready" opens Today at the top.
+    // On a cold launch this arrives before the app is restored; the model holds it until then.
     nonisolated func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse,
                                             withCompletionHandler completionHandler: @escaping () -> Void) {
-        let link = response.notification.request.content.userInfo["url"] as? String
-        Task { @MainActor in
-            if let link, let url = URL(string: link) {
-                model.pendingURL = url
-            }
-            await model.refresh()
-        }
+        // Read the payload here: userInfo isn't Sendable, the route is.
+        let route = NotificationRoute(userInfo: response.notification.request.content.userInfo)
+        Task { @MainActor in model.handleNotification(route) }
         completionHandler()
     }
 }

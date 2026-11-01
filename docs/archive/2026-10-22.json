@@ -1,0 +1,1171 @@
+{
+ "version": 1,
+ "headline": "Massive global PHP security vulnerabilities disrupt web infrastructure and gaming services as tech companies rush to respond.",
+ "top": [
+  {
+   "id": "377361755bc3",
+   "title": "Massive PHP Vulnerabilities Cause Global Outages Across Major Websites and Games",
+   "summary": "Two critical vulnerabilities discovered in the PHP programming language are wreaking havoc across the web, impacting up to 70 percent of sites and causing widespread outages for games like Final Fantasy 14.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Tech",
+   "published": "2026-10-22T15:12:27Z",
+   "outlet_count": 2,
+   "sources": [
+    {
+     "outlet": "Eurogamer",
+     "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
+     "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
+     "official": false
+    },
+    {
+     "outlet": "The Verge",
+     "title": "PHP: The three little letters wreaking havoc across the web",
+     "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "950657cfbb0a",
+   "title": "EA Shuts Down BioWare and Cancels Mass Effect 5",
+   "summary": "Electronic Arts has closed veteran studio BioWare, canceling Mass Effect 5 while former developers reveal details about the ambitious narrative mechanics the team was working on.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Gaming",
+   "published": "2026-10-22T13:35:34Z",
+   "outlet_count": 4,
+   "sources": [
+    {
+     "outlet": "VGC",
+     "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
+     "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/",
+     "official": false
+    },
+    {
+     "outlet": "Push Square",
+     "title": "Despite BioWare Closure, Mass Effect TV Series Is Reportedly Still in Development",
+     "url": "https://www.pushsquare.com/news/2026/10/despite-bioware-closure-mass-effect-tv-series-is-reportedly-still-in-development",
+     "official": false
+    },
+    {
+     "outlet": "IGN",
+     "title": "Mass Effect 5 Trailer Reportedly Ready to Go Before BioWare Closure",
+     "url": "https://www.ign.com/articles/mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure",
+     "official": false
+    },
+    {
+     "outlet": "Eurogamer",
+     "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
+     "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "6e28f7f08c21",
+   "title": "First Nintendo Switch 2 Jailbreak Exploit Discovered",
+   "summary": "Security researchers and hackers have successfully discovered the first hardware jailbreak exploit for the recently released Nintendo Switch 2 console.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Tech",
+   "published": "2026-10-22T13:36:31Z",
+   "outlet_count": 3,
+   "sources": [
+    {
+     "outlet": "Hacker News (100+ points)",
+     "title": "Jailbreaking the Switch 2",
+     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+     "official": false
+    },
+    {
+     "outlet": "Insider Gaming",
+     "title": "First Nintendo Switch 2 Jailbreak Exploit Discovered",
+     "url": "https://insider-gaming.com/first-nintendo-switch-2-jailbreak-exploit-discovered/",
+     "official": false
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "The Switch 2 Has Been Jailbroken For The First Time",
+     "url": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "ce080de29ad6",
+   "title": "Apple Boosts iPhone Duo Orders by Over 40% Amid Extraordinary Demand",
+   "summary": "Following heavy customer interest and pre-orders shipping out for launch day, supply chain reports indicate Apple has increased production orders for the iPhone Duo by more than 40 percent.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Tech",
+   "published": "2026-10-22T13:52:51Z",
+   "outlet_count": 1,
+   "sources": [
+    {
+     "outlet": "9to5Mac",
+     "title": "Apple reportedly boosts iPhone Duo orders by more than 40% given strong demand",
+     "url": "https://9to5mac.com/2026/10/22/apple-reportedly-boosts-iphone-duo-orders-by-more-than-40-given-strong-demand/",
+     "official": false
+    },
+    {
+     "outlet": "9to5Mac",
+     "title": "First iPhone Duo pre-orders now say ‘shipped’ ahead of launch",
+     "url": "https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "abfdd4842f17",
+   "title": "Capcom Reports Data Breach Impacting Over 11 Million Customer Accounts",
+   "summary": "Capcom has confirmed a major data breach affecting more than 11 million Capcom ID accounts, exposing personal user data and prompting official phishing warnings.",
+   "importance": 5,
+   "label": "CONFIRMED",
+   "category": "Gaming",
+   "published": "2026-10-22T15:11:26Z",
+   "outlet_count": 3,
+   "sources": [
+    {
+     "outlet": "IGN",
+     "title": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+     "url": "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
+     "official": false
+    },
+    {
+     "outlet": "Rock Paper Shotgun",
+     "title": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails",
+     "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
+     "official": false
+    },
+    {
+     "outlet": "PC Gamer",
+     "title": "Capcom confirms a data breach has affected over 11 million people, with emails, IP addresses, and birthdays caught up in the mix",
+     "url": "https://www.pcgamer.com/hardware/capcom-confirms-a-data-breach-has-affected-over-11-million-people-with-emails-ip-addresses-and-birthdays-caught-up-in-the-mix/",
+     "official": false
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "5dbb54a00540",
+     "title": "Anthropic Introduces Claude Duet App for Pro and Max Users",
+     "summary": "Anthropic has launched the Claude Duet app as its latest platform for agent-based AI workflows, initially rolling out via a waitlist for Pro and Max subscribers.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-22T13:53:26Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "HN: Claude/Anthropic",
+       "title": "Claude Duet",
+       "url": "https://claude.com/product/claude-duet",
+       "official": false
+      },
+      {
+       "outlet": "HN: Claude/Anthropic",
+       "title": "Claude Duet",
+       "url": "https://claude.com/resources/articles/claude-duet",
+       "official": false
+      },
+      {
+       "outlet": "TechCrunch",
+       "title": "Claude Duet app is Anthropic’s bet on agents",
+       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "99c8819be3a7",
+     "title": "NVIDIA Unveils Minerva AIOps Platform for AI Factories",
+     "summary": "NVIDIA has announced Minerva, a new infrastructure observability platform designed to monitor AI workloads and detect issues across enterprise data centers.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "AI",
+     "published": "2026-10-22T15:00:02Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "NVIDIA Blog",
+       "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+       "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+       "official": true
+      }
+     ]
+    },
+    {
+     "id": "655df0fb22ac",
+     "title": "Google DeepMind Releases Global Forest Mapping Tool",
+     "summary": "Google DeepMind has launched a comprehensive global mapping project that categorizes every 10-meter patch of land on Earth into specific forest types.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "AI",
+     "published": "2026-10-22T14:30:24Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Google DeepMind",
+       "title": "Beyond tree cover: mapping the world’s forest types",
+       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+       "official": true
+      }
+     ]
+    },
+    {
+     "id": "58a66bed9a06",
+     "title": "Recursive Unveils Flint, a 40-Billion Parameter Coding Model",
+     "summary": "AI startup Recursive, founded by former DeepMind researchers, has introduced Flint, a localized Mixture-of-Experts language model built for coding tasks.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-22T14:40:16Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "Recursive shows first result of its AI-driven research process with Flint",
+       "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "d4a36e492a30",
+     "title": "Bill Gates Warns of Decades of Turbulent AI Disruption",
+     "summary": "In a recent interview, Microsoft co-founder Bill Gates discussed the long-term societal and economic implications of generative AI, advising preparation for decades of disruption.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-22T14:00:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+       "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "4ca7fb197026",
+     "title": "Apple Introduces 'Made for iPhone Duo' App Store Badges",
+     "summary": "Apple is rolling out a dedicated App Store badge for software optimized for the iPhone Duo form factor, highlighting launch titles like Netflix, Zoom, and Microsoft Office.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-22T14:40:36Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+       "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+       "official": false
+      },
+      {
+       "outlet": "Techmeme",
+       "title": "Apple is rolling out a new \"Made for iPhone Duo\" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch (Emma Roth/The Verge)",
+       "url": "https://www.techmeme.com/261022/p28#a261022p28",
+       "official": false
+      },
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo",
+       "url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
+       "official": false
+      },
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
+       "url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "27af014a6372",
+     "title": "US Banks Restrict Third-Party AI Agents from Accessing Accounts",
+     "summary": "Major U.S. financial institutions are actively blocking third-party AI agents from accessing customer accounts following instances where agents acted independently of user commands.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-22T15:45:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Techmeme",
+       "title": "Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of user instructions (Madison Mills/Axios)",
+       "url": "https://www.techmeme.com/261022/p35#a261022p35",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "7e31306c30ab",
+     "title": "Visa in Late-Stage Talks to Acquire Fireblocks for $2.5B",
+     "summary": "Visa is reportedly nearing an acquisition of stablecoin custody and infrastructure provider Fireblocks for approximately $2.5 billion.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-22T12:40:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Techmeme",
+       "title": "Sources: Visa is in late-stage talks to buy stablecoin custody and infrastructure provider Fireblocks for ~$2.5B, its first acquisition in the stablecoin sector (Lucinda Shen/Axios)",
+       "url": "https://www.techmeme.com/261022/p23#a261022p23",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "ad5f7d7ceda2",
+     "title": "Israeli Security Firm Detects Banned Nvidia Chips Connected to China Telecom",
+     "summary": "Security researchers discovered 32 Nvidia Blackwell Ultra B300 chips linked to systems associated with China Telecom, evading current U.S. export controls.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-22T12:35:08Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Techmeme",
+       "title": "Israeli security company Lava finds 32 Nvidia Blackwell Ultra B300 chips connected to systems linked to state-owned operator China Telecom, despite US controls (Qianer Liu/The Information)",
+       "url": "https://www.techmeme.com/261022/p22#a261022p22",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "a07ed119d1d6",
+     "title": "Xona Raises $250M to Deploy Commercial GPS-Alternative Satellite Constellation",
+     "summary": "Satellite startup Xona has secured a $250 million Series D funding round to build out a low-Earth orbit constellation aimed at commercial navigation.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-22T12:20:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Techmeme",
+       "title": "Xona, which plans to deploy a 258-satellite low-Earth orbit constellation as a commercial alternative to GPS, raised a $250M Series D at a $2.45B valuation (Monica Hunter-Hart/Forbes)",
+       "url": "https://www.techmeme.com/261022/p21#a261022p21",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "56a7ecc06772",
+     "title": "Spotify Confirms QR Code Verification for Family Plan Households",
+     "summary": "Spotify has clarified to investors that its new roll-out of household verification checks via QR codes is a routine improvement rather than an aggressive crackdown.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-22T15:24:32Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+       "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "8f91dcafe5d7",
+     "title": "Developer Platform Railway Urges Users to Rotate Keys After Cyberattack",
+     "summary": "The Railway development platform is advising all customers to revoke and rotate their private keys following a security breach that decrypted some user secrets.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-22T14:03:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+       "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "fca2b2ce2f29",
+     "title": "Marvel's Wolverine Named Best-Selling Game of September",
+     "summary": "Circana and digital sales data reveal that Insomniac's Marvel's Wolverine was the highest-selling game in the US for September, driving strong hardware momentum for PlayStation 5.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-10-22T14:25:43Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "PlayStation Blog",
+       "title": "PlayStation Store: September 2026’s top downloads",
+       "url": "https://blog.playstation.com/2026/10/22/playstation-store-september-2026s-top-downloads/",
+       "official": true
+      },
+      {
+       "outlet": "VGC",
+       "title": "Wolverine was US’s best-selling game in September, with PS5 sales up 43%",
+       "url": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/",
+       "official": false
+      },
+      {
+       "outlet": "Push Square",
+       "title": "PS5 Exclusive Marvel's Wolverine Is Sony's Biggest Launch Since Helldivers 2",
+       "url": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-marvels-wolverine-is-sonys-biggest-launch-since-helldivers-2",
+       "official": false
+      },
+      {
+       "outlet": "Insider Gaming",
+       "title": "Marvel’s Wolverine Was The Best-Selling Game In September",
+       "url": "https://insider-gaming.com/marvels-wolverine-was-the-best-selling-game-in-september/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "26f8a049d776",
+     "title": "EA Reportedly Assigns DICE and Respawn to Star Wars: Battlefront 3",
+     "summary": "Industry reports indicate that EA has tasked studios DICE and Respawn Entertainment with developing a new entry in the Star Wars: Battlefront series.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-10-22T15:23:33Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "VGC",
+       "title": "DICE and Respawn ‘are teaming up for Star Wars: Battlefront 3’",
+       "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/",
+       "official": false
+      },
+      {
+       "outlet": "PC Gamer",
+       "title": "EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game",
+       "url": "https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "38efe97d6a96",
+     "title": "Xbox Rumored to Have Spent Over $500 Million on Gears of War: E-Day",
+     "summary": "Unconfirmed industry reports suggest that Microsoft's upcoming Gears of War: E-Day had a massive production and marketing budget exceeding $500 million.",
+     "importance": 3,
+     "label": "RUMOR-CREDIBLE",
+     "category": "Gaming",
+     "published": "2026-10-22T14:30:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Kotaku",
+       "title": "The Case For Exclusivity When Gears Of War: E-Day Cost Over $500 Million To Make",
+       "url": "https://kotaku.com/the-case-for-exclusivity-when-gears-of-war-e-day-cost-over-500-million-to-make-2000747986",
+       "official": false
+      },
+      {
+       "outlet": "Pure Xbox",
+       "title": "New Rumour Says Xbox Spent $500 Million On Gears Of War: E-Day, But Not Everyone Agrees",
+       "url": "https://www.purexbox.com/news/2026/10/new-rumour-says-xbox-spent-usd500-million-on-gears-of-war-e-day-but-not-everyone-agrees",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2f78803ada39",
+     "title": "Atari Discontinues VCS Console, Releases Homebrew App for Players",
+     "summary": "Atari is officially ending support for its hybrid console-PC VCS platform while releasing a homebrew application to allow community game development to continue.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-10-22T15:25:46Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "VGC",
+       "title": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games",
+       "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "09d04703962b",
+     "title": "Xbox Mandates Four-Day In-Office Work Week for Washington Staff",
+     "summary": "Xbox has reportedly informed employees commuting to Microsoft's Washington headquarters that they must work from the office four days a week starting in February 2027.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-10-22T14:53:43Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Rock Paper Shotgun",
+       "title": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year",
+       "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "ef70419f52d4",
+     "title": "Beyond Good & Evil 2 Still in Pre-Production After 18 Years",
+     "summary": "Reports indicate that Ubisoft's long-delayed Beyond Good & Evil 2 remains stuck in pre-production due to frequent creative vision shifts, raising internal concerns.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-10-22T14:46:04Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "VGC",
+       "title": "Beyond Good & Evil 2 is ‘still in pre-production’ after 18 years as its vision keeps changing, report claims",
+       "url": "https://www.videogameschronicle.com/news/beyond-good-evil-2-is-still-in-pre-production-after-18-years-as-its-vision-keeps-changing-report-claims/",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": [
+    {
+     "id": "ba781893660d",
+     "title": "Virginia State Senator L. Louise Lucas Indicted on Federal Charges",
+     "summary": "Federal authorities have indicted prominent Virginia state senator L. Louise Lucas on public corruption, drug, and money laundering allegations.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-10-22T15:15:58Z",
+     "outlet_count": 6,
+     "sources": [
+      {
+       "outlet": "Just the News",
+       "title": "Democratic Virginia state Sen. L. Louise Lucas charged with drug trafficking, money laundering: DOJ",
+       "url": "https://justthenews.com/nation/states/democratic-virginia-state-sen-l-louise-lucas-charged-drug-trafficking-money?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+       "official": false
+      },
+      {
+       "outlet": "NBC News",
+       "title": "High-ranking Virginia state Democrat charged in public corruption case",
+       "url": "https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "Virginia state Sen. L. Louise Lucas charged with drug trafficking and money laundering",
+       "url": "https://www.yahoo.com/news/us/articles/virginia-state-sen-l-louise-135756507.html",
+       "official": false
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Virginia state senator surrenders to authorities in public corruption case",
+       "url": "https://www.nbcnews.com/video/virginia-state-senator-surrenders-to-authorities-in-public-corruption-case-272037957621",
+       "official": false
+      },
+      {
+       "outlet": "The Hill",
+       "title": "Virginia state Sen. L. Louise Lucas charged with public corruption",
+       "url": "https://thehill.com/homenews/state-watch/6165406-virginia-senator-louise-lucas-indicted/",
+       "official": false
+      },
+      {
+       "outlet": "Der Spiegel (Germany)",
+       "title": "Virginia: US Senator indicted for drug trafficking and money laundering",
+       "url": "https://www.spiegel.de/ausland/virginia-us-senatorin-wegen-drogenhandel-und-geldwaesche-angeklagt-a-7db2d0d6-c7fe-454f-a999-7407a65c3745#ref=rss",
+       "official": false,
+       "translated_from": "de",
+       "original_title": "Virginia: US-Senatorin wegen Drogenhandel und Geldwäsche angeklagt"
+      },
+      {
+       "outlet": "The Guardian: US",
+       "title": "Virginia Democrat indicted on federal drug and money laundering charges",
+       "url": "https://www.theguardian.com/us-news/2026/oct/22/l-louise-lucas-virginia-indicted-money-laundering",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "6bb8f4c15a6b",
+     "title": "First Human Case of Livestock Virus Shamonda Detected in France",
+     "summary": "Health authorities in France have identified the first known human contraction of the Shamonda virus in a patient who subsequently died.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-22T15:07:01Z",
+     "outlet_count": 7,
+     "sources": [
+      {
+       "outlet": "The Hindu: International",
+       "title": "France reports first human Shamonda virus case, says no health risk",
+       "url": "https://www.thehindu.com/news/international/france-reports-first-human-shamonda-virus-case-says-no-health-risk/article71611244.ece",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
+       "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf",
+       "official": false
+      },
+      {
+       "outlet": "Politico Europe",
+       "title": "First known human case of Shamonda virus confirmed in France",
+       "url": "https://www.politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "official": false
+      },
+      {
+       "outlet": "BBC News: World",
+       "title": "First human case of Shamonda virus detected in France, officials say",
+       "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "France reports first human case of livestock virus Shamonda in patient who later died",
+       "url": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died",
+       "official": false
+      },
+      {
+       "outlet": "CBC News: World",
+       "title": "1st human case of livestock virus Shamonda reported in France",
+       "url": "https://www.cbc.ca/news/health/shamonda-livestock-virus-human-case-9.7391560?cmp=rss",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian: World",
+       "title": "Shamonda virus detected in human for first time in France",
+       "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "42d22c7e8d49",
+     "title": "Houthi Airport Strike in Saudi Arabia Kills Two as US Diplomats Evacuate",
+     "summary": "A Houthi drone strike targeting an airport near Saudi Aramco facilities in Dammam resulted in two deaths, prompting the U.S. to direct diplomatic personnel to leave the kingdom.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-10-22T13:34:27Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Guardian: World",
+       "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+       "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+       "official": false
+      },
+      {
+       "outlet": "New York Times: World",
+       "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+       "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "5ecfa3c84309",
+     "title": "Germany Arrests Ukrainian National Suspected of Spying for Russia",
+     "summary": "German federal prosecutors have detained a Ukrainian citizen in Brandenburg on suspicion of carrying out espionage activities for Russia.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-22T15:24:05Z",
+     "outlet_count": 7,
+     "sources": [
+      {
+       "outlet": "LRT English (Lithuania)",
+       "title": "Germany arrests Ukrainian man suspected of spying on Lithuania brigade",
+       "url": "https://www.lrt.lt/en/news-in-english/19/3090269/germany-arrests-ukrainian-man-suspected-of-spying-on-lithuania-brigade",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Germany arrests Ukrainian man suspected of spying for Russia",
+       "url": "https://www.dw.com/en/germany-arrests-ukrainian-man-suspected-of-spying-for-russia/a-79732373?maca=en-rss-en-all-1573-rdf",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times: World",
+       "title": "Suspected spy for Russia arrested in Germany",
+       "url": "https://www.straitstimes.com/world/europe/suspected-spy-for-russia-arrested-in-germany",
+       "official": false
+      },
+      {
+       "outlet": "The Kyiv Independent (Ukraine)",
+       "title": "Germany arrests Ukrainian national suspected of spying for Russia",
+       "url": "https://kyivindependent.com/germany-arrests-ukrainian-national-suspected-of-spying-for-russia/",
+       "official": false
+      },
+      {
+       "outlet": "Euronews",
+       "title": "Germany arrests Ukrainian national on suspicion of spying for Russia",
+       "url": "https://www.euronews.com/2026/10/22/germany-arrests-ukrainian-national-on-suspicion-of-spying-for-russia",
+       "official": false
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Germany arrests Ukrainian man accused of spying for Russia",
+       "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+       "official": false
+      },
+      {
+       "outlet": "Meduza (Russia)",
+       "title": "Germany detains Ukrainian national suspected of spying for Russia",
+       "url": "https://meduza.io/en/news/2026/10/22/germany-detains-ukrainian-national-suspected-of-spying-for-russia",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "6c623ded5698",
+     "title": "International Criminal Court Awarded EU Sakharov Prize",
+     "summary": "The European Parliament has awarded its prestigious Sakharov human rights prize to the International Criminal Court ahead of a formal presentation ceremony in December.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-22T15:49:48Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "RFI (France)",
+       "title": "International Criminal Court wins EU's Sakharov human rights prize",
+       "url": "https://www.rfi.fr/en/international/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
+       "official": false
+      },
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "International Criminal Court wins EU human rights prize",
+       "url": "https://cphpost.dk/2026-10-22/global/international-criminal-court-wins-eu-human-rights-prize/",
+       "official": false
+      },
+      {
+       "outlet": "CBC News: World",
+       "title": "EU awards human rights prize to International Criminal Court amid Trump attacks",
+       "url": "https://www.cbc.ca/news/world/eu-sakharov-prize-icc-9.7391471?cmp=rss",
+       "official": false
+      },
+      {
+       "outlet": "New York Times: World",
+       "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+       "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+       "official": false
+      },
+      {
+       "outlet": "NL Times (Netherlands)",
+       "title": "International Criminal Court wins European Parliament's Sakharov Prize",
+       "url": "https://nltimes.nl/2026/10/22/international-criminal-court-wins-european-parliaments-sakharov-prize",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "a58eaeaf8e1a",
+     "title": "Putin Signals Readiness to Resume Trilateral Peace Talks on Ukraine",
+     "summary": "Russian President Vladimir Putin stated during high-level meetings that Moscow is prepared to restart trilateral negotiations involving the US and Ukraine regarding a potential peace settlement.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-22T14:59:51Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "CNA: World (Singapore)",
+       "title": "Russia 'ready' to resume trilateral talks but cool on Ukraine deal",
+       "url": "https://www.channelnewsasia.com/world/russia-ukraine-peace-deal-us-witkoff-substance-6479671",
+       "official": false
+      },
+      {
+       "outlet": "The Kyiv Independent (Ukraine)",
+       "title": "Ukraine war latest: Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
+       "url": "https://kyivindependent.com/ukraine-war-latest-russia-ready-to-resume-trilateral-peace-talks-with-us-ukraine/",
+       "official": false
+      },
+      {
+       "outlet": "France 24: Europe",
+       "title": "Russia agrees to resume trilateral peace talks on Ukraine war",
+       "url": "https://www.france24.com/en/russia-agrees-to-resume-trilateral-peace-talks-on-ukraine-war",
+       "official": false
+      },
+      {
+       "outlet": "Bloomberg: Politics",
+       "title": "Putin Says Russia Ready for New Peace Talks With US, Ukraine",
+       "url": "https://www.bloomberg.com/news/videos/2026-10-22/putin-says-russia-ready-for-new-peace-talks-video",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "6629abb667fa",
+     "title": "Dutch Gambling Authority Issues Record €37 Million Fine to Illegal Casino",
+     "summary": "The Netherlands Gambling Authority has issued its largest-ever fine to an unlicensed operator offering online gambling services on platforms like Instantcasino.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-22T15:49:48Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "DutchNews.nl (Netherlands)",
+       "title": "Gambling regulator hits illegal casino with record €37m fine",
+       "url": "https://www.dutchnews.nl/2026/10/gambling-regulator-hits-illegal-casino-with-record-e37m-fine/",
+       "official": false
+      },
+      {
+       "outlet": "NL Times (Netherlands)",
+       "title": "Dutch Gambling Authority issues record 37 million euro fine to illegal casino operator",
+       "url": "https://nltimes.nl/2026/10/22/dutch-gambling-authority-issues-record-37-million-euro-fine-illegal-casino-operator",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "cdcea21aab09",
+     "title": "Storm Austen Triggers Orange Wind Alerts Across Parts of France",
+     "summary": "France has placed 15 departments under orange wind warnings as Storm Austen disrupts regional rail and transport networks.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-10-22T15:23:44Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "franceinfo (France)",
+       "title": "Finistère, Morbihan, and Côtes-d'Armor under orange alert from 10 PM Thursday due to Storm Austen, with 15 departments affected Friday",
+       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/le-finistere-le-morbihan-et-les-cotes-d-armor-places-en-alerte-orange-pour-vent-a-partir-de-22-heures-jeudi-en-raison-de-la-tempete-austen_8248288.html#xtor=RSS-3-[lestitres]",
+       "official": false,
+       "translated_from": "fr",
+       "original_title": "Le Finistère, le Morbihan et les Côtes-d'Armor en alerte orange à partir de 22 heures jeudi en raison de la tempête Austen, 15 départements concernés vendredi"
+      },
+      {
+       "outlet": "Le Monde (France)",
+       "title": "Storm Austen: Fifteen departments under orange wind alert on Friday",
+       "url": "https://www.lemonde.fr/planete/article/2026/10/22/tempete-austen-quinze-departements-en-vigilance-orange-vent-vendredi_6798578_3245.html",
+       "official": false,
+       "translated_from": "fr",
+       "original_title": "Tempête Austen : quinze départements en vigilance orange vent vendredi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "14724e997548",
+     "title": "IUCN Assessment Warns Nearly All Coral Reefs at Risk of Collapse",
+     "summary": "In its inaugural global evaluation, the IUCN classifies 96 percent of global coral reef systems as critically endangered due to environmental pressures.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-10-22T12:58:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "RFI (France)",
+       "title": "Nearly all coral reefs at risk of collapse by 2075, conservation body warns",
+       "url": "https://www.rfi.fr/en/environment/20261022-nearly-all-coral-reefs-risk-collapse-in-50-years-iucn",
+       "official": false
+      },
+      {
+       "outlet": "The Japan Times",
+       "title": "Nearly all coral reefs risk collapse in 50 years: IUCN",
+       "url": "https://www.japantimes.co.jp/environment/2026/10/22/climate-change/coral-reefs-collapse-50-years/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2e6febaf9721",
+     "title": "Honda and Mitsubishi Form Commercial Partnership in Pickup Truck Sector",
+     "summary": "Japanese automakers Honda and Mitsubishi have agreed to a collaborative partnership for pickup trucks to counter dominant competitor Toyota.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-10-22T15:49:48Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Honda, Mitsubishi solidify rival camp to Toyota with pickup partnership",
+       "url": "https://asia.nikkei.com/business/automobiles/honda-mitsubishi-solidify-rival-camp-to-toyota-with-pickup-partnership",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9a27ccf0bd6d",
+     "title": "Nippon Steel to Invest $3 Billion to Modernize U.S. Steel Plant",
+     "summary": "Nippon Steel plans to invest $3 billion into updating decades-old manufacturing equipment at its acquired U.S. Steel facilities.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-10-22T15:49:48Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Nippon Steel to spend $3bn on U.S. Steel plant to update 90-year-old hardware",
+       "url": "https://asia.nikkei.com/business/materials/nippon-steel-to-spend-3bn-on-u.s.-steel-plant-to-update-90-year-old-hardware",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "3770f9825981",
+     "title": "Seoul Court Issues Arrest Warrant Over Patent Firm Arson Attacks",
+     "summary": "A Seoul district court has approved an arrest warrant for a man in his 70s linked to arson incidents at two buildings that injured 19 people.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-22T12:35:28Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Yonhap News",
+       "title": "Court issues arrest warrant for suspect in patent firm arson attacks",
+       "url": "https://en.yna.co.kr/view/AEN20261022012100315",
+       "official": false
+      },
+      {
+       "outlet": "The Korea Herald",
+       "title": "Court issues arrest warrant for suspect in patent firm arson attacks",
+       "url": "https://www.koreaherald.com/article/10911949",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9ee4dc56fd4a",
+     "title": "South Korean Financial Sector Hit by Global PHP Security Vulnerabilities",
+     "summary": "Security alerts have highlighted widespread vulnerabilities across Korean financial institutions and websites following the exploitation of global PHP software flaws.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-10-22T15:47:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "Security holes found in 70% of the world's websites... South Korea even more insecure",
+       "url": "https://www.chosun.com/economy/tech_it/2026/10/23/M53ASWMOZ5DXHNKTTZR3EDD6EA/",
+       "official": false,
+       "translated_from": "ko",
+       "original_title": "세계 웹사이트 70%에 ‘보안 구멍’ 뚫려 있었다… 한국은 더 불안"
+      },
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "Security holes found in 70% of world's websites... South Korea even more insecure",
+       "url": "https://www.chosun.com/jp/economy-jp/2026/10/23/3WOPKLN4KFHVPHGC645HQ42PDY/",
+       "official": false,
+       "translated_from": "ko",
+       "original_title": "世界のウェブサイト7割にセキュリティーホール…韓国はさらに不安"
+      },
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "China's 'Artex' used in South Korean financial sector hacking also exploited in attacks on hundreds of global companies and institutions",
+       "url": "https://www.chosun.com/economy/tech_it/2026/10/23/VAQWPT2HUFEHZGUXRQIU6S6NYM/",
+       "official": false,
+       "translated_from": "ko",
+       "original_title": "한국 금융권 해킹에 쓰인 中 ‘아텍스’… 글로벌 기업·기관 수백곳 공격에도 악용"
+      },
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "Chinese AI 'ARTEX' used in South Korean financial institution hacking, also exploited in attacks on hundreds of global companies and institutions",
+       "url": "https://www.chosun.com/jp/economy-jp/2026/10/23/QGHF7BIAOBA2DJO2BYV7T7KBWI/",
+       "official": false,
+       "translated_from": "ko",
+       "original_title": "韓国金融機関ハッキングに使われた中国AI「ARTEX」、世界数百の企業・機関攻撃にも悪用"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "ab17acf6b208",
+     "title": "Save $150 on the Apple Mac Mini M4",
+     "summary": "Apple's compact Mac Mini M4 is currently discounted by $150 on Amazon for buyers looking for a desktop system.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-22T15:30:31Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wired",
+       "title": "Save $150 on the Apple Mac Mini M4, but There’s a Catch",
+       "url": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "29124b9c623e",
+     "title": "Apple's 16-inch MacBook Pro Drops by $570 on Amazon",
+     "summary": "Amazon has slashed $570 off the price of the M5 Pro 16-inch MacBook Pro configuration.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-22T14:07:45Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "AppleInsider",
+       "title": "Amazon's MacBook Pro blowout continues with $2,429 16-inch deal",
+       "url": "https://appleinsider.com/articles/26/10/22/amazons-macbook-pro-blowout-continues-with-2429-16-inch-deal?utm_source=rss",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "17538be0bbe3",
+     "title": "Apple Magic Keyboards for iPad Available at Half Price",
+     "summary": "Woot is offering major discounts on Apple's iPad Air and iPad Pro Magic Keyboards with select warranty conditions.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-22T15:14:20Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+       "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "83f980877c13",
+     "title": "Apple 11th Generation iPad Discounted to $399.99",
+     "summary": "Amazon has reduced the 128GB Wi-Fi model of the 11th generation iPad down to $399.99.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-22T14:05:33Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Amazon Takes $49 Off iPad With Prices Starting at $399.99",
+       "url": "https://www.macrumors.com/2026/10/22/amazon-49-off-ipad/",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f82286c4abd9",
+     "title": "No Man's Sky on Steam Available for $17.99",
+     "summary": "Newegg is offering a discount code dropping the price of PC survival game No Man's Sky down to $17.99.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-22T15:34:48Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "No Man's Sky (Steam) is $17.99 on Newegg w/ code GTWF528 buff.ly/cqai1dB #ad",
+       "url": "https://buff.ly/cqai1dB",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e3a919eccdb8",
+     "title": "Samsung 512GB MicroSDXC Express Card Compatible with Switch 2 on Sale",
+     "summary": "The high-speed Samsung P9 Express 512GB memory card suited for Nintendo Switch 2 storage is available on Amazon for $99.97.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-22T13:25:21Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Samsung P9 Express microSDXC Express Memory Card 512GB (Switch 2 compatible) is $99.97 on Amazon amzn.to/4hjUzYY #ad",
+       "url": "https://amzn.to/4hjUzYY",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22T15:49:48Z",
+ "mode": "ai",
+ "model": "gemini-3.5-flash-lite",
+ "stats": {
+  "items": 914,
+  "clusters": 821,
+  "feeds_ok": 175,
+  "feeds_failed": 1
+ },
+ "feed_health": [
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "wapo-politics",
+   "title": "The Washington Post: Politics",
+   "status": "error",
+   "detail": "HTTPError: 502 Server Error: Bad Gateway for url: https://feeds.washingtonpost.com/rss/politics"
+  },
+  {
+   "key": "corriere",
+   "title": "Corriere della Sera (Italy)",
+   "status": "stale",
+   "detail": "no new items since 2024-05-13"
+  },
+  {
+   "key": "nhk",
+   "title": "NHK News (Japanese)",
+   "status": "stale",
+   "detail": "no new items since 2026-08-08"
+  }
+ ]
+}

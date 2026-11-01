@@ -1,6 +1,96 @@
 {
  "briefs": [
   {
+   "date": "2026-10-31",
+   "headline": "Global developments highlight geopolitical tensions, major gaming announcements, and ongoing artificial intelligence safety research.",
+   "story_count": 32
+  },
+  {
+   "date": "2026-10-30",
+   "headline": "A record-breaking cryptocurrency heist rocks Binance, while major tech and gaming developments capture headlines worldwide.",
+   "story_count": 40
+  },
+  {
+   "date": "2026-10-29",
+   "headline": "Alphabet shares tumble following a massive surge in AI spending, while DoorDash moves to acquire Instacart for $17 billion.",
+   "story_count": 38
+  },
+  {
+   "date": "2026-10-28",
+   "headline": "A major European high-speed train collision kills dozens in Spain, while tech giants unveil new AI hardware and Sony introduces transparent PS5 accessories.",
+   "story_count": 42
+  },
+  {
+   "date": "2026-10-27",
+   "headline": "Apple refreshes entry-level MacBook Pro and iMac with M6 chips, while Anthropic files for its IPO and Nintendo announces an Indie World Showcase.",
+   "story_count": 47
+  },
+  {
+   "date": "2026-10-26",
+   "headline": "Anthropic files for a blockbuster IPO revealing massive scale and existential risk warnings, while Apple debuts the OLED iPad mini and Microsoft offers buyouts to a quarter of its workforce.",
+   "story_count": 41
+  },
+  {
+   "date": "2026-10-25",
+   "headline": "Global markets and political tensions take center stage as tech leaders face increased scrutiny and Apple prepares for major product reveals.",
+   "story_count": 50
+  },
+  {
+   "date": "2026-10-24",
+   "headline": "500 new articles from 172 feeds, grouped into 443 stories.",
+   "story_count": 118
+  },
+  {
+   "date": "2026-10-23",
+   "headline": "Apple launches the foldable iPhone Duo as global markets react to tech developments, regulatory actions, and major industry shifts.",
+   "story_count": 43
+  },
+  {
+   "date": "2026-10-22",
+   "headline": "Massive global PHP security vulnerabilities disrupt web infrastructure and gaming services as tech companies rush to respond.",
+   "story_count": 42
+  },
+  {
+   "date": "2026-10-21",
+   "headline": "Critical PHP memory-management vulnerabilities disrupt websites globally as AI agents independently uncover zero-day flaws.",
+   "story_count": 44
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Tech and world events shape today's brief, highlighted by major Apple manufacturing expansions, a massive Google Cloud outage hitting European banks, and escalating geopolitical tensions.",
+   "story_count": 38
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Apple announces an October 28 event for its expected touchscreen MacBook and M6 hardware, while the US bans DeepSeek in federal agencies and AI labs grapple with societal and labor pressures.",
+   "story_count": 46
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Global AI labs shift toward autonomous agent workflows, while massive student protests and violent clashes rock France and ongoing drone strikes hit St. Petersburg.",
+   "story_count": 31
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Pope Leo XIV is discharged from the hospital following lung cancer surgery as global leaders react to shifting U.S. sanctions and ongoing geopolitical tensions.",
+   "story_count": 37
+  },
+  {
+   "date": "2026-10-16",
+   "headline": "Apple's iPhone Duo launches to immediate sellouts and shipping delays into 2027, while AI labs and regulators face new safety and trade oversight.",
+   "story_count": 43
+  },
+  {
+   "date": "2026-10-15",
+   "headline": "Grand Theft Auto 6 drops its official launch trailer, while the FTC subpoenas top AI labs and President Trump calls off a high-profile execution livestream.",
+   "story_count": 52
+  },
+  {
+   "date": "2026-10-14",
+   "headline": "A former OpenAI employee was arrested for planting a recording device in company offices as labs race to deploy advanced autonomous agents and governments navigate infrastructure shifts.",
+   "story_count": 46
+  },
+  {
    "date": "2026-10-13",
    "headline": "903 new articles from 174 feeds, grouped into 737 stories.",
    "story_count": 281
