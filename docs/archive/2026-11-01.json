@@ -1,0 +1,1746 @@
+{
+ "version": 1,
+ "headline": "The FBI attributes a record $6.3 billion Binance hack to North Korea as the exchange moves to cover losses and resume operations.",
+ "top": [
+  {
+   "id": "2a1da0320a56",
+   "title": "FBI Attributes $6.3 Billion Binance Hack to North Korea as Platform Begins Restoring Withdrawals",
+   "summary": "The FBI announced North Korean actors were behind the $6.3 billion cyberattack targeting Binance, converting stolen funds primarily into Ethereum. Binance says it has replenished over 90 percent of the lost assets and is gradually reopening customer withdrawals.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Europe",
+   "published": "2026-11-01T11:00:47Z",
+   "outlet_count": 18,
+   "sources": [
+    {
+     "outlet": "Euronews",
+     "title": "FBI blames North Korea for $6.3 billion Binance crypto hack",
+     "url": "https://www.euronews.com/2026/11/01/fbi-blames-north-korea-for-63-billion-binance-crypto-hack",
+     "published": "2026-11-01T08:15:37Z",
+     "official": false
+    },
+    {
+     "outlet": "The Verge",
+     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+     "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+     "published": "2026-10-31T18:40:32Z",
+     "official": false
+    },
+    {
+     "outlet": "The Hill",
+     "title": "Binance recovers 90 percent of stolen assets from hack",
+     "url": "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
+     "published": "2026-10-31T19:08:38Z",
+     "official": false
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Binance says billions replaced from hack that FBI blames on North Korea",
+     "url": "https://www.cbc.ca/news/world/binance-hack-north-korea-9.7404502?cmp=rss",
+     "published": "2026-10-31T22:54:58Z",
+     "official": false
+    },
+    {
+     "outlet": "The Straits Times",
+     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
+     "url": "https://www.straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
+     "published": "2026-10-31T23:33:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Yahoo News",
+     "title": "FBI says North Korea was behind $6 billion crypto theft from Binance",
+     "url": "https://www.yahoo.com/news/us/articles/fbi-links-record-6-3-010848750.html",
+     "published": "2026-11-01T01:08:48Z",
+     "official": false
+    },
+    {
+     "outlet": "RTÉ News (Ireland)",
+     "title": "FBI says North Korea behind $6bn crypto theft",
+     "url": "https://www.rte.ie/news/2026/1101/1597504-binance-theft/",
+     "published": "2026-11-01T01:58:13Z",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg via Techmeme",
+     "title": "The FBI attributes the $6B+ Binance hack to North Korea's TraderTraitor hacking group, which the agency also previously blamed for the ~$1.5B Bybit hack",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+     "published": "2026-11-01T04:10:01Z",
+     "official": false
+    },
+    {
+     "outlet": "KBS World",
+     "title": "FBI Attributes $6.3 Billion Crypto Theft to N. Korea",
+     "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205263",
+     "published": "2026-11-01T04:55:47Z",
+     "official": false
+    },
+    {
+     "outlet": "The Korea Herald",
+     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
+     "url": "https://www.koreaherald.com/article/10921777",
+     "published": "2026-11-01T06:23:56Z",
+     "official": false
+    },
+    {
+     "outlet": "Reuters via Techmeme",
+     "title": "Binance says it plans to resume withdrawals in phases starting Sunday, after covering 95% of the ~$6.3B in tokens stolen in the hack, including BTC and ETH",
+     "url": "https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/",
+     "published": "2026-11-01T06:30:02Z",
+     "official": false
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "published": "2026-11-01T06:53:18Z",
+     "official": false
+    },
+    {
+     "outlet": "Deutsche Welle (Germany)",
+     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+     "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-11-01T07:33:00Z",
+     "official": false
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-01T09:28:06Z",
+     "official": false
+    },
+    {
+     "outlet": "Le Monde (France)",
+     "title": "Cryptocurrency platform Binance hack: Platform announces reopening of withdrawals, FBI accuses North Korea of the 'heist of the century'",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-la-plateforme-annonce-rouvrir-les-retraits-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408997.html",
+     "published": "2026-11-01T10:04:17Z",
+     "translated_from": "fr",
+     "original_title": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
+     "official": false
+    },
+    {
+     "outlet": "Tagesschau (Germany)",
+     "title": "FBI blames North Korea for cyberattack on Binance",
+     "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+     "published": "2026-11-01T10:08:00Z",
+     "translated_from": "de",
+     "original_title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+     "official": false
+    },
+    {
+     "outlet": "franceinfo (France)",
+     "title": "Cryptocurrency Platform Binance Announces Resumption of Withdrawals Following $6 Billion Hack",
+     "url": "https://www.franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-annonce-une-reprise-des-retraits-apres-un-piratage-commis-par-des-hackers-de-coree-du-nord-selon-les-accusations-du-fbi_8262545.html#xtor=RSS-3-[lestitres]",
+     "published": "2026-11-01T10:31:36Z",
+     "translated_from": "fr",
+     "original_title": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits après avoir perdu plus de six milliards de dollars dans un piratage",
+     "official": false
+    },
+    {
+     "outlet": "CBS News",
+     "title": "Binance resumes withdrawals for some cryptocurrencies after heist",
+     "url": "https://www.cbsnews.com/news/binance-crypto-heist-withdrawals/",
+     "published": "2026-11-01T10:35:55Z",
+     "official": false
+    },
+    {
+     "outlet": "Just the News",
+     "title": "FBI says North Korea behind theft of $6 billion in crypto assets from Binance",
+     "url": "https://justthenews.com/politics-policy/cybersecurity/fbi-says-north-korea-behind-theft-6-billion-crypto-assets-binance?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+     "published": "2026-11-01T11:00:47Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "7a7903b7dd1d",
+   "title": "North Korea Tests Tactical Ballistic Missile Warhead Equipped with Cluster Munitions",
+   "summary": "North Korean state media and regional observers confirmed the successful test of a cluster bomb warhead designed for tactical ballistic missiles, aiming for deployment by the end of 2026. The test signals an escalation in regional firepower amid stalled diplomacy.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "Korea",
+   "published": "2026-11-01T09:31:00Z",
+   "outlet_count": 4,
+   "sources": [
+    {
+     "outlet": "Der Spiegel (Germany)",
+     "title": "North Korea Tests Missile Warheads with Cluster Munitions",
+     "url": "https://www.spiegel.de/ausland/nordkorea-testet-raketensprengkoepfe-mit-streumunition-a-e69a0279-7324-41e3-b4c8-fe875b9b6e8b#ref=rss",
+     "published": "2026-11-01T09:31:00Z",
+     "translated_from": "de",
+     "original_title": "Nordkorea testet Raketensprengköpfe mit Streumunition",
+     "official": false
+    },
+    {
+     "outlet": "NK News (North Korea)",
+     "title": "North Korea tests cluster warhead, plans military use by end of 2026",
+     "url": "https://www.nknews.org/2026/11/north-korea-tests-cluster-warhead-plans-military-use-by-end-of-2026/",
+     "published": "2026-11-01T01:18:18Z",
+     "official": false
+    },
+    {
+     "outlet": "KBS World",
+     "title": "N. Korea Tests Cluster Bomb Warhead for Tactical Ballistic Missiles",
+     "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205262",
+     "published": "2026-11-01T04:09:44Z",
+     "official": false
+    },
+    {
+     "outlet": "The Japan Times",
+     "title": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test",
+     "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/",
+     "published": "2026-11-01T04:12:00Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "b8087c5f391b",
+   "title": "Federal Judge Throws Out Donald Trump's $10 Billion Lawsuit Against Wall Street Journal",
+   "summary": "A federal judge dismissed Donald Trump's multi-billion-dollar lawsuit against Rupert Murdoch and The Wall Street Journal regarding coverage of an alleged Jeffrey Epstein letter, ruling the claims held no legal merit. The court criticized the legal effort as unsubstantiated.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "US",
+   "published": "2026-11-01T08:20:19Z",
+   "outlet_count": 13,
+   "sources": [
+    {
+     "outlet": "PBS NewsHour",
+     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+     "url": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+     "published": "2026-10-31T22:32:54Z",
+     "official": false
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
+     "url": "https://www.cbc.ca/news/world/trump-jeffrey-epstein-lawsuit-dismissed-9.7404357?cmp=rss",
+     "published": "2026-10-31T20:13:16Z",
+     "official": false
+    },
+    {
+     "outlet": "Axios",
+     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+     "url": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+     "published": "2026-10-31T20:22:31Z",
+     "official": false
+    },
+    {
+     "outlet": "Reason",
+     "title": "Trump vs. WSJ Libel Lawsuit over Trump's Alleged Birthday Wishes to Epstein Thrown out",
+     "url": "https://reason.com/volokh/2026/10/31/trump-vs-wsj-libel-lawsuit-over-trumps-alleged-birthday-wishes-to-epstein-thrown-out/",
+     "published": "2026-10-31T20:23:07Z",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "title": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-31/wsj-wins-dismissal-of-trump-s-10-billion-defamation-suit",
+     "published": "2026-10-31T20:23:45Z",
+     "official": false
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "title": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
+     "url": "https://www.wsj.com/us-news/law/judge-dismisses-trumps-lawsuit-against-wall-street-journal-publisher-again-709f7ebf?mod=rss_usnews",
+     "published": "2026-10-31T21:07:00Z",
+     "official": false
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Judge dismisses Trump’s $10 billion defamation suit over Epstein birthday card story",
+     "url": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
+     "published": "2026-10-31T21:09:34Z",
+     "official": false
+    },
+    {
+     "outlet": "Sky News",
+     "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
+     "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
+     "published": "2026-10-31T21:17:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Straight Arrow News",
+     "title": "Judge dismisses Trump’s libel suit against WSJ over Epstein birthday letter",
+     "url": "https://san.com/cc/judge-dismisses-trumps-libel-suit-against-wsj-over-epstein-birthday-letter/",
+     "published": "2026-10-31T22:16:08Z",
+     "official": false
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-01T00:41:24Z",
+     "official": false
+    },
+    {
+     "outlet": "CNA (Singapore)",
+     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
+     "url": "https://www.channelnewsasia.com/world/trump-us-judge-dismisses-lawsuit-wall-steet-journal-epstein-letter-6510451",
+     "published": "2026-11-01T01:18:06Z",
+     "official": false
+    },
+    {
+     "outlet": "The Hindu",
+     "title": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
+     "url": "https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece",
+     "published": "2026-11-01T06:55:24Z",
+     "official": false
+    },
+    {
+     "outlet": "NPR News",
+     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+     "published": "2026-11-01T08:20:19Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "2b51d8c5bce7",
+   "title": "Anthropic Moves to Restrict Game Cloning and Automated Reverse Engineering in Claude Opus",
+   "summary": "Anthropic rolled out updates limiting Claude Opus from reverse-engineering existing video games or producing direct clones following concerns over AI-cloned software flooding PC storefronts like Steam. The safeguards reflect growing intellectual property friction in generative code models.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "AI",
+   "published": "2026-10-31T21:46:36Z",
+   "outlet_count": 2,
+   "sources": [
+    {
+     "outlet": "IGN",
+     "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+     "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+     "published": "2026-10-31T21:46:36Z",
+     "official": false
+    },
+    {
+     "outlet": "HN",
+     "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+     "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+     "published": "2026-10-31T21:07:58Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+       "published": "2026-10-31T13:25:00Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "595e85eaef22",
+   "title": "DeepSeek Previews Autonomous Coding Agent Prototype to Compete with Claude Code",
+   "summary": "Chinese AI lab DeepSeek revealed 'Super-Agent', an open-source prototype capable of autonomously monitoring group chats for software bugs and proposing fixes. The project directly targets developer-facing autonomous tools recently fielded by Anthropic and OpenAI.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "AI",
+   "published": "2026-11-01T10:00:26Z",
+   "outlet_count": 2,
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+     "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+     "published": "2026-11-01T10:00:26Z",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg via Techmeme",
+     "title": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+     "published": "2026-11-01T06:00:13Z",
+     "official": false
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "def1915bc93f",
+     "title": "OpenAI Unifies ChatGPT and Codex Under Shared Token Quota Starting in December",
+     "summary": "OpenAI plans to merge Chat and Work modes into a unified interface, consolidating usage limits across Plus, Pro, and Business tiers into a single token-based bucket. The change moves away from separate unlimited prompting allowances in favor of proportional token consumption.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-01T09:51:06Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+       "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+       "published": "2026-11-01T09:51:06Z",
+       "official": false
+      },
+      {
+       "outlet": "Hacker News (100+ points)",
+       "title": "ChatGPT and Codex usage limits merging",
+       "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+       "published": "2026-10-31T21:49:07Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3e566ab8d770",
+     "title": "Researchers Detail Account Takeover Vulnerability in ChatGPT HTML Previews",
+     "summary": "Security researchers received a bounty after uncovering an exploit in ChatGPT's canvas and artifact previews that allowed arbitrary code execution in the sessions of users visiting malicious shared links. The flaw was resolved after demonstration of full account takeover potential.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-31T23:15:22Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Hacker News via Techmeme",
+       "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link",
+       "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+       "published": "2026-10-31T20:01:11Z",
+       "official": false
+      },
+      {
+       "outlet": "Simon Willison",
+       "title": "How We Took Over ChatGPT Accounts",
+       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+       "published": "2026-10-31T23:15:22Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "01c4f91ca2c4",
+     "title": "Anthropic Expands Watermarking to More Claude Models Ahead of EU AI Act Compliance",
+     "summary": "Anthropic introduced text watermarking across additional Claude variants to align with upcoming EU regulations, though researchers noted settings on Opus 4.6 and Sonnet 4.6 still permit trivial bypasses. The company is concurrently restricting users attempting to harvest data for training competing models.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-31T19:39:19Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+       "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+       "published": "2026-10-31T19:20:55Z",
+       "official": false
+      },
+      {
+       "outlet": "Hacker News (100+ points)",
+       "title": "Anthropic blocks users for anything touching training larger models",
+       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+       "published": "2026-10-31T19:39:19Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "6d85ce8afad6",
+     "title": "OpenAI Faces Backlash Over Cybersecurity Training Data Opt-In Changes",
+     "summary": "OpenAI announced it would ingest Daybreak Blue cybersecurity session logs for training by default regardless of prior opt-out settings, before walking back the change with an explicit exclusion mechanism following customer criticism. Separately, reports indicate the firm trimmed funding targets in its ongoing private round.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-10-31T16:38:37Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+       "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+       "published": "2026-10-31T16:38:37Z",
+       "official": false
+      },
+      {
+       "outlet": "TechCrunch",
+       "title": "OpenAI reportedly lowers funding target for new round",
+       "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+       "published": "2026-10-31T16:12:55Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c7ae5e5f42a0",
+     "title": "Chatbots Rely on Flawed AI-Generated Aggregate Sites for Midterm Election Queries",
+     "summary": "Audits revealed that leading conversational models frequently draw erroneous voter guidance from obscure automated political databases. The findings highlight persistent accuracy risks as voters increasingly query AI assistants ahead of elections.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-01T03:07:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Washington Post via Techmeme",
+       "title": "Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22%",
+       "url": "https://www.washingtonpost.com/technology/2026/10/30/how-an-obscure-website-became-force-americas-election-information-machine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkzMzMyODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0NzE4Nzk5LCJpYXQiOjE3OTMzMzI4MDAsImp0aSI6ImFlZmU1ZmI3LThlMmItNDYwOC1iMmVhLWJiZDg2YTFmZDQ1ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMzAvaG93LWFuLW9ic2N1cmUtd2Vic2l0ZS1iZWNhbWUtZm9yY2UtYW1lcmljYXMtZWxlY3Rpb24taW5mb3JtYXRpb24tbWFjaGluZS8ifQ.lCIALy15UkNNilYI0FU_HKDmoqz6MM-BgZD4xUT8pME&itid=gfta",
+       "published": "2026-11-01T01:00:14Z",
+       "official": false
+      },
+      {
+       "outlet": "The Japan Times",
+       "title": "Spewing U.S. election falsehoods, AI chatbots face scrutiny",
+       "url": "https://www.japantimes.co.jp/news/2026/11/01/world/politics/ai-chatbots-us-election-scrutiny/",
+       "published": "2026-11-01T03:07:00Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "6803ad62078f",
+     "title": "Guidewire Acquires AI Underwriting Platform Hyperexponential for Up to $2.1 Billion",
+     "summary": "Property and casualty software giant Guidewire agreed to buy cloud pricing platform hyperexponential for $1.7 billion in cash plus earnouts. The acquisition accelerates the integration of algorithmic risk calculation into legacy insurance suites.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-01T05:50:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Reuters via Techmeme",
+       "title": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B in cash",
+       "url": "https://www.reuters.com/legal/litigation/guidewire-buy-uk-insurance-ai-firm-hyperexponential-deal-worth-up-21-billion-2026-10-27/",
+       "published": "2026-11-01T05:50:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "eec66f5bdbb0",
+     "title": "Meta Partners with Fourier to Construct Experimental Humanoid Robot Prototypes",
+     "summary": "Meta developed a working bipedal robotics platform alongside Chinese firm Fourier in under three months and has commissioned a second iteration. Company representatives reiterated that the robotics prototypes are intended purely for internal research rather than commercial distribution.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-31T17:20:02Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Information via Techmeme",
+       "title": "Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units",
+       "url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
+       "published": "2026-10-31T17:20:02Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "d0e2301d55a3",
+     "title": "Voice AI Platform Deepgram Acquires WebRTC and Pipecat Creator Daily",
+     "summary": "Deepgram acquired Daily, the startup behind the popular open-source Pipecat voice pipeline, in an effort to unify realtime speech transcription with low-latency streaming infrastructure. Terms of the transaction were not disclosed.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-01T06:15:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "TechCrunch via Techmeme",
+       "title": "Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and develops open-source voice AI framework Pipecat, for an undisclosed sum",
+       "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+       "published": "2026-11-01T06:15:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "57929518eafb",
+     "title": "Chinese Brain-Computer Interface Startup NeuroXess Secures $105M Series B",
+     "summary": "NeuroXess completed a RMB 700 million funding round backed by Chinese institutional investors to advance implantable motor recovery and neural decoding hardware. The round signals sustained capital flows into non-invasive and clinical neural interfaces.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-01T06:25:02Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "TechNode via Techmeme",
+       "title": "Shanghai-based NeuroXess, which is developing BCI technology for movement support, speech decoding, and control of external devices, raised a ~$105M Series B",
+       "url": "https://technode.com/2026/10/28/brain-computer-interface-startup-neuroxess-raises-rmb-700-million-in-series-b-funding/",
+       "published": "2026-11-01T06:25:02Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2988ab0a5876",
+     "title": "Russian Hacktivist Infrastructure Attacks Target Physical Infrastructure Across NATO States",
+     "summary": "Intelligence reports highlight an ongoing wave of unsophisticated cyber disruptions attributed to Russian-aligned groups targeting industrial and civil operations in Western nations. While technically crude, several operations have successfully degraded physical municipal control devices.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-01T06:00:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Bloomberg via Techmeme",
+       "title": "A look at a crude campaign of cyberattacks by Russia-linked hacktivist groups that have caused physical damage in NATO-aligned countries over the past two years",
+       "url": "https://www.bloomberg.com/news/features/2026-10-27/russia-linked-hackers-are-turning-cyberattacks-into-a-physical-threat?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzI5NTc0NywiZXhwIjoxNzkzOTAwNTQ3LCJhcnRpY2xlSWQiOiJUTkw0NTNLR1pBSVYwMCIsImJjb25uZWN0SWQiOiJENTY5QzIyNzE4NUM0NkM4OTgxMjBGMUI2QTBFNDIwQSJ9.ZsPKeMVARRn7ayeTBSLo-FlCJ4yJhExizj_0dCtnLq4",
+       "published": "2026-11-01T06:00:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "6bd209feefbe",
+     "title": "Severe Linux TCP Use-After-Free Vulnerability Disclosed Under CVE-2026-98432",
+     "summary": "Engineers published technical disclosures regarding a CVSS 9.8 vulnerability within the network stack involving use-after-free conditions in TCP state handling. The bug poses remote code execution risks across unpatched networking endpoints.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-10-31T19:16:30Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Hacker News (100+ points)",
+       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+       "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+       "published": "2026-10-31T19:16:30Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "be1e1a7cae89",
+     "title": "Nintendo Sets Pikmin 4 Switch 2 Edition for November 12 Alongside New Dandori Academy Mode",
+     "summary": "Nintendo announced an upgraded Switch 2 release of Pikmin 4 scheduled for November 12, featuring an exclusive training challenge mode called Dandori Academy and a downloadable demo. The announcement was accompanied by a dedicated franchise showcase.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-11-01T10:04:13Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Eurogamer",
+       "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+       "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+       "published": "2026-11-01T10:04:13Z",
+       "official": false
+      },
+      {
+       "outlet": "Nintendo Life",
+       "title": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+       "url": "https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+       "published": "2026-11-01T06:45:00Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+         "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+         "published": "2026-11-01T05:45:00Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "f33d51281fd2",
+     "title": "Alleged Early In-Engine Footage of Persona 1 Remake Surfaces Online",
+     "summary": "Purported gameplay clips of a ground-up remake for the original Revelations: Persona circulated across forums, showing modern visual styling consistent with recent Atlus releases. The legitimacy of the leaked build remains unconfirmed by Sega.",
+     "importance": 3,
+     "label": "RUMOR-CREDIBLE",
+     "category": "Gaming",
+     "published": "2026-11-01T01:00:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Push Square",
+       "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online",
+       "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
+       "published": "2026-11-01T01:00:00Z",
+       "official": false
+      },
+      {
+       "outlet": "IGN",
+       "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+       "url": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+       "published": "2026-10-31T20:21:10Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3194870de442",
+     "title": "Turn 10 Studio Head Dan Greenawalt Reportedly Departs Microsoft",
+     "summary": "Reports indicate long-time Forza franchise co-creator Dan Greenawalt has left Microsoft following two decades leading Turn 10 Studios. The departure represents a major leadership shift for the publisher's core racing stable.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-01T04:05:48Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "PC Gamer",
+       "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+       "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+       "published": "2026-11-01T04:05:48Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "37da1ade84c3",
+     "title": "Extensive Community Modding Toolkit for Alien: Isolation Hits Version 1.0",
+     "summary": "Community developers released the 1.0 build of a full-featured creation suite for Alien: Isolation, adding support for custom levels, character animations, missions, and scripted AI behavior. The release enables full overhaul mods for the survival horror title nearly a decade after release.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-01T01:30:27Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "PC Gamer",
+       "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+       "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
+       "published": "2026-11-01T01:30:27Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3baa27220287",
+     "title": "Modern Warfare 4 on Switch 2 Plagued by Severe Controller Latency",
+     "summary": "Competitive players report severe input lag on the Nintendo Switch 2 build of Call of Duty: Modern Warfare 4, resulting in a noticeable disadvantage against crossplay opponents. Activision has not yet published an optimization patch.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-10-31T23:32:09Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "IGN",
+       "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+       "url": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+       "published": "2026-10-31T23:32:09Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c2cfd965c9fd",
+     "title": "Rumors Suggest Days Gone Creator Bend Studio Target 2027 Co-Op Action Title",
+     "summary": "Reports suggest Sony first-party studio Bend Studio is targeting a 2027 release date for an unannounced third-person cooperative shooter on PlayStation 5. The project marks the developer's first new production since concluding post-launch updates for Days Gone.",
+     "importance": 2,
+     "label": "RUMOR-UNVERIFIED",
+     "category": "Gaming",
+     "published": "2026-11-01T00:00:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Push Square",
+       "title": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
+       "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
+       "published": "2026-11-01T00:00:00Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": [
+    {
+     "id": "5c3c4a999e93",
+     "title": "District of Columbia and Virginia Sue to Block Construction of Trump Triumphal Arch",
+     "summary": "Municipal and state attorneys filed federal lawsuits to halt initial construction work on a proposed presidential triumphal arch in Washington, D.C. A federal judge instructed both jurisdictions and federal officials to establish an expedited briefing schedule for emergency injunctive relief.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-10-31T22:48:51Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "NPR Politics",
+       "title": "Virginia and D.C. sue to block construction of Trump arch",
+       "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+       "published": "2026-10-31T22:48:51Z",
+       "official": false
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Virginia and D.C. sue to stop proposed Trump arch",
+       "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+       "published": "2026-10-31T17:03:15Z",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
+       "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
+       "published": "2026-10-31T17:57:45Z",
+       "official": false
+      },
+      {
+       "outlet": "Time",
+       "title": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
+       "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-/",
+       "published": "2026-10-31T19:28:26Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
+       "url": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+       "published": "2026-10-31T19:29:25Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "90f00e70fd82",
+     "title": "President Trump Reiterates Possible Striking of Remaining Military Targets in Iran",
+     "summary": "President Donald Trump stated that the U.S. continues to track several remaining operational facilities inside Iran, while claiming Washington is in no immediate rush following earlier strikes against Iranian nuclear and defense infrastructure.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-01T10:48:46Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "The Straits Times",
+       "title": "Trump says US still has ‘one or two targets’ in Iran",
+       "url": "https://www.straitstimes.com/world/united-states/trump-says-us-still-has-one-or-two-targets-in-iran",
+       "published": "2026-11-01T04:20:00Z",
+       "official": false
+      },
+      {
+       "outlet": "RTÉ News (Ireland)",
+       "title": "Trump says US still has 'one or two targets' in Iran",
+       "url": "https://www.rte.ie/news/2026/1101/1597505-middle-east-iran/",
+       "published": "2026-11-01T03:14:59Z",
+       "official": false
+      },
+      {
+       "outlet": "TheJournal.ie (Ireland)",
+       "title": "Trump says US still has 'one or two' targets remaining in Iran",
+       "url": "https://www.thejournal.ie/trump-iran-targets-7211416-Nov2026/",
+       "published": "2026-11-01T07:25:04Z",
+       "official": false
+      },
+      {
+       "outlet": "The Hindu",
+       "title": "President Trump says U.S. still has ‘one or two targets’ in Iran",
+       "url": "https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece",
+       "published": "2026-11-01T07:47:55Z",
+       "official": false
+      },
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "Iranian Military Warns US Attacks Could Target US Facilities and Troops Outside West Asia",
+       "url": "https://www.chosun.com/international/international_general/2026/11/01/MRTGMM3BGA4GMNBTGZSGINJUGY/",
+       "published": "2026-11-01T10:48:46Z",
+       "translated_from": "ko",
+       "original_title": "이란군 “미국이 공격하면 서아시아 밖 미군 시설·병력도 타격”",
+       "official": false,
+       "also": [
+        {
+         "title": "Iranian Military Warns US Attacks Could Target US Facilities and Troops Outside West Asia",
+         "url": "https://www.chosun.com/jp/international-jp/2026/11/01/PYLR7DPOQZG3RGI7TZZXGYH6ZI/",
+         "published": "2026-11-01T10:48:46Z",
+         "translated_from": "ko",
+         "original_title": "イラン軍「米国が攻撃なら西アジア外の米軍施設・兵力も攻撃」"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "eb078dd21bf2",
+     "title": "FBI Widens Campaign Finance Inquiry Surrounding Alaska Senate Candidate",
+     "summary": "Federal investigators interviewed donors across Alaska and Massachusetts in connection with a campaign finance probe involving independent Senate contender Dan J. Sullivan. The inquiry comes during final campaigning days ahead of the national midterm elections.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-01T07:26:18Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "FBI visits Dan J. Sullivan donor in candidate's hometown as Alaska Senate inquiry widens",
+       "url": "https://www.pbs.org/newshour/politics/fbi-visits-dan-j-sullivan-donor-in-candidates-hometown-as-alaska-senate-inquiry-widens",
+       "published": "2026-10-31T20:50:16Z",
+       "official": false
+      },
+      {
+       "outlet": "HuffPost",
+       "title": "FBI Visits Dan J. Sullivan Donor In Candidate's Home Town As Alaska Senate Inquiry Widens",
+       "url": "https://www.huffpost.com/entry/alaska-senate-investigation-fbi-visit_n_6ae5e7dae4b038f4fbe0ef91",
+       "published": "2026-10-31T13:14:25Z",
+       "official": false
+      },
+      {
+       "outlet": "New York Post",
+       "title": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate",
+       "url": "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
+       "published": "2026-11-01T07:26:18Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "97bc6f9ac531",
+     "title": "One Dead and Nine Wounded in Mass Shooting Following Alabama College Football Game",
+     "summary": "Gunfire erupted in Birmingham following the conclusion of the Magic City Classic football game, leaving one bystander dead and nine wounded. Local authorities have cordoned off the area and are reviewing surveillance footage.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-01T09:10:29Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Newsweek",
+       "title": "1 Dead, 9 Injured in Shooting After Alabama Football Game",
+       "url": "https://www.newsweek.com/1-dead-9-injured-in-shooting-after-alabama-football-game-12646174",
+       "published": "2026-11-01T09:10:29Z",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "1 person killed and 8 others injured in Alabama shooting after football game",
+       "url": "https://abcnews.com/US/1-dead-8-injured-alabama-shooting-after-football/story?id=137744731",
+       "published": "2026-11-01T07:13:04Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "da8f6adeb6ba",
+     "title": "Congressional Candidates Clash Over Surge in AI Data Center Approvals",
+     "summary": "Rapid development of power-hungry AI server infrastructure has emerged as a contentious local policy battle across Texas and New York, driven by public debate over regional electric grid stability and tax subsidies.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-01T02:22:10Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "Data centers are now a midterm issue, even in Brooklyn",
+       "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+       "published": "2026-11-01T02:22:10Z",
+       "official": false
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Texas Democrats see data centers as a winning issue",
+       "url": "https://abcnews.com/Politics/texas-democrats-data-centers-winning-issue/story?id=137684995",
+       "published": "2026-10-31T10:42:13Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "682a767aca56",
+     "title": "Large-Scale Demonstrations in New Delhi Demand Resignation of Election Chief",
+     "summary": "Thousands of opposition supporters protested in India's capital to demand the departure of the country's chief election officer following controversial voter registry purges. The demonstration represents one of the largest united opposition actions against Prime Minister Narendra Modi's administration this year.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-01T10:13:07Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "South China Morning Post",
+       "title": "Indian opposition unites to demand Modi electoral chief’s resignation",
+       "url": "https://www.scmp.com/news/asia/south-asia/article/3372886/indian-opposition-unites-demand-modi-electoral-chiefs-resignation",
+       "published": "2026-11-01T10:13:07Z",
+       "official": false
+      },
+      {
+       "outlet": "Bloomberg",
+       "title": "India’s Protest Movements Unite in Fresh Headache for Modi",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-01/india-s-protest-movements-unite-in-fresh-headache-for-modi",
+       "published": "2026-11-01T02:30:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Japan Times",
+       "title": "India’s protest movements unite in fresh headache for Modi",
+       "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/politics/india-protest-movements-unite-modi/",
+       "published": "2026-11-01T03:06:00Z",
+       "official": false
+      },
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Thousands join Indian opposition protest demanding poll chief’s resignation",
+       "url": "https://www.channelnewsasia.com/asia/thousands-join-indian-opposition-protest-demanding-poll-chiefs-resignation-6510591",
+       "published": "2026-11-01T04:42:00Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "India's opposition holds mega rally seeking election chief's resignation",
+       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-01T07:00:55Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c0ad29099394",
+     "title": "Bolivia Declares Nationwide State of Emergency Over Severe El Nino Climate Disruptions",
+     "summary": "The Bolivian government enacted an emergency decree as severe weather and unseasonal flooding linked to the intensifying El Niño pattern displace tens of thousands of rural families. The move unlocks immediate federal disaster financing.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-01T09:35:00Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Bolivia declares state of emergency over El Nino",
+       "url": "https://www.channelnewsasia.com/world/bolivia-state-emergency-el-nino-climate-change-6510571",
+       "published": "2026-11-01T03:33:02Z",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times",
+       "title": "Bolivia declares state of emergency over El Nino",
+       "url": "https://www.straitstimes.com/world/bolivia-declares-state-of-emergency-over-el-nino",
+       "published": "2026-11-01T03:15:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
+       "url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-01T06:19:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Der Spiegel (Germany)",
+       "title": "Bolivia declares state of emergency due to El Niño",
+       "url": "https://www.spiegel.de/panorama/bolivien-ruft-wegen-el-nino-notstand-aus-a-401ee340-5c87-4ef0-9e04-6f4678cf51ae#ref=rss",
+       "published": "2026-11-01T09:35:00Z",
+       "translated_from": "de",
+       "original_title": "Bolivien ruft wegen El Niño Notstand aus",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f2f88d1b51e9",
+     "title": "Bulgaria Holds Presidential Runoff Amid Rising Maritime Tensions in Black Sea",
+     "summary": "Bulgarian citizens cast ballots in a close presidential runoff held against the backdrop of recurrent naval drone strikes against merchant shipping nearby in the Black Sea. The outcome is expected to define the country's alignment within NATO defense pacts.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-01T09:21:00Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Bulgaria votes in presidential runoff after tight first round",
+       "url": "https://www.channelnewsasia.com/world/bulgaria-votes-in-presidential-runoff-after-tight-first-round-6510741",
+       "published": "2026-11-01T09:21:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Le Monde (France)",
+       "title": "Presidential Runoff Opens in Bulgaria Amid Tight Contest Against Backdrop of Tensions with Russia",
+       "url": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html",
+       "published": "2026-11-01T08:42:19Z",
+       "translated_from": "fr",
+       "original_title": "En Bulgarie, le second tour de l’élection présidentielle est ouvert, duel serré en vue sur fond de tensions avec la Russie",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times",
+       "title": "Bulgaria votes in presidential runoff after tight first round",
+       "url": "https://www.straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round",
+       "published": "2026-11-01T08:52:15Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "ff328fe4afff",
+     "title": "United Nations Demands Immediate Investigation After Staff Member Dies in Houthi Custody",
+     "summary": "The UN called for accountability and international inquiries following the death of an imprisoned staff member held by Yemen's Houthi forces. Dozens of humanitarian and diplomatic personnel remain detained in Sanaa.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-01T10:23:05Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Euronews",
+       "title": "UN demands urgent investigation after death of staff member held in Houthi custody",
+       "url": "https://www.euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
+       "published": "2026-11-01T10:23:05Z",
+       "official": false
+      },
+      {
+       "outlet": "Sky News",
+       "title": "UN demands investigation into death of staff member in Houthi custody",
+       "url": "https://news.sky.com/story/un-demands-investigation-into-death-of-staff-member-in-houthi-custody-13606554",
+       "published": "2026-11-01T01:17:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f60e09307cb3",
+     "title": "Turkey Relocates Imprisoned Kurdish Leader Abdullah Ocalan to Facilitate Peace Talks",
+     "summary": "Turkish authorities transferred Kurdish leader Abdullah Ocalan to a newly renovated facility on the Imrali prison island as part of renewed state discussions intended to de-escalate decades-old insurgent hostilities.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-01T09:45:06Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "South China Morning Post",
+       "title": "Turkey moves Kurdish militant leader as part of peace process",
+       "url": "https://www.scmp.com/news/world/europe/article/3372883/turkey-moves-kurdish-militant-leader-part-peace-process",
+       "published": "2026-11-01T09:45:06Z",
+       "official": false
+      },
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Turkey moves Kurdish militant leader Ocalan to a new part of an island prison under peace push",
+       "url": "https://www.channelnewsasia.com/world/turkey-moves-kurdish-militant-leader-ocalan-new-part-island-prison-under-peace-push-6510726",
+       "published": "2026-11-01T09:04:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2de8b42d801e",
+     "title": "Trump Expresses Support for Nvidia Chief Following Reports of Foreign Espionage Threat",
+     "summary": "The White House confirmed U.S. intelligence agencies are investigating suspected foreign intelligence operations aimed at Nvidia CEO Jensen Huang. Federal officials stated they take any domestic targeting of domestic semiconductor leadership seriously.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-01T05:06:24Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Trump says US looking ‘closely’ at report Nvidia CEO is target of China spy plot",
+       "url": "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641",
+       "published": "2026-11-01T05:06:24Z",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times",
+       "title": "Trump says US looking ‘closely’ at report Nvidia CEO is target of China spy plot",
+       "url": "https://www.straitstimes.com/world/united-states/trump-says-us-looking-closely-at-report-nvidia-ceo-target-of-china-spy-plot",
+       "published": "2026-11-01T04:10:00Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "489703e5a82c",
+     "title": "Cost-of-Living Demonstrations Turn Violent in Major German Cities",
+     "summary": "Youth-led rallies over economic inequality and education funding devolved into overnight clashes and widespread commercial looting across Berlin, Frankfurt, and Hamburg. Police deployed water cannons and arrested dozens following confrontations with black-bloc factions.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-01T10:41:13Z",
+     "outlet_count": 9,
+     "sources": [
+      {
+       "outlet": "France 24",
+       "title": "Youth-led rallies sweep Europe",
+       "url": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
+       "published": "2026-11-01T09:38:00Z",
+       "official": false
+      },
+      {
+       "outlet": "RFI (France)",
+       "title": "France sees third weekend of protests as youth-led rallies sweep Europe",
+       "url": "https://www.rfi.fr/en/france/20261031-france-sees-third-weekend-of-protests-as-youth-led-rallies-sweep-europe",
+       "published": "2026-10-31T17:46:47Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+       "url": "https://www.pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
+       "published": "2026-10-31T18:14:30Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR News",
+       "title": "France seethes again as youth-led protests sweep Europe",
+       "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+       "published": "2026-10-31T19:30:19Z",
+       "official": false
+      },
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "German rioters loot shops as ‘Gen Z’ protests turn ugly",
+       "url": "https://www.channelnewsasia.com/world/germany-gen-z-looting-protests-violent-europe-6510521",
+       "published": "2026-11-01T02:56:00Z",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Rioters loot stores in Germany amid cost of living protests",
+       "url": "https://www.cbsnews.com/news/germany-protest-frankfurt-looting-violence/",
+       "published": "2026-11-01T05:53:35Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Shops looted as German cost of living protests turn violent",
+       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-01T08:43:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Bloomberg",
+       "title": "German Protests Turn Violent as Activists Clash With Police",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-01/german-protests-turn-violent-as-activists-clash-with-police",
+       "published": "2026-11-01T09:31:22Z",
+       "official": false
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Photos: Youth-led rallies sweep Germany",
+       "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-youth-led-rallies-sweep-germany?traffic_source=rss",
+       "published": "2026-11-01T10:41:13Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "bae0b3dbaeb8",
+     "title": "Ukrainian Drone Strike Ignites Major Lukoil Oil Refinery in Kstovo, Russia",
+     "summary": "A long-range Ukrainian drone assault sparked substantial fires at the Nizhegorodnefteorgsintez refining complex in Kstovo, one of Russia's critical hydrocarbon processors. Russian regional authorities confirmed strikes on an industrial facility while assessing supply disruptions.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-01T07:13:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Euronews",
+       "title": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit",
+       "url": "https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
+       "published": "2026-11-01T07:13:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Kyiv Independent (Ukraine)",
+       "title": "Russian oil refinery in Kstovo ablaze after reported overnight drone strike",
+       "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/",
+       "published": "2026-11-01T03:25:48Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "42ab779f9f56",
+     "title": "European Union Institutes Handling Surcharge on Non-EU Consumer Parcels",
+     "summary": "A mandatory €2 handling fee entered into effect for small packages arriving into the EU from outside the bloc, targeting low-cost direct-from-China retail logistics. The policy aims to reduce customs processing burdens and discourage low-cost import dumping.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Europe",
+     "published": "2026-11-01T02:23:21Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "EU’s new levy on parcels kicks in",
+       "url": "https://www.channelnewsasia.com/world/eu-new-parcels-levy-china-6510491",
+       "published": "2026-11-01T02:23:21Z",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times",
+       "title": "EU’s new levy on parcels kicks in",
+       "url": "https://www.straitstimes.com/world/europe/eus-new-levy-on-parcels-kicks-in",
+       "published": "2026-11-01T01:57:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "fbde2d009350",
+     "title": "Former UK Chancellor Rachel Reeves Argues Britain's Long-Term Future Lies Inside EU",
+     "summary": "In her first major public address since departing the Treasury, Rachel Reeves criticized post-Brexit economic sluggishness and argued the UK should explore eventual reintegration into European single market frameworks.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-01T10:47:03Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Politico Europe",
+       "title": "UK’s future lies in EU, says Rachel Reeves",
+       "url": "https://www.politico.eu/article/uk-future-eu-says-rachel-reeves/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "published": "2026-11-01T10:45:36Z",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+       "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+       "published": "2026-11-01T09:55:20Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Reeves says UK's future should be inside the EU",
+       "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-01T10:47:03Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "1a09582d16d8",
+     "title": "Japan Implements Departure Refund System for Foreign Tourist Duty-Free Purchases",
+     "summary": "A revised consumption tax refund mechanism took effect nationwide, requiring international visitors to verify merchandise and collect duty refunds at transit ports rather than paying pre-discounted prices at registers. The change was implemented to prevent domestic resale fraud.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Japan",
+     "published": "2026-11-01T10:21:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "New 'refund system' for foreign tourist tax-free shopping introduced from the 1st",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261101de69141",
+       "published": "2026-11-01T10:21:00Z",
+       "translated_from": "ja",
+       "original_title": "外国人旅行者向け免税制度 1日から「リファンド方式」導入",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "011cac09f4a4",
+     "title": "Cabinet-Level Disaster Management Agency Formally Launches Under Minister Hosono",
+     "summary": "The Japanese government officially launched its newly structured Disaster Management Agency under direct Cabinet control, headed by Reconstruction Minister Hosono. The unified agency aims to coordinate emergency logistics and climate response nationwide.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-01T10:51:44Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Mainichi Shimbun (Japanese)",
+       "title": "Disaster Management Agency to Launch on November 2, Direct Cabinet Control with Reconstruction Minister Hosono to Serve as First Head",
+       "url": "https://mainichi.jp/articles/20261101/k00/00m/010/309000c",
+       "published": "2026-11-01T10:51:44Z",
+       "translated_from": "ja",
+       "original_title": "防災庁、2日発足 内閣直属、初代防災相は細野復興相が兼務へ",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "253215077c08",
+     "title": "Corporate Yen Bond Issuance Surpasses $16 Billion Driven by AI Infrastructure Funding",
+     "summary": "Domestic yen-denominated corporate debt sales set an all-time record of $16 billion as domestic conglomerates and technology firms race to fund data center capacity and sovereign compute projects.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-01T11:00:47Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+       "url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan",
+       "published": "2026-11-01T11:00:47Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "02f53dc4f9af",
+     "title": "Search Continues for Missing Men Swept Off Breakwater in Ibaraki Prefecture",
+     "summary": "The Japan Coast Guard deployed rescue teams in Kashima after four foreign nationals were washed into the sea by sudden rough swells. Two people reached the shore unaided while two others remain unaccounted for.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-01T09:39:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "Four Indonesian men fall into the sea in Kashima, Ibaraki; two missing",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261101de69207",
+       "published": "2026-11-01T09:39:00Z",
+       "translated_from": "ja",
+       "original_title": "茨城 鹿嶋 インドネシア国籍男性4人か 海に転落 2人行方不明",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "380266fc310d",
+     "title": "South Korean Exports Reach Second-Highest Total on AI Semiconductor Boom",
+     "summary": "South Korea recorded over $110 billion in monthly shipments in October, pushing cumulative ten-month exports past $900 billion for the first time in history. Trade officials attributed the record volume to sustained global procurement of high-bandwidth memory chips.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Korea",
+     "published": "2026-11-01T03:49:21Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "KBS World",
+       "title": "October Exports Hit Second-Highest Monthly Total on Record",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205261",
+       "published": "2026-11-01T03:49:21Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e1120e4b18ae",
+     "title": "Seoul Updates Financial Fraud Statutes to Cover Virtual Asset Exchanges",
+     "summary": "New regulatory guidelines took effect extending telecom fraud and voice phishing protections to digital currency trading platforms, permitting automatic freezing of suspicious accounts and speedier restitution for victims.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-01T05:30:11Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "[Legal updates in Korea] New protections for voice phishing victims involving virtual assets",
+       "url": "https://www.koreaherald.com/article/10921742",
+       "published": "2026-11-01T05:30:11Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "440fca5ccfb4",
+     "title": "Seoul Court Rules Refusing Working Mother's Leave Based on Gender Constitutes Harassment",
+     "summary": "A district court issued a precedent-setting ruling determining that a managerial remark instructing a female employee taking childcare leave to make her husband manage childcare constitutes illegal workplace harassment under labor statutes.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-01T06:19:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "Telling working mom to 'have husband care for child' is workplace harassment: court",
+       "url": "https://www.koreaherald.com/article/10921775",
+       "published": "2026-11-01T06:19:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "11f26e23bae5",
+     "title": "South Korea Deregulates Public Institution Asset Sales Process",
+     "summary": "The Ministry of Economy and Finance concluded administrative overhauls eliminating the long-standing requirement for prime ministerial approval prior to state corporations liquidating surplus real estate and capital assets.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-01T10:42:38Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "Prime Minister's Prior Approval No Longer Required for Public Institution Asset Sales",
+       "url": "https://www.chosun.com/economy/economy_general/2026/11/01/GJRGIYTBGE2TKYRQGQZWIYTGG4/",
+       "published": "2026-11-01T10:42:38Z",
+       "translated_from": "ko",
+       "original_title": "공공기관 자산 매각 때 총리 사전 재가 안 받아도 된다",
+       "official": false,
+       "also": [
+        {
+         "title": "Public Institution Asset Sales No Longer Require Prime Minister's Prior Approval",
+         "url": "https://www.chosun.com/jp/economy-jp/2026/11/01/DNFVNSFDQVBCFHIZ55EWXD56SI/",
+         "published": "2026-11-01T10:42:38Z",
+         "translated_from": "ko",
+         "original_title": "公共機関の資産売却、首相の事前承認不要に"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "dbb97063a253",
+     "title": "Turkish and East Timorese Presidents Schedule Bilateral Summits in Seoul",
+     "summary": "President Lee Jae Myung will host Turkey's Recep Tayyip Erdogan and East Timor's Jose Ramos-Horta for bilateral economic and security discussions this week in Seoul.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-01T10:35:22Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "Turkish, East Timorese presidents to visit S. Korea this week for talks with Lee",
+       "url": "https://www.koreaherald.com/article/10921878",
+       "published": "2026-11-01T10:35:22Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Lee to receive leaders from Turkey, East Timor this week",
+         "url": "https://www.koreaherald.com/article/10921866",
+         "published": "2026-11-01T09:47:01Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "Turkish, East Timorese presidents to visit S. Korea this week for talks with Lee",
+       "url": "https://en.yna.co.kr/view/AEN20261101004100315",
+       "published": "2026-11-01T09:49:08Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c4830f864d12",
+     "title": "Samsung Lions Eliminate KIA Tigers to Advance to Korean Series",
+     "summary": "The Samsung Lions defeated the KIA Tigers 6-1 in Game 5 of the KBO playoffs behind a dominant pitching performance by Ariel Jurado, punching their ticket to the Korean Series championship round.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-01T10:48:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Chosun Ilbo (Korean)",
+       "title": "KIA's Thrilling Autumn Journey Ends in 3rd Place Despite Pre-season Lower-Tier Predictions",
+       "url": "https://www.chosun.com/sports/baseball/2026/11/01/MEYDKMZQHA2TAZJQMEZTMZRRMM/",
+       "published": "2026-11-01T10:48:00Z",
+       "translated_from": "ko",
+       "original_title": "하위권 평가 무색 역전 3위, KIA 전율의 가을여정 마침표...다시 뜨거웠고 아름다웠다",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "Jurado pitches Lions to Korean Series with 2nd straight postseason gem",
+       "url": "https://en.yna.co.kr/view/AEN20261101003751315",
+       "published": "2026-11-01T09:01:41Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Lions beat Tigers to reach Korean Series",
+         "url": "https://en.yna.co.kr/view/AEN20261101003651315",
+         "published": "2026-11-01T08:09:02Z"
+        },
+        {
+         "title": "Jurado pitches Lions to Korean Series with 2nd straight postseason gem",
+         "url": "https://en.yna.co.kr/view/AEN20261101003700315",
+         "published": "2026-11-01T07:48:43Z"
+        },
+        {
+         "title": "Lions beat Tigers to reach Korean Series",
+         "url": "https://en.yna.co.kr/view/AEN20261101003600315",
+         "published": "2026-11-01T07:42:56Z"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "7b4e9eab64d5",
+     "title": "Nintendo Switch 2 System Discounted to $469 on Woot",
+     "summary": "Woot has discounted brand-new units of the Nintendo Switch 2 console to $469 while warehouse stock lasts.",
+     "importance": 3,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-01T05:01:23Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "(NEW) Nintendo Switch 2 System $469 on Woot",
+       "url": "https://buff.ly/MLIlV8E",
+       "published": "2026-11-01T05:01:23Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "4fcec01a4ca7",
+     "title": "Newegg $100 Digital Gift Cards Available for $85",
+     "summary": "Shoppers can secure $100 Newegg digital gift cards for $85 by applying coupon code NEGCDAY85 during checkout.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-01T07:54:43Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Newegg $100 Gift Card Code is $85 w/ code NEGCDAY85",
+       "url": "https://buff.ly/s3LuFJt",
+       "published": "2026-11-01T07:54:43Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "47953b4e48e2",
+     "title": "Dune: Awakening for PlayStation 5 Drops to $39.99 on Amazon",
+     "summary": "Amazon has cut the physical PS5 version of Dune: Awakening down to $39.99, marking a notable discount on the open-world survival game.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-01T07:50:27Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Dune: Awakening (PS5) is $39.99 on Amazon",
+       "url": "https://amzn.to/4igB6L1",
+       "published": "2026-11-01T07:50:27Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "8f13ae862cca",
+     "title": "AYN Thor Handheld Console Discounted from $300 During AliExpress Sale",
+     "summary": "AliExpress has launched coupon promotions discounting the base 8GB/128GB AYN Thor portable gaming device down to $300, with further markdowns via PayPal financing.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-01T05:28:04Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "AliExpress 11.11 sale (extra $35 off with PayPal Pay Later first come first serve) Codes USAFF5 - $5 off $29+ USAFF6 - $6 off $35+ 15USAFF - $15 off $80+ USAFF21 - $21 off $119+ USAFF25 - $25 off…",
+       "url": "https://buff.ly/StiIflx",
+       "published": "2026-11-01T05:28:04Z",
+       "official": false,
+       "also": [
+        {
+         "title": "AYN Thor sale on Aliexpress (extra $35 off when using PayPal Pay Later - first come first serve) -Base 8/128GB - $300 w/ code USAFF70 -Pro 12/256GB - $380 w/ code USAFF75 -Max 16/512GB - $430 w/ code…",
+         "url": "https://buff.ly/HgqGprB",
+         "published": "2026-11-01T05:20:15Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ccabd62c042a",
+     "title": "OneShot: World Machine Edition Discounted to $7.99 on Steam",
+     "summary": "The PC edition of indie puzzle adventure OneShot: World Machine Edition is on sale for $7.99 on the Steam storefront.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T23:34:20Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "OneShot: World Machine Edition is $7.99 on Steam",
+       "url": "https://buff.ly/1URzkye",
+       "published": "2026-10-31T23:34:20Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c3638933eff4",
+     "title": "Apple Concludes Introductory Discount on Beats 360 Cushion Kits",
+     "summary": "Apple's promotional pricing on replacement acoustic cushion packs for the recently released Beats 360 wireless headphones expires today.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-10-31T17:53:56Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "9to5Mac",
+       "title": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
+       "url": "https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits/",
+       "published": "2026-10-31T17:53:56Z",
+       "official": false
+      },
+      {
+       "outlet": "MacRumors",
+       "title": "Reminder: Apple's Big Discount on Beats 360 Ear Cushions Ends Today",
+       "url": "https://www.macrumors.com/2026/10/31/beats-360-ear-cushions-discount-ends-today/",
+       "published": "2026-10-31T15:50:00Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T11:00:47Z",
+ "timezone": "America/New_York",
+ "window_hours": 26,
+ "mode": "ai",
+ "model": "gemini-3.8-flash",
+ "stats": {
+  "items": 750,
+  "clusters": 633,
+  "feeds_ok": 175,
+  "feeds_failed": 1
+ },
+ "feed_health": [
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "wapo-politics",
+   "title": "The Washington Post: Politics",
+   "status": "error",
+   "detail": "HTTPError: 502 Server Error: Bad Gateway for url: https://feeds.washingtonpost.com/rss/politics"
+  },
+  {
+   "key": "dring",
+   "title": "Christopher Dring",
+   "status": "stale",
+   "detail": "no new items since 2026-10-13"
+  }
+ ]
+}
