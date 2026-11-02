@@ -1,0 +1,2014 @@
+{
+ "version": 1,
+ "headline": "Cyberattacks strike Ukrainian and Russian alert networks as US campaigns wrap up on the eve of midterm elections.",
+ "top": [
+  {
+   "id": "26e5254c6d18",
+   "title": "Hackers Compromise Emergency Alert Systems in Ukraine and Russia",
+   "summary": "Both Ukraine and Russia confirmed cyberattacks targeting their emergency warning infrastructures, causing Ukraine's alert app to issue false warnings of nuclear danger.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Europe",
+   "published": "2026-11-02T10:55:01Z",
+   "outlet_count": 15,
+   "sources": [
+    {
+     "outlet": "TheJournal.ie (Ireland)",
+     "title": "Emergency alert apps hacked in Russia and Ukraine as truce ends",
+     "url": "https://www.thejournal.ie/russia-ukraine-alert-apps-hacked-truce-7212269-Nov2026/",
+     "published": "2026-11-02T07:14:07Z",
+     "official": false
+    },
+    {
+     "outlet": "France 24",
+     "title": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
+     "url": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
+     "published": "2026-11-02T06:19:40Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+       "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+       "published": "2026-11-02T01:20:44Z"
+      },
+      {
+       "title": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
+       "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
+       "published": "2026-11-01T12:41:48Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Deutsche Welle (Germany)",
+     "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+     "url": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-11-02T02:48:00Z",
+     "official": false
+    },
+    {
+     "outlet": "CNA (Singapore)",
+     "title": "Cyber attacks hit Russia, Ukraine after truce ends",
+     "url": "https://www.channelnewsasia.com/world/cyber-attacks-russia-ukraine-6512066",
+     "published": "2026-11-02T03:24:00Z",
+     "official": false
+    },
+    {
+     "outlet": "The Copenhagen Post (Denmark)",
+     "title": "Russia and Ukraine report suspected cyberattacks on public emergency alert apps",
+     "url": "https://cphpost.dk/2026-11-02/global/russia-and-ukraine-report-suspected-cyberattacks-on-public-emergency-alert-apps/",
+     "published": "2026-11-02T05:46:40Z",
+     "official": false
+    },
+    {
+     "outlet": "RTÉ News (Ireland)",
+     "title": "Cyberattacks hit Russia, Ukraine emergency warning apps",
+     "url": "https://www.rte.ie/news/ukraine/2026/1102/1597579-ukraine-russia/",
+     "published": "2026-11-02T06:46:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Meduza (Russia)",
+     "title": "Emergency alert apps hacked in Russia and Ukraine, sending false warnings of nuclear threats",
+     "url": "https://meduza.io/en/news/2026/11/02/emergency-alert-apps-hacked-in-russia-and-ukraine-sending-false-warnings-of-nuclear-threats",
+     "published": "2026-11-02T08:31:51Z",
+     "official": false
+    },
+    {
+     "outlet": "Al Jazeera",
+     "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+     "url": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
+     "published": "2026-11-02T09:35:46Z",
+     "official": false
+    },
+    {
+     "outlet": "Newsweek",
+     "title": "Ukraine and Russia Hit By Hoax Nuclear Threat Alerts After Cyberattacks",
+     "url": "https://www.newsweek.com/ukraine-and-russia-hit-by-hoax-nuclear-threat-alerts-after-cyberattacks-12648269",
+     "published": "2026-11-02T09:37:03Z",
+     "official": false
+    },
+    {
+     "outlet": "Euronews",
+     "title": "Russia resumes attacks on Ukraine's Kherson region after truce ends, Kyiv says",
+     "url": "https://www.euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says",
+     "published": "2026-11-02T10:14:40Z",
+     "official": false
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+     "url": "https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964",
+     "published": "2026-11-02T10:14:52Z",
+     "official": false
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks",
+     "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+     "published": "2026-11-02T10:38:19Z",
+     "official": false
+    },
+    {
+     "outlet": "SRF News (Switzerland)",
+     "title": "War in Ukraine – Cyberattacks on Warning Apps in Ukraine and Russia",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-cyberangriffe-auf-warn-apps-in-ukraine-und-russland",
+     "published": "2026-11-02T10:44:58Z",
+     "translated_from": "de",
+     "original_title": "Krieg in der Ukraine – Cyberangriffe auf Warn-Apps in Ukraine und Russland",
+     "official": false
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Ukraine, Russian alert systems hit with cyberattacks that spread alarming messages",
+     "url": "https://www.cbc.ca/news/world/ukraine-russia-alert-cyberattacks-9.7405276?cmp=rss",
+     "published": "2026-11-02T10:54:55Z",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg via Techmeme",
+     "title": "Ukraine says its air raid alert app was compromised late Sunday, sending false warnings of \"nuclear danger\"; Russia confirms a similar hack of its alerts app",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
+     "published": "2026-11-02T10:55:01Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "0335bb345c66",
+   "title": "Anthropic Plans Up to $3.5B Japanese Investment for US IPO",
+   "summary": "According to regulatory filings, Anthropic is seeking up to $3.5 billion from Japanese investors as part of its upcoming initial public offering in the United States.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "AI",
+   "published": "2026-11-02T10:40:01Z",
+   "outlet_count": 2,
+   "sources": [
+    {
+     "outlet": "Bloomberg via Techmeme",
+     "title": "Filing: Anthropic plans to raise up to $3.5B from Japanese investors as part of its IPO, joining Australia, Canada, and parts of Europe in having direct access",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo",
+     "published": "2026-11-02T10:40:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Le Monde (France)",
+     "title": "\"Anthropic on the stock market: is the apocalypse just another investment risk?\"",
+     "url": "https://www.lemonde.fr/idees/article/2026/11/02/anthropic-en-bourse-l-apocalypse-est-elle-un-risque-d-investissement-comme-un-autre_6805221_3232.html",
+     "published": "2026-11-02T09:00:12Z",
+     "translated_from": "fr",
+     "original_title": "« Anthropic en Bourse : l’apocalypse est-elle un risque d’investissement comme un autre ? »",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "7241d5b066bb",
+   "title": "Toshihiro Nagoshi's Studio Dissolved Before Releasing First Title",
+   "summary": "Yakuza creator Toshihiro Nagoshi's studio has been shuttered by a shareholder resolution following NetEase withdrawing funding, ending development on Gang of Dragon.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "Gaming",
+   "published": "2026-11-02T10:00:16Z",
+   "outlet_count": 5,
+   "sources": [
+    {
+     "outlet": "Gematsu",
+     "title": "Nagoshi Studio shuts down",
+     "url": "https://www.gematsu.com/2026/11/nagoshi-studio-shuts-down",
+     "published": "2026-11-02T03:16:59Z",
+     "official": false
+    },
+    {
+     "outlet": "Insider Gaming",
+     "title": "Nagoshi Studio Officially Shut Down One Year After The Game Awards Reveal",
+     "url": "https://insider-gaming.com/nagoshi-studio-shut-down-official/",
+     "published": "2026-11-02T07:22:36Z",
+     "official": false
+    },
+    {
+     "outlet": "IGN",
+     "title": "Yakuza Series Creator Toshiro Nagoshi's Studio Has Officially Shut Down Before Releasing a Game",
+     "url": "https://www.ign.com/articles/yakuza-series-creator-toshiro-nagoshis-studio-has-officially-shut-down-before-releasing-a-game",
+     "published": "2026-11-02T09:07:10Z",
+     "official": false
+    },
+    {
+     "outlet": "GamesIndustry.biz",
+     "title": "Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding",
+     "url": "https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding",
+     "published": "2026-11-02T10:00:16Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "6516a26a1199",
+   "title": "Phantom Blade Zero Sells Over 4 Million Copies in First 72 Hours",
+   "summary": "Developer S-GAME announced that its action title sold more than 4 million copies across PlayStation 5 and PC during its launch weekend.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "Gaming",
+   "published": "2026-11-02T10:30:00Z",
+   "outlet_count": 4,
+   "sources": [
+    {
+     "outlet": "Gematsu",
+     "title": "Phantom Blade Zero sales top four million in 72 hours",
+     "url": "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours",
+     "published": "2026-11-02T02:59:03Z",
+     "official": false
+    },
+    {
+     "outlet": "Eurogamer",
+     "title": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days",
+     "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
+     "published": "2026-11-02T09:24:45Z",
+     "official": false
+    },
+    {
+     "outlet": "Insider Gaming",
+     "title": "Phantom Blade Zero Sells 4 Million Copies In 72 Hours",
+     "url": "https://insider-gaming.com/phantom-blade-zero-sells-4-million-copies-in-72-hours/",
+     "published": "2026-11-02T10:06:53Z",
+     "official": false
+    },
+    {
+     "outlet": "Push Square",
+     "title": "Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC",
+     "url": "https://www.pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc",
+     "published": "2026-11-02T10:30:00Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "076095458b57",
+   "title": "FBI Attributes Record $6.3 Billion Binance Theft to North Korean Hackers",
+   "summary": "US authorities confirmed that North Korea's cybercrime unit TraderTraitor was behind the historic crypto hack of Binance, which led customers to withdraw $3.6 billion.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "Tech",
+   "published": "2026-11-02T10:33:00Z",
+   "outlet_count": 5,
+   "sources": [
+    {
+     "outlet": "PBS NewsHour",
+     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+     "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
+     "published": "2026-11-01T16:20:20Z",
+     "official": false
+    },
+    {
+     "outlet": "The Verge",
+     "title": "North Korea linked to massive Binance crypto heist",
+     "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+     "published": "2026-11-01T14:33:11Z",
+     "official": false
+    },
+    {
+     "outlet": "Tagesschau (Germany)",
+     "title": "Binance customers withdraw billions following cyberattack",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+     "published": "2026-11-02T08:59:47Z",
+     "translated_from": "de",
+     "original_title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+     "official": false
+    },
+    {
+     "outlet": "The Japan Times",
+     "title": "North Korea’s hackers supercharge crypto heists with AI skills",
+     "url": "https://www.japantimes.co.jp/news/2026/11/02/asia-pacific/north-korea-hackers-crypto-heist-ai/",
+     "published": "2026-11-02T10:19:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Der Spiegel (Germany)",
+     "title": "Binance: Customers withdraw $3.6 billion from crypto platform after multi-billion dollar theft",
+     "url": "https://www.spiegel.de/netzwelt/binance-kunden-der-kryptoplattform-ziehen-nach-milliarden-diebstahl-3-6-milliarden-dollar-ab-a-da020576-527c-4a9b-a6a9-e89a32bc0b73#ref=rss",
+     "published": "2026-11-02T10:33:00Z",
+     "translated_from": "de",
+     "original_title": "Binance: Kunden der Kryptoplattform ziehen nach Milliarden-Diebstahl 3,6 Milliarden Dollar ab",
+     "official": false
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "e8cff008c08e",
+     "title": "Anthropic Blocks Claude From Recreating Existing Video Games",
+     "summary": "An update to Claude restricts the AI model from replicating copyrighted commercial games, though designing original mechanics remains supported.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "AI",
+     "published": "2026-11-01T21:08:32Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Engadget",
+       "title": "Anthropic updates Claude to stop it from recreating existing video games",
+       "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+       "published": "2026-11-01T21:08:32Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "66b6ea3d1ab3",
+     "title": "Parents Sue OpenAI Over Fatal Seizure Linked to Medical Advice",
+     "summary": "A wrongful death lawsuit alleges ChatGPT provided an unsafe tapering schedule for anti-seizure medication that resulted in a woman's fatal epileptic fit.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-01T22:37:36Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+       "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+       "published": "2026-11-01T22:37:36Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "199d751d1fce",
+     "title": "Hex Technologies Raises $100M Series D at $1.2B Valuation",
+     "summary": "Hex has raised a $100 million round led by Peak XV after rearchitecting its data analytics platform around autonomous AI agents.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "AI",
+     "published": "2026-11-02T02:40:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Forbes via Techmeme",
+       "title": "Data analytics provider Hex Technologies, which says it has rebuilt its platform for AI agents, raised a $100M Series D led by Peak XV at a $1.2B valuation",
+       "url": "https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/",
+       "published": "2026-11-02T02:40:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "710616e36ed1",
+     "title": "OpenAI Readies Post-Midterm Washington Lobbying Blitz",
+     "summary": "The lab is preparing an expanded political influence and public relations campaign aimed at US federal regulators following the midterm elections.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-02T10:47:59Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+       "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+       "published": "2026-11-02T10:47:59Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "0dbf0226aa90",
+     "title": "OpenAI Considers Renaming Data Centers to 'AI Compute Campuses'",
+     "summary": "Reports indicate OpenAI is exploring rebranding its controversial data infrastructure projects to improve local reception and ease expansion pushback.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-01T21:55:23Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+       "published": "2026-11-01T21:55:23Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "7f6f2bc0a104",
+     "title": "SemiAnalysis Launches GDPx Agentic Benchmark",
+     "summary": "The new 11-domain capability evaluation tool covers tasks from chip design to cybersecurity, with Claude 3.5 Opus leading the field with a 12 percent score.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-02T05:20:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "SemiAnalysis via Techmeme",
+       "title": "SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score",
+       "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+       "published": "2026-11-02T05:20:00Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "9dc986f1daf1",
+     "title": "Apple Prepares Friday Launch for Five Products Including Touchscreen MacBook Pro",
+     "summary": "Pre-ordered hardware including Apple's first touchscreen MacBook Pro models and new iPads are scheduled to hit store shelves and arrive to customers this Friday.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-02T09:22:23Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Launching Five New Products This Friday",
+       "url": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
+       "published": "2026-11-02T09:22:23Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2590b2301d51",
+     "title": "Code Sleuth Uncovers HomeKit Security Camera Mode in Apple HomeView",
+     "summary": "Software strings reveal Apple's upcoming HomeView smart display hub can function as an integrated HomeKit Secure Video indoor camera.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-02T09:57:03Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Apple HomeView Could Double as a Security Camera",
+       "url": "https://www.macrumors.com/2026/11/02/apple-homeview-could-work-security-camera/",
+       "published": "2026-11-02T09:57:03Z",
+       "official": false
+      },
+      {
+       "outlet": "The Verge",
+       "title": "Apple’s HomeView could add security camera features",
+       "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+       "published": "2026-11-01T17:16:07Z",
+       "official": false
+      },
+      {
+       "outlet": "AppleInsider",
+       "title": "HomeView can behave like a HomeKit security camera",
+       "url": "https://appleinsider.com/articles/26/11/01/homeview-can-behave-like-a-homekit-security-camera?utm_source=rss",
+       "published": "2026-11-01T19:53:41Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "1a336c87ccb5",
+     "title": "Archive of Our Own Faces Weeks-Long Outage After Cyber Attack",
+     "summary": "Volunteer-run fan fiction archive AO3 estimated it may take two to four weeks to bring services back online after a major security incident took the site down.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-02T09:40:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Gizmodo via Techmeme",
+       "title": "Fan fiction site AO3 says it could take two to four weeks to restore service after a security incident; AO3 hosts 18M+ works and has 11M+ registered users",
+       "url": "https://gizmodo.com/popular-fan-fiction-site-ao3-could-be-offline-for-a-month-following-security-incident-2000833091",
+       "published": "2026-11-02T09:40:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "525fab8e8e6a",
+     "title": "Kioxia Shares Slide 15% on Muted Flash Memory Outlook",
+     "summary": "The Japanese memory maker suffered its worst one-day decline in three months after conservative forward guidance stoked concerns over softening AI enterprise demand.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-02T08:45:02Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Bloomberg via Techmeme",
+       "title": "NAND maker Kioxia's shares fell up to 15% on Monday after its cautious Q3 outlook disappointed investors, raising concerns that AI-driven growth may be slowing",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off",
+       "published": "2026-11-02T08:45:02Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3fb867eacf79",
+     "title": "Hundreds of Illicit Deepfake Tools Masquerade as Utility Apps",
+     "summary": "An investigation found hundreds of software tools across online marketplaces hiding covert functionality to generate non-consensual sexually explicit media.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-02T10:00:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wired",
+       "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+       "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+       "published": "2026-11-02T10:00:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "7de9f8b0f51e",
+     "title": "Anti-Fraud AI Startup Casap Raises $56M Series B",
+     "summary": "The banking security firm secured fresh funding led by Base10 Partners to expand automated dispute resolution and combat shifting credit card fraud patterns.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-02T04:35:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Fortune via Techmeme",
+       "title": "Casap, whose AI tools automate dispute and anti-fraud operations for banks, raised a $56M Series B led by Base10 Partners, bringing its total funding to $90M",
+       "url": "https://fortune.com/2026/10/28/dd/",
+       "published": "2026-11-02T04:35:01Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "baaef5f2f6d8",
+     "title": "Playable Build of Cancelled Valve Prequel F-Stop Leaks Online",
+     "summary": "Files for Valve's unreleased Portal prequel have surfaced online, allowing the modding community to run and document the abandoned camera-based mechanics.",
+     "importance": 4,
+     "label": "RUMOR-CREDIBLE",
+     "category": "Gaming",
+     "published": "2026-11-01T19:08:44Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "A fully playable version of Portal prequel F-Stop leaked",
+       "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+       "published": "2026-11-01T16:19:21Z",
+       "official": false
+      },
+      {
+       "outlet": "Kotaku",
+       "title": "Valve’s Cancelled Portal Prequel F-Stop Has Leaked",
+       "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
+       "published": "2026-11-01T15:00:43Z",
+       "official": false
+      },
+      {
+       "outlet": "Rock Paper Shotgun",
+       "title": "What remains of canned Portal prequel white whale F-Stop is now fully playable thanks to modders and some big leaks",
+       "url": "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks",
+       "published": "2026-11-01T19:08:44Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "d3eb5479de58",
+     "title": "Early Footage Leaks of Unannounced Persona 1 Remake",
+     "summary": "Gameplay clips appearing to show an in-development remake of the original Persona game have circulated online.",
+     "importance": 3,
+     "label": "RUMOR-CREDIBLE",
+     "category": "Gaming",
+     "published": "2026-11-02T02:06:50Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "PC Gamer",
+       "title": "Footage of what sure looks like a Persona 1 remake has leaked",
+       "url": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
+       "published": "2026-11-02T02:06:50Z",
+       "official": false
+      },
+      {
+       "outlet": "Eurogamer",
+       "title": "Footage of a Persona 1 remake has seemingly leaked online",
+       "url": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+       "published": "2026-11-01T16:35:17Z",
+       "official": false
+      },
+      {
+       "outlet": "Rock Paper Shotgun",
+       "title": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
+       "url": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
+       "published": "2026-11-01T17:17:15Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "da51257906a1",
+     "title": "HoYoverse Announces Cozy Galactic Sim Petit Planet for Switch 2",
+     "summary": "The developer behind Genshin Impact confirmed Petit Planet, a free-to-play cosmic life simulation, is slated for Nintendo's next platform in 2027.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-11-02T03:30:00Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "IGN",
+       "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+       "url": "https://www.ign.com/articles/petit-planet-switch-2-release-date",
+       "published": "2026-11-01T17:38:30Z",
+       "official": false
+      },
+      {
+       "outlet": "Gematsu",
+       "title": "Petit Planet coming to Switch 2 in 2027",
+       "url": "https://www.gematsu.com/2026/11/petit-planet-coming-to-switch-2-in-2027",
+       "published": "2026-11-01T12:00:44Z",
+       "official": false
+      },
+      {
+       "outlet": "Nintendo Life",
+       "title": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
+       "url": "https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
+       "published": "2026-11-02T03:30:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b5b7dc60b7fd",
+     "title": "Sony Issues Second PS5 Firmware Update in Two Weeks to Curb Exploits",
+     "summary": "Version 26.07-14.22.00 rolled out to address recent console jailbreak developments ahead of high-profile game releases.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-02T10:00:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Push Square",
+       "title": "New PS5 Firmware Update Available Now as Sony Cracks Down on Jailbreaks",
+       "url": "https://www.pushsquare.com/news/2026/11/new-ps5-firmware-update-available-now-as-sony-cracks-down-on-jailbreaks",
+       "published": "2026-11-02T10:00:00Z",
+       "official": false
+      },
+      {
+       "outlet": "IGN",
+       "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+       "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
+       "published": "2026-11-02T08:18:12Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "8e5bf645b663",
+     "title": "Modern Warfare 4 on Switch 2 Shows Significant Latency Compared to PS5",
+     "summary": "Technical analysis revealed noticeably higher input latency on Nintendo's platform relative to the PlayStation 5 build, raising concerns for multiplayer performance.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-01T17:27:29Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Eurogamer",
+       "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+       "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
+       "published": "2026-11-01T17:27:29Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "4dc99cde7e4e",
+     "title": "Dave Bautista Adds 20 Pounds for God of War Series Role",
+     "summary": "The actor shared training progress on social media as he builds mass to portray Kratos in Sony's live-action television adaptation.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-02T07:48:34Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Insider Gaming",
+       "title": "Dave Bautista is Packing on Muscle to Play Kratos in God of War",
+       "url": "https://insider-gaming.com/dave-bautista-god-of-war-kratos-muscle/",
+       "published": "2026-11-02T07:48:34Z",
+       "official": false
+      },
+      {
+       "outlet": "IGN",
+       "title": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle to Play Kratos in the God of War Series",
+       "url": "https://www.ign.com/articles/dave-bautista-reveals-hes-gained-20-pounds-of-muscle-to-play-kratos-in-the-god-of-war-series",
+       "published": "2026-11-02T03:37:04Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": [
+    {
+     "id": "9e1821271cb9",
+     "title": "Democratic Rep. Stevens Breaks Ranks to Endorse GOP Senate Bid in Michigan",
+     "summary": "Representative Haley Stevens endorsed Republican nominee Mike Rogers over Democrat Abdul El-Sayed, prompting public pushback from party colleagues and an invitation from Donald Trump to join the GOP.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-02T10:53:45Z",
+     "outlet_count": 35,
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+       "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+       "published": "2026-11-02T00:12:17Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Trump praises Haley Stevens during final push before election day",
+         "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+         "published": "2026-11-02T05:38:57Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Helsinki Times (Finland)",
+       "title": "Trump accused of election interference as Democrats lead ahead of US midterms",
+       "url": "https://www.helsinkitimes.fi/world-int/29443-trump-accused-of-election-interference-as-democrats-lead-ahead-of-us-midterms.html",
+       "published": "2026-11-01T13:20:32Z",
+       "official": false
+      },
+      {
+       "outlet": "The Daily Wire",
+       "title": "Trump Praises Haley Stevens After She Jumps Ship And Endorses Mike Rogers",
+       "url": "https://www.dailywire.com/news/trump-praises-haley-stevens-after-she-jumps-ship-and-endorses-mike-rogers",
+       "published": "2026-11-01T14:51:59Z",
+       "official": false,
+       "also": [
+        {
+         "title": "El-Sayed Begs Reporters Not To Ask About Haley Stevens’ Shock Endorsement Of Mike Rogers",
+         "url": "https://www.dailywire.com/news/el-sayed-begs-reporters-not-to-ask-about-haley-stevens-shock-endorsement-of-mike-rogers",
+         "published": "2026-11-01T14:05:50Z"
+        },
+        {
+         "title": "Dems Lose It After Haley Stevens Rejects El-Sayed And Endorses Republican Mike Rogers",
+         "url": "https://www.dailywire.com/news/dems-lose-it-after-haley-stevens-rejects-el-sayed-and-endorses-republican-mike-rogers",
+         "published": "2026-11-01T13:21:27Z"
+        }
+       ]
+      },
+      {
+       "outlet": "MercoPress (South Atlantic)",
+       "title": "Democrats seek to retake Congress in Tuesday’s US midterm elections",
+       "url": "https://en.mercopress.com/2026/11/01/democrats-seek-to-retake-congress-in-tuesday-s-us-midterm-elections?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+       "published": "2026-11-01T14:48:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Roll Call",
+       "title": "Democrat Haley Stevens endorses GOP Senate nominee in Michigan",
+       "url": "https://rollcall.com/2026/11/01/michigan-senate-election-haley-stevens-rogers/",
+       "published": "2026-11-01T15:09:08Z",
+       "official": false
+      },
+      {
+       "outlet": "Fox News",
+       "title": "Democrat Haley Stevens endorses GOP Senate nominee Mike Rogers at Detroit church",
+       "url": "https://www.foxnews.com/politics/haley-stevens-appears-alongside-gop-rival-mike-rogers-detroit-church",
+       "published": "2026-11-01T16:04:03Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "WATCH: Trump rallies in Iowa as part of final push before Election Day",
+       "url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-as-part-of-final-push-before-election-day",
+       "published": "2026-11-01T19:12:43Z",
+       "official": false,
+       "also": [
+        {
+         "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+         "url": "https://www.pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
+         "published": "2026-11-01T17:37:32Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Politico",
+       "title": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate",
+       "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
+       "published": "2026-11-01T17:44:25Z",
+       "official": false
+      },
+      {
+       "outlet": "Zeteo",
+       "title": "BREAKING: Haley Stevens Endorses Republican in Final Attempt to Tank Abdul El-Sayed",
+       "url": "https://zeteo.com/p/breaking-haley-stevens-endorses-republican",
+       "published": "2026-11-01T18:35:41Z",
+       "official": false
+      },
+      {
+       "outlet": "Tangle",
+       "title": "Congresswoman Haley Stevens (D-MI) breaks with party, endorses Republican Mike Rogers.",
+       "url": "https://www.readtangle.com/congresswoman-haley-stevens-d-mi-breaks-with-party-endorses-republican-mike-rogers/",
+       "published": "2026-11-01T18:42:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The American Conservative",
+       "title": "In Last-Minute Defection, Democrat Stevens Endorses Republican Rogers in Michigan Senate Race",
+       "url": "https://www.theamericanconservative.com/democrat-haley-stevens-endorses-republican-mike-rogers-for-senate/",
+       "published": "2026-11-01T18:55:00Z",
+       "official": false
+      },
+      {
+       "outlet": "CBC News",
+       "title": "'Despicable betrayal': Democrats stunned after Michigan congresswoman endorses Republican for Senate",
+       "url": "https://www.cbc.ca/news/world/abdul-el-sayed-haley-stevens-9.7404925?cmp=rss",
+       "published": "2026-11-01T19:13:11Z",
+       "official": false
+      },
+      {
+       "outlet": "HuffPost",
+       "title": "Haley Stevens Officially Endorses Republican Mike Rogers In Shock Switch-Up",
+       "url": "https://www.huffpost.com/entry/haley-stevens-endorses-mike-rogers_n_6ae77c7ee4b0b1f508d4f46e",
+       "published": "2026-11-01T19:26:54Z",
+       "official": false
+      },
+      {
+       "outlet": "Mother Jones",
+       "title": "Haley Stevens Abandons Fellow Democrats in Opposition to Abdul El-Sayed",
+       "url": "https://www.motherjones.com/politics/2026/11/haley-stevens-abandons-fellow-democrats-in-opposition-to-abdul-el-sayed/",
+       "published": "2026-11-01T19:38:27Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Here Are Some Things Haley Stevens Said About Mike Rogers Before Endorsing Him",
+         "url": "https://www.motherjones.com/politics/2026/11/here-are-some-things-haley-stevens-said-about-mike-rogers-before-endorsing-him/",
+         "published": "2026-11-01T19:27:53Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Straight Arrow News",
+       "title": "Haley Stevens endorses Republican Mike Rogers in break with Democrats",
+       "url": "https://san.com/cc/haley-stevens-endorses-republican-mike-rogers-in-break-with-democrats/",
+       "published": "2026-11-01T19:49:12Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR Politics",
+       "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+       "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+       "published": "2026-11-01T19:49:15Z",
+       "official": false
+      },
+      {
+       "outlet": "The Daily Caller",
+       "title": "Dem Rep Haley Stevens, Fresh From Split With Abdul El-Sayed, Endorses Republican Challenger Mike Rogers Two Days Before Midterms",
+       "url": "https://dailycaller.com/2026/11/01/michigan-democrat-haley-stevens-endorses-republican-senate-nominee-mike-rogers-abdul-el-sayed",
+       "published": "2026-11-01T19:49:55Z",
+       "official": false
+      },
+      {
+       "outlet": "Reason",
+       "title": "Haley Stevens Endorses Mike Rogers, Spurns Leftist Abdul El-Sayed",
+       "url": "https://reason.com/2026/11/01/haley-stevens-endorses-mike-rogers-spurns-leftist-abdul-el-sayed/",
+       "published": "2026-11-01T20:01:10Z",
+       "official": false
+      },
+      {
+       "outlet": "The Hill",
+       "title": "Trump says he would ‘love to have’ Haley Stevens join Republican Party",
+       "url": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/",
+       "published": "2026-11-01T22:37:36Z",
+       "official": false
+      },
+      {
+       "outlet": "Axios",
+       "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+       "url": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+       "published": "2026-11-01T23:29:34Z",
+       "official": false
+      },
+      {
+       "outlet": "Washington Free Beacon",
+       "title": "‘Would Love To Have Her’: President Trump, Speaker Johnson Invite Haley Stevens To Join GOP",
+       "url": "https://freebeacon.com/politics/would-love-to-have-her-president-trump-speaker-johnson-invite-haley-stevens-to-join-gop/",
+       "published": "2026-11-01T23:46:43Z",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Trump makes final campaign push in Iowa and Kansas as Republicans try to hang on to majority",
+       "url": "https://www.cbsnews.com/video/trump-final-campaign-push-in-iowa-kansas/",
+       "published": "2026-11-02T01:59:17Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Stevens endorses Rogers amid rift with El-Sayed",
+         "url": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
+         "published": "2026-11-02T01:58:35Z"
+        }
+       ]
+      },
+      {
+       "outlet": "BBC News",
+       "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+       "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-02T04:40:00Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Trump makes final campaign push in final weekend before election",
+         "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+         "published": "2026-11-02T04:04:28Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Time",
+       "title": "Trump Invites Haley Stevens to Join GOP as Democrats Condemn Her ‘Betrayal’",
+       "url": "https://time.com/article/2026/11/02/haley-stevens-abdul-el-sayed-mike-rogers-endorsement-trump-republicans-democrats/",
+       "published": "2026-11-02T05:15:35Z",
+       "official": false
+      },
+      {
+       "outlet": "The Daily Beast",
+       "title": "Trump Humiliated in Final Brutal Polls Before Election Day",
+       "url": "https://www.thedailybeast.com/trump-humiliated-in-final-brutal-polls-before-election-day",
+       "published": "2026-11-02T05:30:01Z",
+       "official": false
+      },
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "Michigan Democrat backs Republican Senate candidate days before midterm elections",
+       "url": "https://cphpost.dk/2026-11-02/global/michigan-democrat-backs-republican-senate-candidate-days-before-midterm-elections/",
+       "published": "2026-11-02T05:46:44Z",
+       "official": false
+      },
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Democrats, Trump hold final rallies before midterm elections",
+       "url": "https://www.channelnewsasia.com/world/democrats-republicans-trump-rallies-us-midterm-elections-6512286",
+       "published": "2026-11-02T06:27:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Kyiv Independent (Ukraine)",
+       "title": "What the US midterms could mean for Ukraine",
+       "url": "https://kyivindependent.com/what-the-us-midterms-could-mean-for-ukraine/",
+       "published": "2026-11-02T06:44:23Z",
+       "official": false
+      },
+      {
+       "outlet": "Times of India",
+       "title": "US midterm elections 2026: What they are, why they matter and when results will be out",
+       "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterm-elections-2026-what-they-are-why-they-matter-and-when-results-will-be-out/articleshow/135451106.cms",
+       "published": "2026-11-02T08:50:56Z",
+       "official": false
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump makes controversial claims at final Republican campaign rallies",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-makes-controversial-claims-at-final-republican-campaign-rallies?traffic_source=rss",
+       "published": "2026-11-02T08:55:48Z",
+       "official": false
+      },
+      {
+       "outlet": "Bloomberg",
+       "title": "Democrat Feud Erupts in Michigan Ahead of Midterms",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-02/democrat-feud-erupts-in-michigan-ahead-of-midterms-video",
+       "published": "2026-11-02T10:03:08Z",
+       "official": false
+      },
+      {
+       "outlet": "Tagesschau (Germany)",
+       "title": "Michigan ahead of US midterms: Democrat now endorses Republican",
+       "url": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
+       "published": "2026-11-02T10:16:12Z",
+       "translated_from": "de",
+       "original_title": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
+       "official": false
+      },
+      {
+       "outlet": "The Hindu",
+       "title": "What are U.S. midterm elections?",
+       "url": "https://www.thehindu.com/news/international/what-are-united-states-midterm-elections-2026-democrats-vs-republicans-donald-trump-what-it-means-for-india/article71643628.ece",
+       "published": "2026-11-02T10:27:03Z",
+       "official": false
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Democratic Rep. Stevens endorses GOP candidate Mike Rogers in Michigan US Senate race",
+       "url": "https://abcnews.com/Politics/democratic-rep-haley-stevens-endorses-gop-candidate-mike/story?id=137752255",
+       "published": "2026-11-02T10:53:45Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "12d17b7f2b25",
+     "title": "Federal Judge Rejects Trump Lawsuit Over Alaska Senate Certification",
+     "summary": "A federal court dismissed an administration bid seeking to prevent the state from certifying election results should the incumbent Republican lose.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-01T21:16:23Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "HuffPost",
+       "title": "Judge Dismisses Lawsuit Seeking To Block Certification Of Alaska Senate Race If GOP Incumbent Loses",
+       "url": "https://www.huffpost.com/entry/us-election-2026-alaska-senate-judge-dismisses-lawsuit_n_6ae77ddde4b0283c45774b48",
+       "published": "2026-11-01T18:05:59Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+       "url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
+       "published": "2026-11-01T16:40:55Z",
+       "official": false
+      },
+      {
+       "outlet": "Roll Call",
+       "title": "Judge tosses DOJ lawsuit seeking to delay Alaska vote certification",
+       "url": "https://rollcall.com/2026/11/01/alaska-senate-vote-certification-dan-sullivan/",
+       "published": "2026-11-01T17:11:58Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR Politics",
+       "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+       "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+       "published": "2026-11-01T18:00:37Z",
+       "official": false
+      },
+      {
+       "outlet": "Reason",
+       "title": "Federal Court Rejects Trump Lawsuit Seeking to Block Certification of Alaska Senate Election Results",
+       "url": "https://reason.com/volokh/2026/11/01/federal-court-rejects-trump-lawsuit-seeking-to-block-certification-of-alaska-senate-election-results/",
+       "published": "2026-11-01T21:16:23Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "7a153fd7e6a9",
+     "title": "Senator Chris Murphy Hospitalized After Suffering Stroke",
+     "summary": "The Connecticut senator is awake and recovering in the hospital following a stroke experienced while campaigning ahead of the midterms.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-02T10:43:25Z",
+     "outlet_count": 10,
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Sen. Chris Murphy hospitalized following stroke",
+       "url": "https://www.cbsnews.com/news/chris-murphy-stroke-hospitalized/",
+       "published": "2026-11-02T02:19:45Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Connecticut Sen. Chris Murphy reportedly \"awake\" and recovering from stroke",
+         "url": "https://www.cbsnews.com/video/sen-chris-murphy-recovering-from-stroke/",
+         "published": "2026-11-02T02:03:26Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Roll Call",
+       "title": "Sen. Murphy ‘awake and alert’ after stroke",
+       "url": "https://rollcall.com/2026/11/01/chris-murphy-senator-connecticut-stroke/",
+       "published": "2026-11-01T15:15:48Z",
+       "official": false
+      },
+      {
+       "outlet": "Fox News",
+       "title": "Connecticut Dem Sen Chris Murphy hospitalized Saturday for stroke",
+       "url": "https://www.foxnews.com/politics/connecticut-dem-sen-chris-murphy-hospitalized-stroke",
+       "published": "2026-11-01T17:33:11Z",
+       "official": false
+      },
+      {
+       "outlet": "The Daily Caller",
+       "title": "Democrat Senator Chris Murphy Hospitalized After Suffering A Stroke",
+       "url": "https://dailycaller.com/2026/11/01/democrat-senator-chris-murphy-hospitalized-stroke-connecticut",
+       "published": "2026-11-01T18:41:17Z",
+       "official": false
+      },
+      {
+       "outlet": "HuffPost",
+       "title": "Sen. Chris Murphy Suffers Stroke In Midst Of Democratic Campaign",
+       "url": "https://www.huffpost.com/entry/chris-murphy-stroke_n_6ae778a8e4b0b1f508d4f469",
+       "published": "2026-11-01T18:51:35Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR Politics",
+       "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+       "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+       "published": "2026-11-01T19:00:58Z",
+       "official": false
+      },
+      {
+       "outlet": "Straight Arrow News",
+       "title": "Democratic Sen. Chris Murphy of Connecticut suffers stroke, currently hospitalized",
+       "url": "https://san.com/cc/democratic-sen-chris-murphy-of-connecticut-suffers-stroke-currently-hospitalized/",
+       "published": "2026-11-01T21:16:29Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+       "url": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+       "published": "2026-11-01T21:20:25Z",
+       "official": false
+      },
+      {
+       "outlet": "Axios",
+       "title": "Sen. Chris Murphy hospitalized after suffering stroke",
+       "url": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+       "published": "2026-11-01T21:44:49Z",
+       "official": false
+      },
+      {
+       "outlet": "New York Times",
+       "title": "Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke",
+       "url": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
+       "published": "2026-11-02T10:43:25Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "fefdb6161759",
+     "title": "Nine Dead in Florida Private Jet Crash",
+     "summary": "A small private jet traveling from Texas to the Bahamas crashed on a street in West Palm Beach, killing all nine passengers and crew aboard.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-02T11:00:49Z",
+     "outlet_count": 10,
+     "sources": [
+      {
+       "outlet": "The Wall Street Journal",
+       "title": "Nine Killed in Florida Jet Crash",
+       "url": "https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews",
+       "published": "2026-11-02T02:38:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "All 9 people on board plane killed after it crashes in Florida, federal officials say",
+       "url": "https://www.palmbeachpost.com/story/news/accident/2026/11/01/authorities-on-scene-of-incident-in-greenacres-as-fire-debris-scattered/92551569007/",
+       "published": "2026-11-01T19:35:34Z",
+       "official": false
+      },
+      {
+       "outlet": "CBC News",
+       "title": "All 9 aboard killed after plane crashes in Florida, officials say",
+       "url": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996?cmp=rss",
+       "published": "2026-11-01T21:33:45Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+       "url": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+       "published": "2026-11-01T22:05:03Z",
+       "official": false
+      },
+      {
+       "outlet": "Straight Arrow News",
+       "title": "Nine killed after plane crash in Palm Beach County, Florida",
+       "url": "https://san.com/cc/nine-killed-after-plane-crash-in-florida/",
+       "published": "2026-11-01T23:22:20Z",
+       "official": false
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Fiery plane crash in Florida",
+       "url": "https://www.nbcnews.com/nightly-news/video/fiery-plane-crash-in-florida-272666181933",
+       "published": "2026-11-02T00:08:33Z",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
+       "url": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
+       "published": "2026-11-02T05:29:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "US: Nine killed in Florida jet crash",
+       "url": "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-02T07:46:00Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Nine killed as small jet crashes on Florida street",
+       "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-02T09:10:19Z",
+       "official": false
+      },
+      {
+       "outlet": "Just the News",
+       "title": "Private jet crashes in Florida near Mar-a-Lago, kills all nine people aboard",
+       "url": "https://justthenews.com/government/federal-agencies/private-jet-crashes-florida-near-mar-lago-kills-all-nine-people-aboard?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+       "published": "2026-11-02T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "6a79af641667",
+     "title": "Shootings Over Halloween Weekend Leave Dozens Injured Across US",
+     "summary": "Gun violence incidents reported throughout the weekend across several metropolitan areas left multiple people dead and dozens wounded.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-02T09:58:36Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Courthouse News Service",
+       "title": "Mass shootings over Halloween weekend leave at least 6 dead and dozens injured across US",
+       "url": "https://www.courthousenews.com/mass-shootings-over-halloween-weekend-leave-at-least-6-dead-and-dozens-injured-across-us/",
+       "published": "2026-11-02T02:17:27Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Shootings over Halloween weekend leave at least 6 dead and dozens injured across U.S.",
+       "url": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s",
+       "published": "2026-11-01T17:49:59Z",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "Halloween weekend shootings leave at least 13 people dead and 92 injured",
+       "url": "https://www.cnn.com/2026/11/02/us/halloween-weekend-shootings",
+       "published": "2026-11-02T08:00:15Z",
+       "official": false
+      },
+      {
+       "outlet": "Times of India",
+       "title": "Halloween turns deadly across US as gun violence leaves at least 24 dead, 94 injured",
+       "url": "https://timesofindia.indiatimes.com/world/us/halloween-turns-deadly-across-us-as-gun-violence-leaves-at-least-24-dead-94-injured/articleshow/135454052.cms",
+       "published": "2026-11-02T09:58:36Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "421c5c280470",
+     "title": "Iran Claims Preparedness to Reopen Strait of Hormuz Within Two Days",
+     "summary": "Tehran's foreign ministry stated it could restore maritime transit through the critical shipping strait if the United States complies with its diplomatic conditions.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-02T10:45:41Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "ERT News (Greece)",
+       "title": "Iran: Strait of Hormuz will open in two days if our demands are met",
+       "url": "https://www.ertnews.gr/eidiseis/iran-ta-stena-tou-ormouz-tha-anoiksoun-se-dyo-imeres-ean-ikanopoiithoun-ta-aitimata-mas/",
+       "published": "2026-11-02T10:45:41Z",
+       "translated_from": "el",
+       "original_title": "Ιράν: Τα Στενά του Ορμούζ θα ανοίξουν σε δύο ημέρες εάν ικανοποιηθούν τα αιτήματά μας",
+       "official": false
+      },
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Iran says ready to reopen Hormuz in two days if US agrees to demands",
+       "url": "https://www.channelnewsasia.com/world/iran-considering-two-day-plan-reopen-strait-hormuz-6512536",
+       "published": "2026-11-02T08:35:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "bda8b537ed9a",
+     "title": "Israeli Military Concludes Ground Incursion in Hebron",
+     "summary": "The Israeli army withdrew forces after ending an operation in the West Bank city that had displaced roughly 3,000 residents following the deaths of two soldiers.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-02T10:11:21Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Le Monde (France)",
+       "title": "Israel announces end of military operation in Hebron, occupied West Bank",
+       "url": "https://www.lemonde.fr/international/article/2026/11/02/israel-annonce-la-fin-de-son-operation-militaire-a-hebron-en-cisjordanie-occupee_6805230_3210.html",
+       "published": "2026-11-02T10:11:21Z",
+       "translated_from": "fr",
+       "original_title": "Israël annonce la fin de son opération militaire à Hébron, en Cisjordanie occupée",
+       "official": false
+      },
+      {
+       "outlet": "franceinfo (France)",
+       "title": "Israeli army withdraws from Hebron in occupied West Bank after \"finishing\" operations",
+       "url": "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-se-retire-d-hebron-en-cisjordanie-occupee-apres-y-avoir-termine-ses-operations_8263718.html#xtor=RSS-3-[lestitres]",
+       "published": "2026-11-02T10:06:01Z",
+       "translated_from": "fr",
+       "original_title": "L'armée israélienne se retire de la ville d'Hébron, en Cisjordanie occupée, après y avoir \"terminé\" ses opérations",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "cbbe2e455cb8",
+     "title": "Renewed Israeli Airstrikes in Gaza Kill Three People",
+     "summary": "Palestinian health officials reported three casualties following new aerial strikes in the Gaza Strip.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-02T10:45:23Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "SRF News (Switzerland)",
+       "title": "Middle East War – Palestinians Report Three Dead in Israeli Strikes in Gaza",
+       "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-palaestinenser-melden-drei-tote-bei-israelischen-angriffen-in-gaza",
+       "published": "2026-11-02T10:45:23Z",
+       "translated_from": "de",
+       "original_title": "Krieg im Nahen Osten – Palästinenser melden drei Tote bei israelischen Angriffen in Gaza",
+       "official": false
+      },
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Israeli strikes kill three people in Gaza, medics say",
+       "url": "https://www.channelnewsasia.com/world/israeli-strikes-kill-three-people-gaza-6512451",
+       "published": "2026-11-02T07:35:00Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "626cfb377fbc",
+     "title": "Belgian Prime Minister Offers Resignation After Budget Breakdown",
+     "summary": "Prime Minister Bart De Wever tendered his resignation to the Belgian monarch following the collapse of five-party coalition budget negotiations.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-02T10:49:10Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Bloomberg",
+       "title": "Belgian Premier Offers Resignation, Will Continue Budget Talks",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-premier-offers-resignation-will-continue-budget-talks",
+       "published": "2026-11-02T10:49:10Z",
+       "official": false
+      },
+      {
+       "outlet": "Politico Europe",
+       "title": "King mulls De Wever’s resignation as Belgian budget talks fail",
+       "url": "https://www.politico.eu/article/belgian-government-in-crisis-over-failed-budget-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "published": "2026-11-02T08:58:14Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e07dffcf9fff",
+     "title": "Russia-Friendly Incumbent Iliana Yotova Wins Bulgarian Presidential Election",
+     "summary": "Yotova secured victory in Bulgaria's runoff election to become the country's first elected female head of state.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-02T09:57:30Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "The Kyiv Independent (Ukraine)",
+       "title": "Russia-friendly Yotova wins Bulgaria's presidential runoff",
+       "url": "https://kyivindependent.com/russia-friendly-yotova-wins-bulgarias-presidential-runoff/",
+       "published": "2026-11-02T07:50:59Z",
+       "official": false
+      },
+      {
+       "outlet": "Meduza (Russia)",
+       "title": "Bulgaria set to elect its first female president as Russia-friendly Iliana Yotova wins runoff",
+       "url": "https://meduza.io/en/news/2026/11/02/bulgaria-set-to-elect-its-first-female-president-as-russia-friendly-iliana-yotova-wins-runoff",
+       "published": "2026-11-02T09:40:51Z",
+       "official": false
+      },
+      {
+       "outlet": "Tagesschau (Germany)",
+       "title": "Bulgaria's acting president Yotova wins runoff election",
+       "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
+       "published": "2026-11-02T09:57:30Z",
+       "translated_from": "de",
+       "original_title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "10b4d19e4908",
+     "title": "French Prosecutors Open Attempted Murder Probe Following Protest Violence",
+     "summary": "Authorities launched a criminal inquiry after a petrol bomb was hurled at police officers during ongoing nationwide demonstrations and student blockades.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-02T10:58:47Z",
+     "outlet_count": 7,
+     "sources": [
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Limited French school protests resume as holidays end",
+       "url": "https://www.channelnewsasia.com/world/france-school-holidays-end-protests-resume-6512656",
+       "published": "2026-11-02T09:38:00Z",
+       "official": false
+      },
+      {
+       "outlet": "RFI (France)",
+       "title": "France braces for fresh protests as students to resume school blockades",
+       "url": "https://www.rfi.fr/en/france/20261102-france-braces-for-fresh-protests-as-students-to-resume-school-blockades",
+       "published": "2026-11-02T07:09:12Z",
+       "official": false,
+       "also": [
+        {
+         "title": "France launches 'attempted murder' probe after petrol bomb attack on police",
+         "url": "https://www.rfi.fr/en/france/20261101-france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-police",
+         "published": "2026-11-01T13:26:02Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "France opens attempted murder probe after protest attack",
+       "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-01T14:50:00Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-02T00:15:30Z",
+       "official": false
+      },
+      {
+       "outlet": "RTÉ News (Ireland)",
+       "title": "School protests resume in France as schools reopen",
+       "url": "https://www.rte.ie/news/world/2026/1102/1597605-school-protests-europe/",
+       "published": "2026-11-02T09:54:31Z",
+       "official": false
+      },
+      {
+       "outlet": "France 24",
+       "title": "France: Some schools blocked as limited youth protests resume after holidays",
+       "url": "https://www.france24.com/en/video/20261102-france-some-schools-blocked-as-limited-youth-protests-resume-after-holidays",
+       "published": "2026-11-02T09:57:47Z",
+       "official": false
+      },
+      {
+       "outlet": "ERT News (Greece)",
+       "title": "France: Return to schools amid new blockades – Students divided ahead of exams",
+       "url": "https://www.ertnews.gr/eidiseis/gallia-epistrofi-sta-sxoleia-me-fonto-neous-apokleismous-dixasmenoi-oi-mathites-enopsei-ton-eksetaseon/",
+       "published": "2026-11-02T10:58:47Z",
+       "translated_from": "el",
+       "original_title": "Γαλλία: Επιστροφή στα σχολεία με φόντο νέους αποκλεισμούς – Διχασμένοι οι μαθητές ενόψει των εξετάσεων",
+       "official": false,
+       "also": [
+        {
+         "title": "France: New smaller-scale protests after school holidays",
+         "url": "https://www.ertnews.gr/roi-idiseon/gallia-nees-diamartyries-mikroteris-klimakas-meta-tis-sxolikes-diakopes/",
+         "published": "2026-11-02T10:38:22Z",
+         "translated_from": "el",
+         "original_title": "Γαλλία: Νέες διαμαρτυρίες μικρότερης κλίμακας μετά τις σχολικές διακοπές"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b26dc9fbbdcc",
+     "title": "Cyberattack Knocks Out Supermarket Refrigerators Across Belgium",
+     "summary": "Delhaize and partner grocery locations lost an estimated 100,000 euros in perishable food after hackers disrupted commercial cooling controls.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-02T10:25:56Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Euronews",
+       "title": "Cyberattack hits Belgian supermarket fridges and freezers",
+       "url": "https://www.euronews.com/2026/11/02/cyberattack-hits-belgian-supermarket-fridges-and-freezers",
+       "published": "2026-11-02T10:25:56Z",
+       "official": false
+      },
+      {
+       "outlet": "NL Times (Netherlands)",
+       "title": "Cyberattack hits Delhaize supermarket fridges, freezers at dozens of Belgium locations",
+       "url": "https://nltimes.nl/2026/11/02/cyberattack-hits-delhaize-supermarket-fridges-freezers-dozens-belgium-locations",
+       "published": "2026-11-02T08:51:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2c51be11f74b",
+     "title": "Ryanair Half-Year Profit Drops 15% Under Fuel Cost Pressures",
+     "summary": "The European carrier warned of a multi-billion-euro jump in annual fuel expenditures as rising operational costs squeeze passenger profit margins.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-02T10:10:34Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Euronews",
+       "title": "Ryanair eyes cost cuts as it faces a €2 billion rise in its fuel bill next year",
+       "url": "https://www.euronews.com/2026/11/02/ryanair-eyes-cost-cuts-as-it-faces-a-2-billion-rise-in-its-fuel-bill-next-year",
+       "published": "2026-11-02T10:10:34Z",
+       "official": false
+      },
+      {
+       "outlet": "RTÉ News (Ireland)",
+       "title": "Ryanair's half year profit falls 15% as fuel costs rise",
+       "url": "https://www.rte.ie/news/business/2026/1102/1597581-ryanair-half-year-results/",
+       "published": "2026-11-02T07:33:27Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "1d9d9afd19ab",
+     "title": "Kimi Antonelli Becomes Youngest Formula 1 Champion at Age 20",
+     "summary": "The Mercedes driver clinched the world championship with a podium finish at the Mexico Grand Prix, setting an all-time record.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-02T09:20:22Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Kimi Antonelli makes history as youngest F1 champion",
+       "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-02T05:01:00Z",
+       "official": false
+      },
+      {
+       "outlet": "TheJournal.ie (Ireland)",
+       "title": "Kimi Antonelli crowned youngest-ever F1 champion only third-ever Italian",
+       "url": "https://www.thejournal.ie/mexican-grand-prix-f1-2-7212280-Nov2026/",
+       "published": "2026-11-02T07:16:00Z",
+       "official": false
+      },
+      {
+       "outlet": "New York Post",
+       "title": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20",
+       "url": "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
+       "published": "2026-11-02T09:20:22Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "cd3b5766f31f",
+     "title": "GMO Internet Executives Apologize Over Prolonged Cyber Breach",
+     "summary": "GMO leadership confirmed attackers had access to internal systems for over two months, rejecting resignation calls while pledging to patch security flaws.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-02T10:57:24Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "GMO President Kumagai Apologizes at Press Conference, Vowing to Utilize Vulnerability Findings",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
+       "published": "2026-11-02T10:57:24Z",
+       "translated_from": "ja",
+       "original_title": "GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に生かせず",
+       "official": false,
+       "also": [
+        {
+         "title": "GMO Unauthorized Access Issue: President Kumagai and Others Hold Press Conference [Details]",
+         "url": "https://news.web.nhk/newsweb/na/nd-20261102de69492",
+         "published": "2026-11-02T10:48:20Z",
+         "translated_from": "ja",
+         "original_title": "GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】"
+        }
+       ]
+      },
+      {
+       "outlet": "Asahi Shimbun (Japanese)",
+       "title": "GMO Unauthorized Access: Infiltration Occurred Two and a Half Months Ago; The Reality of the Attack Revealed",
+       "url": "http://www.asahi.com/articles/ASVC23FKNVC2UTIL00RM.html?ref=rss",
+       "published": "2026-11-02T10:44:35Z",
+       "translated_from": "ja",
+       "original_title": "GMO不正アクセス、侵入は2カ月半前 明らかになった攻撃の実態は",
+       "official": false,
+       "also": [
+        {
+         "title": "GMO CEO Taniguchi says he was not informed of system vulnerabilities, tears up during apology press conference",
+         "url": "http://www.asahi.com/articles/ASVC215NMVC2ULFA00CM.html?ref=rss",
+         "published": "2026-11-02T10:00:46Z",
+         "translated_from": "ja",
+         "original_title": "GMO熊谷代表、システムの弱点報告受けず 謝罪会見、涙ぐむ場面も"
+        }
+       ]
+      },
+      {
+       "outlet": "Mainichi Shimbun (Japanese)",
+       "title": "GMO President Kumagai Rejects Resignation Calls",
+       "url": "https://mainichi.jp/articles/20261102/k00/00m/020/254000c",
+       "published": "2026-11-02T10:54:37Z",
+       "translated_from": "ja",
+       "original_title": "「放置したまま死ねません」 GMO・熊谷社長、辞任を否定",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "637d7c39a964",
+     "title": "Retailer Nojima Discloses Breach Exposing 7 Million Customer Records",
+     "summary": "Japanese electronics chain Nojima reported an unauthorized intrusion into its online storefront member directory compromising millions of user profiles.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Japan",
+     "published": "2026-11-02T10:16:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "Nojima reports personal information leak of about 7 million accounts due to unauthorized access",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261102de69780",
+       "published": "2026-11-02T10:16:00Z",
+       "translated_from": "ja",
+       "original_title": "ノジマ 不正アクセスで約700万件の個人情報漏えい",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "0172c2ea80b0",
+     "title": "Japan Launches Standalone National Disaster Management Agency",
+     "summary": "The newly minted government bureau officially began operations as a centralized emergency coordinator, issuing immediate directives on structural retrofits.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-02T10:08:29Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "Disaster Management Agency launches, issues \"emergency request\" urging stockpiles and earthquake-resistant housing",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261102de69369",
+       "published": "2026-11-02T10:08:29Z",
+       "translated_from": "ja",
+       "original_title": "防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "78c7a7258ea6",
+     "title": "Taiwan and Japan Explore Bilateral Trade Agreement",
+     "summary": "Negotiators from Tokyo and Taipei are discussing a formal commerce agreement modeled on recent British-Taiwanese economic pacts.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-02T11:00:49Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say",
+       "url": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say",
+       "published": "2026-11-02T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c7e7ee6c8a31",
+     "title": "EU Backs Subsea Communications Cable Links to Japan and South Korea",
+     "summary": "European infrastructure initiatives are accelerating new undersea fiber optic links to East Asian telecommunication hubs to bolster route resilience.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-02T11:00:49Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "EU steps up subsea cable buildout to Japan and South Korea",
+       "url": "https://asia.nikkei.com/business/telecommunication/eu-steps-up-subsea-cable-buildout-to-japan-and-south-korea",
+       "published": "2026-11-02T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "d04cec802674",
+     "title": "Train Service Suspended in Hokkaido Following Bear Derailment Collision",
+     "summary": "JR Hokkaido shut down the Soya Line after an express passenger train derailed upon striking a brown bear on the tracks.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-02T10:27:02Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "JR Soya Line suspended all day on the 3rd following derailment collision with brown bear",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261102de69766",
+       "published": "2026-11-02T10:27:02Z",
+       "translated_from": "ja",
+       "original_title": "ヒグマと衝突し脱線のJR宗谷線 3日も終日運転見合わせ",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "5f589c9c9731",
+     "title": "President Lee Proposes $16B for Next-Gen AI and Physical Tech in 2027 Budget",
+     "summary": "President Lee Jae Myung addressed the National Assembly to unveil an expanded investment plan for semiconductor manufacturing, physical robotics, and data centers.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-02T11:00:49Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Reuters via Techmeme",
+       "title": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount",
+       "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02/",
+       "published": "2026-11-02T04:05:02Z",
+       "official": false
+      },
+      {
+       "outlet": "KBS World",
+       "title": "Assembly Budget Office Questions Sustainability of Future Response Fund",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205295",
+       "published": "2026-11-02T09:05:55Z",
+       "official": false
+      },
+      {
+       "outlet": "Mainichi Shimbun (Japanese)",
+       "title": "South Korean president to expand fiscal spending in 2027 budget proposal, amid declining approval ratings",
+       "url": "https://mainichi.jp/articles/20261102/k00/00m/030/294000c",
+       "published": "2026-11-02T10:22:46Z",
+       "translated_from": "ja",
+       "original_title": "韓国大統領、27年予算案で財政支出拡大へ 支持率低下が背景か",
+       "official": false
+      },
+      {
+       "outlet": "The Korea Times",
+       "title": "DPK welcomes Lee's budget speech; PPP slams failure to address N. Korea, economic woes",
+       "url": "https://www.koreatimes.co.kr/southkorea/politics/20261102/dpk-welcomes-lees-budget-speech-ppp-slams-failure-to-address-n-korea-economic-woes?utm_source=rss",
+       "published": "2026-11-02T11:00:49Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Lee pitches future-oriented fund as he seeks parliamentary support for record-high budget",
+         "url": "https://www.koreatimes.co.kr/southkorea/politics/20261102/lee-pitches-future-oriented-fund-as-he-seeks-parliamentary-support-for-record-high-budget?utm_source=rss",
+         "published": "2026-11-02T11:00:49Z"
+        },
+        {
+         "title": "Lee to address National Assembly on next year's gov't budget",
+         "url": "https://www.koreatimes.co.kr/southkorea/politics/20261102/lee-to-address-national-assembly-on-next-years-govt-budget?utm_source=rss",
+         "published": "2026-11-02T11:00:49Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6a6bd6779acd",
+     "title": "Eighty Percent of South Korean Judges Encounter Fake Precedents Hallucinated by AI",
+     "summary": "A survey conducted by the Supreme Court revealed widespread court filings containing non-existent case citations generated by artificial intelligence tools.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-02T11:00:49Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "About 80% of Korean judges encounter AI-generated fake legal precedents: survey",
+       "url": "https://www.koreaherald.com/article/10922963",
+       "published": "2026-11-02T06:23:44Z",
+       "official": false
+      },
+      {
+       "outlet": "The Korea Times",
+       "title": "About 80% of Korean judges encounter AI-generated fake legal precedents: survey",
+       "url": "https://www.koreatimes.co.kr/southkorea/20261102/about-80-of-korean-judges-encounter-ai-generated-fake-legal-precedents-survey?utm_source=rss",
+       "published": "2026-11-02T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2d6cc4572a26",
+     "title": "South Korea Deploys Sixth National Supercomputer 'Hangang'",
+     "summary": "The Korea Institute of Science and Technology Information activated the nation's latest high-performance computing system in Daejeon after a four-year rollout.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Korea",
+     "published": "2026-11-02T10:19:19Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "KBS World",
+       "title": "S. Korea’s Sixth Supercomputer, ‘Hangang,’ Launches Operations",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205298",
+       "published": "2026-11-02T10:19:19Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "84dd9df2bd26",
+     "title": "South Korea and US Aim to Finalize Air Base Relocation Pact This Year",
+     "summary": "Seoul and Washington are concluding comprehensive terms to relocate shared military airfield facilities across the country by late 2026.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-02T08:43:10Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "S. Korea seeks to finalize agreement with US on joint air base relocations by year-end",
+       "url": "https://www.koreaherald.com/article/10923180",
+       "published": "2026-11-02T08:43:10Z",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "S. Korea seeks to finalize agreement with U.S. on joint air base relocations by year-end",
+       "url": "https://en.yna.co.kr/view/AEN20261102010400315",
+       "published": "2026-11-02T07:48:32Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "82e4bdca79a8",
+     "title": "Government Formally Recognizes Three Fishermen Abducted by North Korea in 1973",
+     "summary": "The Unification Ministry officially added three maritime crew members seized over fifty years ago to its register of state-acknowledged abductees.",
+     "importance": 2,
+     "label": "CONFIRMED",
+     "category": "Korea",
+     "published": "2026-11-02T11:00:49Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "S. Korea officially recognizes 3 fishing crewmen abducted by N. Korea in 1973",
+       "url": "https://www.koreaherald.com/article/10922932",
+       "published": "2026-11-02T06:10:24Z",
+       "official": false
+      },
+      {
+       "outlet": "The Korea Times",
+       "title": "S. Korea officially recognizes 3 fishing crewmen abducted by N. Korea in 1973",
+       "url": "https://www.koreatimes.co.kr/southkorea/society/20261102/s-korea-officially-recognizes-3-fishing-crewmen-abducted-by-n-korea-in-1973?utm_source=rss",
+       "published": "2026-11-02T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "76656b47d6a4",
+     "title": "Supreme Court Upholds $13.5M Fine Against Broadcom",
+     "summary": "South Korea's highest court affirmed an antitrust penalty levied against Broadcom for unfair business practices involving mobile device components.",
+     "importance": 2,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-02T10:23:35Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Yonhap News",
+       "title": "Top court upholds antitrust watchdog's 18.6 bln-won fine on Broadcom",
+       "url": "https://en.yna.co.kr/view/AEN20261102012000320",
+       "published": "2026-11-02T10:23:35Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "4bae9d76e67d",
+     "title": "Sonic X Shadow Generations Discounted on Amazon for Switch 2",
+     "summary": "The cartridge release of Sonic X Shadow Generations is marked down to $21.97 at Amazon.",
+     "importance": 1,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-02T08:12:59Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Sonic X Shadow Generations (Switch 2 KC) is $21.97 on Amazon",
+       "url": "https://amzn.to/4sGd67I",
+       "published": "2026-11-02T08:12:59Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T11:00:49Z",
+ "timezone": "America/New_York",
+ "window_hours": 26,
+ "mode": "ai",
+ "model": "gemini-3.8-flash",
+ "stats": {
+  "items": 1028,
+  "clusters": 864,
+  "feeds_ok": 173,
+  "feeds_failed": 3
+ },
+ "feed_health": [
+  {
+   "key": "techdirt",
+   "title": "Techdirt",
+   "status": "error",
+   "detail": "HTTPError: 403 Client Error: Forbidden for url: https://www.techdirt.com/feed/"
+  },
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "wapo-politics",
+   "title": "The Washington Post: Politics",
+   "status": "error",
+   "detail": "HTTPError: 502 Server Error: Bad Gateway for url: https://feeds.washingtonpost.com/rss/politics"
+  },
+  {
+   "key": "err",
+   "title": "ERR News (Estonia)",
+   "status": "error",
+   "detail": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss"
+  },
+  {
+   "key": "dring",
+   "title": "Christopher Dring",
+   "status": "stale",
+   "detail": "no new items since 2026-10-13"
+  }
+ ]
+}
