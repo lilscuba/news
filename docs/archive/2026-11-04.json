@@ -1,0 +1,1832 @@
+{
+ "version": 1,
+ "headline": "US midterms deliver a shock Democratic wave shaking up tech and AI policy, while Sony delays God of War Laufey to May 2027.",
+ "top": [
+  {
+   "id": "a322a014ba7a",
+   "title": "Democrats Win Control of Congress in Midterm Sweep",
+   "summary": "Democrats captured majorities in both the House and Senate in the 2026 midterms. President Trump acknowledged that the unpopularity of the US war with Iran contributed to the Republican losses, while foreign leaders and officials responded to the shift.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "US",
+   "published": "2026-11-04T20:01:58Z",
+   "outlet_count": 46,
+   "sources": [
+    {
+     "outlet": "Straight Arrow News",
+     "title": "Vance blames Iran war after Democrats sweep midterm elections",
+     "url": "https://san.com/cc/vance-blames-iran-war-after-democrats-sweep-midterm-elections/",
+     "published": "2026-11-04T17:25:49Z",
+     "official": false,
+     "also": [
+      {
+       "title": "How the world is reacting to Democrats’ midterm victories",
+       "url": "https://san.com/cc/how-the-world-is-reacting-to-democrats-midterm-victories/",
+       "published": "2026-11-04T17:02:05Z"
+      }
+     ]
+    },
+    {
+     "outlet": "National Review",
+     "title": "2026 Midterm Elections: Live Updates",
+     "url": "https://www.nationalreview.com/2026/11/2026-midterm-elections-live-updates/",
+     "published": "2026-11-03T22:30:24Z",
+     "official": false
+    },
+    {
+     "outlet": "RFI (France)",
+     "title": "Democrats take both houses of Congress as midterm voters rebuke Trump",
+     "url": "https://www.rfi.fr/en/international/20261104-democrats-win-us-congress-in-midterm-rout-of-trump",
+     "published": "2026-11-04T03:54:05Z",
+     "official": false
+    },
+    {
+     "outlet": "Politico",
+     "title": "Democrats sweep Texas",
+     "url": "https://www.politico.com/news/2026/11/03/democrats-sweep-texas-01147637",
+     "published": "2026-11-04T04:45:13Z",
+     "official": false
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "title": "The 2026 Midterm Elections: Live Analysis and Commentary",
+     "url": "https://www.wsj.com/opinion/the-2026-midterm-elections-live-analysis-and-commentary-ab41f522?mod=rss_usnews",
+     "published": "2026-11-04T06:40:00Z",
+     "official": false
+    },
+    {
+     "outlet": "MercoPress (South Atlantic)",
+     "title": "Democrats retake control of the US Congress in a heavy blow to Trump",
+     "url": "https://en.mercopress.com/2026/11/04/democrats-retake-control-of-the-us-congress-in-a-heavy-blow-to-trump?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "published": "2026-11-04T09:09:00Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Markets react to the US midterms: the dollar falls and gold rises",
+       "url": "https://en.mercopress.com/2026/11/04/markets-react-to-the-us-midterms-the-dollar-falls-and-gold-rises?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+       "published": "2026-11-04T08:00:00Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Roll Call",
+     "title": "Mike Johnson won’t seek top GOP spot as House flips",
+     "url": "https://rollcall.com/2026/11/04/mike-johnson-will-not-seek-gop-leader-as-house-flips/",
+     "published": "2026-11-04T10:42:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Helsinki Times (Finland)",
+     "title": "Democrats win control of Congress in US midterm elections",
+     "url": "https://www.helsinkitimes.fi/world-int/29451-democrats-win-control-of-congress-in-us-midterm-elections.html",
+     "published": "2026-11-04T11:03:09Z",
+     "official": false
+    },
+    {
+     "outlet": "The Dispatch",
+     "title": "Democrats Rout the GOP",
+     "url": "https://thedispatch.com/newsletter/morning/democrats-rout-the-gop/",
+     "published": "2026-11-04T11:54:43Z",
+     "official": false
+    },
+    {
+     "outlet": "NPR News",
+     "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+     "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+     "published": "2026-11-04T12:34:35Z",
+     "official": false
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Iranian officials welcome U.S. midterm results after voters rebuke Trump administration, Iran war",
+     "url": "https://www.cbc.ca/news/world/iran-united-states-midterm-results-trump-9.7408499?cmp=rss",
+     "published": "2026-11-04T12:54:34Z",
+     "official": false
+    },
+    {
+     "outlet": "The Daily Wire",
+     "title": "Iran Celebrates Democrats’ Big Midterm Night",
+     "url": "https://www.dailywire.com/news/iran-celebrates-as-democrats-take-back-house-and-senate",
+     "published": "2026-11-04T13:16:25Z",
+     "official": false
+    },
+    {
+     "outlet": "Democracy Now!",
+     "title": "Abdul El-Sayed Becomes First Muslim Senator as Democrats Rout GOP Across the U.S. in Rebuke to Trump",
+     "url": "http://www.democracynow.org/2026/11/4/michigan_senate_abdul_el_sayed",
+     "published": "2026-11-04T13:19:44Z",
+     "official": false
+    },
+    {
+     "outlet": "ABC News",
+     "title": "WATCH: World leaders react to US midterm elections",
+     "url": "https://abcnews.com/video/137845749/",
+     "published": "2026-11-04T14:54:26Z",
+     "official": false
+    },
+    {
+     "outlet": "Notes from Poland",
+     "title": "“Democracy won in America”: Polish leaders react to US midterm election results",
+     "url": "https://notesfrompoland.com/2026/11/04/democracy-won-in-america-polish-leaders-react-to-us-midterm-election-results/",
+     "published": "2026-11-04T15:05:08Z",
+     "official": false
+    },
+    {
+     "outlet": "Deutsche Welle (Germany)",
+     "title": "What the Democrats' midterms win means for the US economy and Trump",
+     "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-11-04T15:09:00Z",
+     "official": false
+    },
+    {
+     "outlet": "CNA (Singapore)",
+     "title": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him",
+     "url": "https://www.channelnewsasia.com/world/trump-us-midterms-iran-war-republican-loss-6525316",
+     "published": "2026-11-04T19:33:31Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Stocks surge after Trump's election rout",
+       "url": "https://www.channelnewsasia.com/world/stocks-surge-after-trumps-election-rout-6524931",
+       "published": "2026-11-04T16:22:12Z"
+      },
+      {
+       "title": "Iranian officials gloat as US voters deal blow to Trump",
+       "url": "https://www.channelnewsasia.com/world/iran-gloat-us-midterm-election-trump-6524731",
+       "published": "2026-11-04T15:23:36Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Yahoo News",
+     "title": "Trump avoids discussing GOP midterm losses as he tours White House ballroom",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-ducking-blame-republican-losses-165128236.html",
+     "published": "2026-11-04T16:51:28Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Vance blames Iran war for GOP's midterm losses in social media post",
+       "url": "https://www.politico.com/news/2026/11/04/jd-vance-iran-war-midterms-01148838",
+       "published": "2026-11-04T16:07:37Z"
+      },
+      {
+       "title": "Mike Johnson won't seek reelection as House Republican leader",
+       "url": "https://www.usatoday.com/story/news/politics/2026/11/04/house-speaker-mike-johnson-gop-leadership/92609302007/",
+       "published": "2026-11-04T15:37:00Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Asahi Shimbun (Japanese)",
+     "title": "Countries React One After Another to U.S. Midterm Results: \"No to War,\" \"Victory for Democracy\"",
+     "url": "http://www.asahi.com/articles/ASVC453LFVC4UTFK01WM.html?ref=rss",
+     "published": "2026-11-04T16:00:00Z",
+     "translated_from": "ja",
+     "original_title": "米中間選挙結果に各国が続々反応 「戦争にノー」「民主主義の勝利」",
+     "official": false
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
+     "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war",
+     "published": "2026-11-04T17:36:11Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Vance blames Iran war for GOP midterm losses",
+       "url": "https://www.pbs.org/newshour/politics/vance-blames-iran-war-for-gop-midterm-losses",
+       "published": "2026-11-04T16:56:43Z"
+      },
+      {
+       "title": "Johnson won't seek reelection as House leader after Republican wipeout",
+       "url": "https://www.pbs.org/newshour/politics/johnson-wont-seek-reelection-as-house-speaker-after-republican-wipeout",
+       "published": "2026-11-04T16:40:44Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Tangle",
+     "title": "Democrats sweep the midterm elections.",
+     "url": "https://www.readtangle.com/democrats-sweep-the-midterm-elections/",
+     "published": "2026-11-04T16:51:11Z",
+     "official": false
+    },
+    {
+     "outlet": "France 24",
+     "title": "European leaders welcome Democrats' US midterms election win",
+     "url": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
+     "published": "2026-11-04T17:00:09Z",
+     "official": false
+    },
+    {
+     "outlet": "ORF News (Austria)",
+     "title": "Vance: Iran War to Blame for Election Defeat",
+     "url": "https://orf.at/stories/3447218/",
+     "published": "2026-11-04T17:03:21Z",
+     "translated_from": "de",
+     "original_title": "Vance: Iran-Krieg schuld an Wahlniederlage",
+     "official": false
+    },
+    {
+     "outlet": "SRF News (Switzerland)",
+     "title": "2026 Midterms: Trump defends Iran war despite election defeat",
+     "url": "https://www.srf.ch/news/international/midterms-2026-trump-verteidigt-irankrieg-trotz-wahlniederlage",
+     "published": "2026-11-04T19:14:50Z",
+     "translated_from": "de",
+     "original_title": "Midterms 2026 – Trump verteidigt Irankrieg trotz Wahlniederlage",
+     "official": false,
+     "also": [
+      {
+       "title": "Victory of the Democrats in the USA: How Financial Markets React to the Midterms",
+       "url": "https://www.srf.ch/news/wirtschaft/sieg-der-demokraten-in-den-usa-wie-die-finanzmaerkte-auf-die-midterms-reagieren",
+       "published": "2026-11-04T17:08:15Z",
+       "translated_from": "de",
+       "original_title": "Sieg der Demokraten in den USA – Wie die Finanzmärkte auf die Midterms reagieren"
+      }
+     ]
+    },
+    {
+     "outlet": "TheBlaze",
+     "title": "Straight talk: JD Vance blames midterm loss on Iran conflict and US' relationship with Israel",
+     "url": "https://www.theblaze.com/news/politics-jd-vance-iran-israel",
+     "published": "2026-11-04T17:17:19Z",
+     "official": false
+    },
+    {
+     "outlet": "The American Conservative",
+     "title": "Iran War Day 250: Vance Says Iran War Cost GOP Midterms",
+     "url": "https://www.theamericanconservative.com/iran-war-day-250-vance-says-iran-war-cost-gop-midterms/",
+     "published": "2026-11-04T17:31:27Z",
+     "official": false
+    },
+    {
+     "outlet": "The Federalist",
+     "title": "Mike Johnson Isn’t Running For GOP House Leader. His Successor Can’t Be Another Useless Republican",
+     "url": "https://thefederalist.com/2026/11/04/mike-johnson-isnt-running-for-gop-house-leader-his-successor-cant-be-another-useless-republican/?utm_source=rss&utm_medium=rss&utm_campaign=mike-johnson-isnt-running-for-gop-house-leader-his-successor-cant-be-another-useless-republican",
+     "published": "2026-11-04T18:11:59Z",
+     "official": false
+    },
+    {
+     "outlet": "Al Jazeera",
+     "title": "Key moments as Democrats sweep to victories in US midterms",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss",
+     "published": "2026-11-04T18:13:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Axios",
+     "title": "Vance says the Iran war cost Republicans the midterms",
+     "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
+     "published": "2026-11-04T18:22:47Z",
+     "official": false
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Trump brags about the White House ballroom in his first post-election appearance",
+     "url": "https://www.nbcnews.com/politics/donald-trump/trump-election-white-house-ballroom-iran-rcna607487",
+     "published": "2026-11-04T18:36:28Z",
+     "official": false
+    },
+    {
+     "outlet": "The Straits Times",
+     "title": "Trump says Republicans harmed by Iran war, inability to ‘transfer the love’ for him to candidates in US midterms",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-republicans-harmed-by-iran-war-inability-to-transfer-the-love-for-him",
+     "published": "2026-11-04T18:37:44Z",
+     "official": false
+    },
+    {
+     "outlet": "The Hindu",
+     "title": "U.S. midterm elections 2026 LIVE: Trump says 'largely true' Iran war caused election loss",
+     "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece",
+     "published": "2026-11-04T19:19:30Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump says Republicans harmed by Iran war, inability to ‘transfer the love’ for him",
+       "url": "https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece",
+       "published": "2026-11-04T19:18:44Z"
+      },
+      {
+       "title": "Vance tries to distance himself from Iran war after Republican Party’s deep losses in midterm elections",
+       "url": "https://www.thehindu.com/news/international/vance-tries-to-distance-himself-from-iran-war-after-republican-partys-deep-losses-in-midterm-elections/article71667348.ece",
+       "published": "2026-11-04T18:58:19Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Corriere della Sera (Italy)",
+     "title": "Trump talks about new White House ballroom after defeat",
+     "url": "https://video.corriere.it/trump-dopo-la-sconfitta-elettorale-parla-della-nuova-sala-da-ballo-della-casa-bianca/21492cab-ede9-4a1b-ad16-e8dbbcbc4xlk",
+     "published": "2026-11-04T19:00:04Z",
+     "translated_from": "it",
+     "original_title": "Trump dopo la sconfitta parla della nuova sala da ballo alla Casa Bianca",
+     "official": false
+    },
+    {
+     "outlet": "Semafor",
+     "title": "Johnson out as House Republican leader after GOP rout",
+     "url": "https://www.semafor.com/article/11/04/2026/johnson-out-as-house-republican-leader",
+     "published": "2026-11-04T19:01:51Z",
+     "official": false
+    },
+    {
+     "outlet": "Washington Examiner",
+     "title": "Trump will ‘stay out’ of race to succeed Mike Johnson as House GOP leader",
+     "url": "https://www.washingtonexaminer.com/news/house/4792691/trump-johnson-house-gop-leader-jordan-scalise/",
+     "published": "2026-11-04T19:20:23Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump ‘not at all’ worried about impeachment despite Democrats retaking Congress",
+       "url": "https://www.washingtonexaminer.com/news/white-house/4792776/trump-not-at-all-worried-about-impeachment-despite-democrats-retaking-congress/",
+       "published": "2026-11-04T19:06:34Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Bloomberg",
+     "title": "Tech Mostly Higher After Democrats Win Control of Congress",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-04/bloomberg-tech-11-04-2026-video",
+     "published": "2026-11-04T19:36:34Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump Hails White House Ballroom After Suffering Midterm Wipeout",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-04/trump-hails-white-house-ballroom-after-suffering-midterm-wipeout",
+       "published": "2026-11-04T19:17:29Z"
+      },
+      {
+       "title": "Trump Says He's Not Worried About Impeachment",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-04/trump-says-he-s-not-worried-about-impeachment-video",
+       "published": "2026-11-04T19:11:24Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Der Spiegel (Germany)",
+     "title": "US Midterms: James Talarico celebrates election success at Whataburger",
+     "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-james-talarico-feiert-wahlerfolg-bei-whataburger-a-e20b29b7-9c4c-488d-92e9-b7ee2741acc8#ref=rss",
+     "published": "2026-11-04T19:12:00Z",
+     "translated_from": "de",
+     "original_title": "Midterms in den USA: James Talarico feiert Wahlerfolg bei Whataburger",
+     "official": false
+    },
+    {
+     "outlet": "Tagesschau (Germany)",
+     "title": "Democrats Celebrate Election Victory in US Midterms",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html",
+     "published": "2026-11-04T19:19:03Z",
+     "translated_from": "de",
+     "original_title": "Demokraten feiern Wahlsieg bei US-Midterms",
+     "official": false
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "published": "2026-11-04T19:40:20Z",
+     "official": false,
+     "also": [
+      {
+       "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+       "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+       "published": "2026-11-04T19:22:04Z"
+      }
+     ]
+    },
+    {
+     "outlet": "CBS News",
+     "title": "Midterm fallout begins after Democrats win control of Congress",
+     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+     "published": "2026-11-04T20:00:55Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Iran says U.S. election results show Americans reject the war",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+       "published": "2026-11-04T19:33:23Z"
+      },
+      {
+       "title": "Trump touts White House ballroom after GOP midterm losses",
+       "url": "https://www.cbsnews.com/news/trump-2026-midterms-republicans-white-house-ballroom/",
+       "published": "2026-11-04T19:26:23Z"
+      }
+     ]
+    },
+    {
+     "outlet": "ERT News (Greece)",
+     "title": "Politico: What Europe Expects from the Democrats' Triumph in the US Midterm Elections",
+     "url": "https://www.ertnews.gr/eidiseis/diethni/politico-ti-perimenei-i-eyropi-apo-ton-thriamvo-ton-dimokratikon-stis-endiameses-ekloges-ton-ipa/",
+     "published": "2026-11-04T19:34:33Z",
+     "translated_from": "el",
+     "original_title": "Politico: Τι περιμένει η Ευρώπη από τον θρίαμβο των Δημοκρατικών στις ενδιάμεσες εκλογές των ΗΠΑ",
+     "official": false
+    },
+    {
+     "outlet": "Courthouse News Service",
+     "title": "Relief in Europe, but no reset expected after US midterms",
+     "url": "https://www.courthousenews.com/relief-in-europe-but-no-reset-expected-after-us-midterms/",
+     "published": "2026-11-04T19:47:52Z",
+     "official": false
+    },
+    {
+     "outlet": "NHK News (Japanese)",
+     "title": "US Midterm Elections: Democrats Set to Retake Majority in Both Houses of Congress [Latest News]",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
+     "published": "2026-11-04T19:53:20Z",
+     "translated_from": "ja",
+     "original_title": "アメリカ中間選挙 民主党 上下両院で多数派奪還へ【最新情報】",
+     "official": false
+    },
+    {
+     "outlet": "New York Times",
+     "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
+     "url": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
+     "published": "2026-11-04T19:54:10Z",
+     "official": false
+    },
+    {
+     "outlet": "Nikkei Asia",
+     "title": "US midterms live: Trump defends Iran war after Vance blames it for loss",
+     "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-trump-defends-iran-war-after-vance-blames-it-for-loss",
+     "published": "2026-11-04T20:01:58Z",
+     "official": false
+    },
+    {
+     "outlet": "Just the News",
+     "title": "Trump touts stock market surge after midterm losses",
+     "url": "https://justthenews.com/politics-policy/trump-touts-stock-market-surge-after-midterm-losses?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+     "published": "2026-11-04T20:01:58Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "e4959b08720a",
+   "title": "God of War Laufey Delayed to May 20, 2027",
+   "summary": "Santa Monica Studio has delayed the release of God of War Laufey by three months to May 20, 2027, giving the team extra time to polish the game.",
+   "importance": 5,
+   "label": "CONFIRMED",
+   "category": "Gaming",
+   "published": "2026-11-04T17:50:47Z",
+   "outlet_count": 9,
+   "sources": [
+    {
+     "outlet": "IGN",
+     "title": "God of War Laufey Delayed to May 2027",
+     "url": "https://www.ign.com/articles/god-of-war-laufey-delayed-to-may-2027",
+     "published": "2026-11-04T17:16:06Z",
+     "official": false
+    },
+    {
+     "outlet": "Gematsu",
+     "title": "God of War Laufey delayed to May 20, 2027",
+     "url": "https://www.gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027",
+     "published": "2026-11-04T17:05:55Z",
+     "official": false
+    },
+    {
+     "outlet": "VGC",
+     "title": "God of War Laufey has officially been delayed",
+     "url": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/",
+     "published": "2026-11-04T17:06:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Insider Gaming",
+     "title": "God of War: Laufey Release Date Delayed",
+     "url": "https://insider-gaming.com/god-of-war-laufey-release-date-delayed/",
+     "published": "2026-11-04T17:09:03Z",
+     "official": false
+    },
+    {
+     "outlet": "The Verge",
+     "title": "God of War Laufey delayed until May",
+     "url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+     "published": "2026-11-04T17:10:31Z",
+     "official": false
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "God Of War Laufey Hit With Three-Month Delay",
+     "url": "https://kotaku.com/god-of-war-laufey-delay-ps5-new-release-date-santa-monica-2000753374",
+     "published": "2026-11-04T17:12:46Z",
+     "official": false
+    },
+    {
+     "outlet": "Push Square",
+     "title": "PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months",
+     "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
+     "published": "2026-11-04T17:15:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Eurogamer",
+     "title": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
+     "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+     "published": "2026-11-04T17:32:10Z",
+     "official": false
+    },
+    {
+     "outlet": "Engadget",
+     "title": "God of War Laufey is delayed until May 20",
+     "url": "https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20/",
+     "published": "2026-11-04T17:50:47Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "ae3d97c76180",
+   "title": "Apple to Scan Shared iCloud Links for Harmful Content in iOS 27.3",
+   "summary": "Starting with the iOS 27.3 update, Apple will begin checking items shared via 'Anyone with the link' public iCloud options for harmful content, with potential account bans or content deletion for violations.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "Tech",
+   "published": "2026-11-04T19:35:03Z",
+   "outlet_count": 5,
+   "sources": [
+    {
+     "outlet": "The Verge",
+     "title": "Apple will check shared iCloud links for ‘harmful content’",
+     "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+     "published": "2026-11-04T18:23:37Z",
+     "official": false
+    },
+    {
+     "outlet": "9to5Mac",
+     "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’",
+     "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
+     "published": "2026-11-04T15:55:23Z",
+     "official": false
+    },
+    {
+     "outlet": "AppleInsider",
+     "title": "iCloud's 'Anyone with the Link' option will trigger Apple content checks",
+     "url": "https://appleinsider.com/articles/26/11/04/iclouds-anyone-with-the-link-option-will-trigger-apple-content-checks?utm_source=rss",
+     "published": "2026-11-04T16:33:49Z",
+     "official": false
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3",
+     "url": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
+     "published": "2026-11-04T19:12:27Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "4bc553d06bf7",
+   "title": "Ubisoft Reportedly in Talks to Acquire Arkane Lyon from Xbox",
+   "summary": "Industry sources report that Ubisoft is seeking to acquire Dishonored developer Arkane Lyon from Xbox following an extension of consultation periods.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "Gaming",
+   "published": "2026-11-04T08:35:49Z",
+   "outlet_count": 3,
+   "sources": [
+    {
+     "outlet": "PC Gamer",
+     "title": "Ubisoft reportedly wants to buy Arkane from Xbox",
+     "url": "https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
+     "published": "2026-11-03T22:12:35Z",
+     "official": false
+    },
+    {
+     "outlet": "Jason Schreier",
+     "title": "SCOOP: Several companies have made offers to buy Dishonored developer Arkane Lyon from Xbox, including Ubisoft Entertainment, according to people familiar with the negotiations",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8",
+     "published": "2026-11-03T20:46:44Z",
+     "official": false
+    },
+    {
+     "outlet": "GamesIndustry.biz",
+     "title": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
+     "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
+     "published": "2026-11-04T08:35:49Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "3a06f84c0f51",
+   "title": "OpenAI Acquires Pierre Computer Company to Bolster AI Coding Infrastructure",
+   "summary": "OpenAI is acquiring startup Pierre Computer Company, whose libraries power the Codex coding agent, complementing its recently launched Git backend Pando.",
+   "importance": 4,
+   "label": "CONFIRMED",
+   "category": "AI",
+   "published": "2026-11-04T18:41:03Z",
+   "outlet_count": 2,
+   "sources": [
+    {
+     "outlet": "OpenAI News",
+     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+     "url": "https://openai.com/index/openai-to-acquire-pierre",
+     "published": "2026-11-04T14:30:00Z",
+     "official": true
+    },
+    {
+     "outlet": "The Decoder",
+     "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+     "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
+     "published": "2026-11-04T18:41:03Z",
+     "official": false
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "cf0d440cdc78",
+     "title": "AMD Acquires AI Chip Startup Taalas for $2.9 Billion",
+     "summary": "Advanced Micro Devices is paying roughly $2.9 billion in cash and stock for Toronto-based semiconductor startup Taalas, with a portion dependent on specific conditions.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-04T19:45:48Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Globe and Mail via Techmeme",
+       "title": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August",
+       "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
+       "published": "2026-11-04T19:45:48Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "a461bdcd2630",
+     "title": "Meta Acquires Parallel AI Coding Startup Conductor",
+     "summary": "Meta has acquired Conductor, a startup enabling software engineers to manage multiple AI coding agents simultaneously, adding the team to Meta Superintelligence Labs.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-04T18:50:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Axios via Techmeme",
+       "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs",
+       "url": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+       "published": "2026-11-04T18:50:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "6679ef38f1e3",
+     "title": "Anthropic Unveils FlashProve Cryptographic Model Verification",
+     "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response originated from a specific model without exposing its weights.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-04T15:23:49Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+       "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+       "published": "2026-11-04T15:23:49Z",
+       "official": false
+      },
+      {
+       "outlet": "TechCrunch",
+       "title": "Anthropic is working on a system to prove AI models’ identity",
+       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+       "published": "2026-11-03T22:41:03Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "0436dfb29a58",
+     "title": "OpenAI Adds Animated GIF Creation to ChatGPT via Images 2.6",
+     "summary": "OpenAI's new Images 2.6 model brings a GIF feature to ChatGPT, allowing users to generate animated GIFs from text prompts or photos and adjust playback speeds.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-04T19:44:20Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+       "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
+       "published": "2026-11-04T19:44:20Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9034e2a19b38",
+     "title": "OpenAI's GPT-6 Astra Can Directly Rewrite Other Model Weights, MIT Researchers Show",
+     "summary": "MIT researchers demonstrated that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training, significantly boosting performance.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-04T15:44:44Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+       "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+       "published": "2026-11-04T15:44:44Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e658516312f2",
+     "title": "OpenAI's Hardware Team Uses GPT-6 Astra to Design Device in Under a Week",
+     "summary": "OpenAI utilized GPT-6 Astra to build a custom hardware device from scratch for the Codex coding agent in less than a week, handling enclosures, circuit boards, and firmware.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-03T20:15:45Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+       "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+       "published": "2026-11-03T20:15:45Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "aac86e978a70",
+     "title": "Google Faces Backlash Over Plan to Turn Off Search for Schools Restricting AI",
+     "summary": "Politicians and privacy advocates criticized Google's upcoming 2027 policy that will turn off Search for schools that restrict AI features.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-04T16:17:22Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+       "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+       "published": "2026-11-04T16:17:22Z",
+       "official": false
+      },
+      {
+       "outlet": "The Decoder",
+       "title": "Schools that turn off Google's AI will lose search too starting in 2027",
+       "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
+       "published": "2026-11-04T10:06:23Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "47bd891893cd",
+     "title": "Binance Hit by $6.3 Billion Crypto Heist via Fake Job Interview",
+     "summary": "Attackers utilized North Korean fake job interview schemes to pull off a massive $6.3 billion crypto heist from Binance.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-04T14:09:55Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Engadget",
+       "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+       "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+       "published": "2026-11-04T08:50:36Z",
+       "official": false
+      },
+      {
+       "outlet": "Hacker News (100+ points)",
+       "title": "North Korean fake job interview led to $6.3B Binance heist",
+       "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+       "published": "2026-11-04T14:09:55Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "be96850951d1",
+     "title": "Apple Releases Xcode 27.3 Beta with GitHub Copilot and Siri Testing",
+     "summary": "The first Xcode 27.3 beta adds built-in GitHub Copilot support for its coding assistant, developer tools for Siri AI integration, and other updates.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-04T19:27:15Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Releases Xcode 27.3 Beta With Three New Features",
+       "url": "https://www.macrumors.com/2026/11/04/xcode-27-3-beta-new-features/",
+       "published": "2026-11-04T19:27:15Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Everything New in the iOS 27.3 Beta",
+         "url": "https://www.macrumors.com/guide/ios-27-3-beta-features/",
+         "published": "2026-11-04T00:52:02Z"
+        }
+       ]
+      },
+      {
+       "outlet": "9to5Mac",
+       "title": "Everything new in iOS 27.3 beta 1 so far",
+       "url": "https://9to5mac.com/2026/11/03/everything-new-in-ios-27-3-beta-1-so-far/",
+       "published": "2026-11-03T19:05:31Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Apple releases first iOS 27.3 developer beta for iPhone",
+         "url": "https://9to5mac.com/2026/11/03/apple-releases-first-ios-27-3-developer-beta-for-iphone/",
+         "published": "2026-11-03T18:08:48Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a4b63e1585c2",
+     "title": "Sequoia Capital Raises $10 Billion and Shuts Down Arc Accelerator",
+     "summary": "Sequoia Capital announced a major restructuring titled 'The Sequoia of Tomorrow,' raising $10 billion, closing its Arc accelerator and scouts program, and merging teams.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-04T17:30:41Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "Sequoia hits rewind, undoing 20 years of expansion",
+       "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+       "published": "2026-11-04T17:11:15Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "99eee0796c9b",
+     "title": "Revolut Valuation Surges 53% to $115 Billion Following Secondary Share Sale",
+     "summary": "British fintech Revolut reached a $115 billion valuation after a secondary share sale led by Glade Brook and Coatue, ahead of its planned US bank launch.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-04T14:30:28Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "TechCrunch",
+       "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+       "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+       "published": "2026-11-04T14:10:10Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "efbce55efb8e",
+     "title": "Nintendo Faces Supply Threat as Key ROM Manufacturer Exits Business",
+     "summary": "Macronix, a long-time Nintendo partner and primary ROM supplier for Switch physical cartridges, has announced it is leaving the ROM business.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-04T18:39:08Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Engadget",
+       "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+       "url": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/",
+       "published": "2026-11-04T18:39:08Z",
+       "official": false
+      },
+      {
+       "outlet": "Nintendo Life",
+       "title": "Switch Cartridges Under Threat As Key ROM Manufacturer Exits Business",
+       "url": "https://www.nintendolife.com/news/2026/11/switch-cartridges-under-threat-as-key-rom-manufacturer-exits-business",
+       "published": "2026-11-04T12:15:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Eurogamer",
+       "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
+       "url": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
+       "published": "2026-11-04T13:34:57Z",
+       "official": false
+      },
+      {
+       "outlet": "The Verge",
+       "title": "Nintendo is losing a Switch cartridge supplier",
+       "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+       "published": "2026-11-04T17:03:32Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "c2cfe1e3d05e",
+     "title": "macOS 27.3 Brings Live Activities to All Supported Macs",
+     "summary": "Apple's upcoming macOS 27.3 update brings Live Activities to all compatible Macs, allowing users to track real-time info outside of just iPhone and iPad.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-04T19:55:31Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "AppleInsider",
+       "title": "macOS 27.3 brings Live Activities to all supported Macs",
+       "url": "https://appleinsider.com/articles/26/11/04/macos-273-brings-live-activities-to-all-supported-macs?utm_source=rss",
+       "published": "2026-11-04T19:55:31Z",
+       "official": false
+      },
+      {
+       "outlet": "MacRumors",
+       "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
+       "url": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
+       "published": "2026-11-04T18:43:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "a400dfd0bbea",
+     "title": "Apple Music Gains Karaoke Recording Feature in iOS 27.3 Beta",
+     "summary": "Apple Music introduces a 'Selfie Sing' feature in the iOS 27.3 beta, allowing users to record karaoke videos directly within the app.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-04T18:46:02Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Engadget",
+       "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+       "url": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+       "published": "2026-11-04T11:02:04Z",
+       "official": false
+      },
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
+       "url": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
+       "published": "2026-11-04T00:05:45Z",
+       "official": false
+      },
+      {
+       "outlet": "9to5Mac",
+       "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
+       "url": "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
+       "published": "2026-11-04T18:46:02Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "8d376a5a786b",
+     "title": "Xbox Rolls Out Cloud Gaming Previews for Phone Controllers and Direct Wi-Fi",
+     "summary": "Team Xbox has launched two new cloud gaming previews, adding support for phone controllers and direct Wi-Fi connectivity for the Xbox Nano.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-11-04T19:33:00Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Xbox Wire",
+       "title": "Preview Two New Ways to Play with XBOX Cloud Gaming",
+       "url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/",
+       "published": "2026-11-04T19:00:00Z",
+       "official": true
+      },
+      {
+       "outlet": "Tom Warren",
+       "title": "Xbox is previewing two new ways to control cloud games today. Xbox Cloud Gaming is getting a phone controller and new direct Wi-Fi connectivity for the Xbox Nano. Full details",
+       "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+       "published": "2026-11-04T19:02:27Z",
+       "official": false
+      },
+      {
+       "outlet": "Pure Xbox",
+       "title": "Xbox Announces Two New Methods To Play Games Through The Cloud",
+       "url": "https://www.purexbox.com/news/2026/11/xbox-announces-two-new-methods-to-play-games-through-the-cloud",
+       "published": "2026-11-04T19:33:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "741334ab38b5",
+     "title": "Former Bungie Composer Marty O'Donnell Loses House Election Race",
+     "summary": "Former Halo and Destiny composer Marty O'Donnell lost his bid for a seat in the US House of Representatives.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-04T19:21:48Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "VGC",
+       "title": "Halo composer Marty O’Donnell loses race in US midterms",
+       "url": "https://www.videogameschronicle.com/news/halo-composer-marty-odonnell-loses-race-in-us-midterms/",
+       "published": "2026-11-04T15:34:30Z",
+       "official": false
+      },
+      {
+       "outlet": "Eurogamer",
+       "title": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives",
+       "url": "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
+       "published": "2026-11-04T13:11:26Z",
+       "official": false
+      },
+      {
+       "outlet": "IGN",
+       "title": "Democrat Mocks Former Bungie Composer Marty O'Donnell With Halo Monk Chant Tweet After U.S. Midterm Elections Victory",
+       "url": "https://www.ign.com/articles/democrat-mocks-former-bungie-composer-marty-odonnell-with-halo-monk-chant-tweet-after-us-midterm-elections-victory",
+       "published": "2026-11-04T14:46:19Z",
+       "official": false
+      },
+      {
+       "outlet": "PC Gamer",
+       "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
+       "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
+       "published": "2026-11-04T19:21:48Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e1d81afac975",
+     "title": "Nexus Mods Sets New Rules for AI-Generated Mods Without an Outright Ban",
+     "summary": "Nexus Mods has introduced disclosure rules requiring mods created with generative AI to be properly labeled, deciding against an outright site ban.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-04T12:18:44Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Eurogamer",
+       "title": "Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright",
+       "url": "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
+       "published": "2026-11-04T12:18:44Z",
+       "official": false
+      },
+      {
+       "outlet": "Rock Paper Shotgun",
+       "title": "\"An outright ban will not eliminate AI from the modding process,\" Nexus Mods say as they rule out barring generated creations from their site",
+       "url": "https://www.rockpapershotgun.com/nexus-mods-rule-out-barring-ai-generated-creations-from-their-site",
+       "published": "2026-11-04T10:34:07Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "573f7c4c19f3",
+     "title": "Nintendo, Xbox, and Others Adopt Accessible Games Initiative Tags",
+     "summary": "Major publishers including Nintendo, Xbox, Ubisoft, and EA have joined the Accessible Games Initiative, adopting new standardized accessibility tags on digital storefronts.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-04T13:57:03Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "VGC",
+       "title": "Accessible Games Initiative tags adopted by Nintendo, Xbox, Ubisoft and EA, making it easier to find accessibility features",
+       "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/",
+       "published": "2026-11-04T13:57:03Z",
+       "official": false
+      },
+      {
+       "outlet": "Nintendo Life",
+       "title": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags",
+       "url": "https://www.nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags",
+       "published": "2026-11-04T11:45:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "ce00a11c72b6",
+     "title": "The Elder Scrolls 6 Subtitled 'Sentinel' is Still Over Two Years Away",
+     "summary": "Bethesda has officially confirmed the subtitle for The Elder Scrolls 6 as Sentinel, though the RPG remains at least two years from release.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-04T10:15:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Nintendo Life",
+       "title": "The Elder Scrolls 6: Sentinel Is Reportedly Still \"More Than Two Years Away\"",
+       "url": "https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away",
+       "published": "2026-11-04T10:15:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Push Square",
+       "title": "The Elder Scrolls 6: Sentinel Is Still 'At Least Two Years Away' as Disappointment Follows New Trailer",
+       "url": "https://www.pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer",
+       "published": "2026-11-03T19:00:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "64e6f3be7b4f",
+     "title": "Valve Admits Steam Review Backlog Due to Rising Game Volume",
+     "summary": "Valve acknowledged it is running behind on reviewing pre-release Steam games because of an influx of re-reviews and submissions.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-04T10:50:08Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "VGC",
+       "title": "Steam says it’s ‘running behind’ when reviewing pre-release games because of how many re-reviews it has to do",
+       "url": "https://www.videogameschronicle.com/news/steam-says-its-running-behind-when-reviewing-pre-release-games-because-of-how-many-re-reviews-it-has-to-do/",
+       "published": "2026-11-04T10:50:08Z",
+       "official": false
+      },
+      {
+       "outlet": "PC Gamer",
+       "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+       "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+       "published": "2026-11-03T23:51:13Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "596a2c05b0b4",
+     "title": "Grand Theft Auto VI Pre-Installs Scheduled to Begin November 10",
+     "summary": "Pre-installation for Grand Theft Auto VI is officially set to kick off on November 10.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-11-03T19:30:11Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Xbox Wire",
+       "title": "Grand Theft Auto VI Pre-install Begins on November 10",
+       "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+       "published": "2026-11-03T19:30:11Z",
+       "official": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": [
+    {
+     "id": "8316681653af",
+     "title": "Internal Blame and Leadership Shifts Follow GOP Midterm Rout",
+     "summary": "As fallout from the midterm elections continues, political figures point fingers over strategy while House Republicans prepare for leadership changes.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-04T19:32:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wired",
+       "title": "Knives Are Out in the White House",
+       "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+       "published": "2026-11-04T19:32:01Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "142938ed4de8",
+     "title": "Danish Students Join European Wave of Protests Against Education Budget Cuts",
+     "summary": "Students in Denmark joined broader European youth demonstrations against government budget proposals to abolish student allowances for higher-earning families.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-04T19:36:17Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Courthouse News Service",
+       "title": "Danish students join European protests against education cuts",
+       "url": "https://www.courthousenews.com/danish-students-join-european-protests-against-education-cuts/",
+       "published": "2026-11-04T19:36:17Z",
+       "official": false
+      },
+      {
+       "outlet": "South China Morning Post",
+       "title": "Danish students join European wave of youth strikes over education cuts",
+       "url": "https://www.scmp.com/news/world/europe/article/3373307/danish-students-join-european-wave-youth-strikes-over-education-cuts",
+       "published": "2026-11-04T14:27:25Z",
+       "official": false
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Danish students join European protest wave against education funding cuts",
+       "url": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
+       "published": "2026-11-04T17:54:48Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "992b54889e34",
+     "title": "Zelenskyy Awards Ukrainian Civilian Honour to US First Lady Melania Trump",
+     "summary": "Ukrainian President Volodymyr Zelenskyy honored US First Lady Melania Trump for her role in securing a humanitarian ceasefire allowing civilian evacuation from a Russian-controlled town.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-04T18:33:08Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Zelenskyy awards US first lady Ukrainian civilian honour",
+       "url": "https://www.channelnewsasia.com/world/zelenskyy-melania-trump-honour-ukraine-ceasefire-6525091",
+       "published": "2026-11-04T18:33:08Z",
+       "official": false
+      },
+      {
+       "outlet": "The Hindu",
+       "title": "Ukraine's Zelenskyy awards U.S. first lady Melania state honour",
+       "url": "https://www.thehindu.com/news/international/ukraines-zelenskyy-awards-us-first-lady-melania-state-honour/article71667243.ece",
+       "published": "2026-11-04T17:59:36Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "c0b53cc56c20",
+     "title": "Spanish Transport Minister Resigns Following Train Crash That Killed 69",
+     "summary": "Spain's transport minister has resigned in the wake of a tragic train crash in the country that claimed the lives of at least 69 people.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-04T15:40:37Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "MercoPress (South Atlantic)",
+       "title": "Spain’s transport minister resigns after the train crash that killed at least 69 people",
+       "url": "https://en.mercopress.com/2026/11/04/spain-s-transport-minister-resigns-after-the-train-crash-that-killed-at-least-69-people?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+       "published": "2026-11-04T07:44:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Sky News",
+       "title": "Spain's transport minister to resign after train crash killed 69 people",
+       "url": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
+       "published": "2026-11-03T20:32:00Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Spanish transport minister resigns days after deadly train crash",
+       "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-03T22:45:59Z",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Spain’s deadly train crashes have damaged public confidence in the system",
+       "url": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
+       "published": "2026-11-04T15:40:37Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e2f1c96235cb",
+     "title": "WHO Approves Clinical Trials for Two New Ebola Vaccines",
+     "summary": "The World Health Organization has backed clinical trials for two novel vaccines targeting the Bundibugyo Ebola virus strain.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-04T19:22:09Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "WHO approves trials for two new Ebola vaccines",
+       "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+       "published": "2026-11-04T19:22:09Z",
+       "official": false
+      },
+      {
+       "outlet": "Euronews",
+       "title": "WHO backs trials for two new vaccines against Ebola outbreak",
+       "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak",
+       "published": "2026-11-04T17:06:56Z",
+       "official": false
+      },
+      {
+       "outlet": "RTÉ News (Ireland)",
+       "title": "WHO approves clinical trials for two new Ebola vaccines",
+       "url": "https://www.rte.ie/news/2026/1104/1598010-who-approves-trials-ebola/",
+       "published": "2026-11-04T17:13:48Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3a17b6b37442",
+     "title": "UK Supreme Court Hears Challenge Against Palestine Action Ban",
+     "summary": "The UK Supreme Court is reviewing challenges against the government's decision to proscribe Palestine Action under anti-terrorism laws.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-04T17:55:53Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "New York Times",
+       "title": "U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know",
+       "url": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
+       "published": "2026-11-04T10:38:07Z",
+       "official": false
+      },
+      {
+       "outlet": "Euronews",
+       "title": "UK: Police arrest Palestine Action supporters outside Supreme Court",
+       "url": "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court",
+       "published": "2026-11-04T16:48:34Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
+       "url": "https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-04T17:55:53Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "42028beb7fe0",
+     "title": "Hungary Releases Communist-Era Secret Police Informant Files",
+     "summary": "Hungary has made public secret police files from the communist regime, exposing informant networks 70 years after the suppression of the 1956 revolution.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-04T18:43:55Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Politico Europe",
+       "title": "Hungary releases secret police files from communist era",
+       "url": "https://www.politico.eu/article/hungary-releases-secret-police-files-from-communist-era/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "published": "2026-11-04T18:43:55Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Secret police files released in Hungary, 37 years after fall of communism",
+       "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-04T15:28:18Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "8add0a5aa3e0",
+     "title": "France Deploys 70,000 Officers Ahead of Nationwide Interprofessional Protests",
+     "summary": "French authorities are deploying 70,000 police and gendarmes as labor unions and student groups prepare for a widespread day of action and demonstrations.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-04T18:13:07Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "franceinfo (France)",
+       "title": "November 5 mobilization: 70,000 police and gendarmes deployed, \"exact same setup\" as October 31, announces Laurent Nuñez",
+       "url": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
+       "published": "2026-11-04T18:13:07Z",
+       "translated_from": "fr",
+       "original_title": "Mobilisation du 5 novembre : 70 000 policiers et gendarmes mobilisés, \"exactement le même dispositif\" que le 31 octobre, annonce Laurent Nuñez",
+       "official": false
+      },
+      {
+       "outlet": "Le Monde (France)",
+       "title": "November 5 Protest: Laurent Nuñez Announces 70,000 Police and Gendarmes Deployed and Warns That No \"Overflow Will Be Tolerated\"",
+       "url": "https://www.lemonde.fr/politique/article/2026/11/04/manifestation-du-5-novembre-laurent-nunez-annonce-70-000-policiers-et-gendarmes-deployes-et-previent-qu-aucun-debordement-ne-sera-tolere_6806412_823448.html",
+       "published": "2026-11-04T17:58:29Z",
+       "translated_from": "fr",
+       "original_title": "Manifestation du 5 novembre : Laurent Nuñez annonce 70 000 policiers et gendarmes déployés et prévient qu’aucun « débordement ne sera toléré »",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "f51d0725d99a",
+     "title": "UNESCO Evaluation Body Recommends Adding Japanese Calligraphy to Cultural Heritage List",
+     "summary": "UNESCO's evaluation body has recommended the registration of traditional Japanese 'Shodo' calligraphy onto the Intangible Cultural Heritage list.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-04T19:07:27Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "\"Shodo\" to Be Registered as Intangible Cultural Heritage as UNESCO Evaluation Body Recommends Inscription",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261105de70701",
+       "published": "2026-11-04T17:47:00Z",
+       "translated_from": "ja",
+       "original_title": "「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告",
+       "official": false
+      },
+      {
+       "outlet": "Asahi Shimbun (Japanese)",
+       "title": "Recommendation to Register \"Calligraphy\" as UNESCO Intangible Cultural Heritage, Broadly Targeting the Habit of Writing Characters",
+       "url": "http://www.asahi.com/articles/ASVC23PHJVC2UCVL00XM.html?ref=rss",
+       "published": "2026-11-04T16:34:00Z",
+       "translated_from": "ja",
+       "original_title": "「書道」をユネスコ無形文化遺産へ登録勧告 文字を書く習慣広く対象",
+       "official": false
+      },
+      {
+       "outlet": "Mainichi Shimbun (Japanese)",
+       "title": "Calligraphy recommended for Intangible Cultural Heritage list by UNESCO evaluation body, marking Japan's 24th inscription",
+       "url": "https://mainichi.jp/articles/20261103/k00/00m/040/176000c",
+       "published": "2026-11-04T19:07:27Z",
+       "translated_from": "ja",
+       "original_title": "書道が無形文化遺産に 国内24件目 ユネスコの評価機関が勧告",
+       "official": false,
+       "also": [
+        {
+         "title": "Spotlight on Everyday Brush Culture: Calligraphy to Be Registered as UNESCO Intangible Cultural Heritage",
+         "url": "https://mainichi.jp/articles/20261101/k00/00m/200/198000c",
+         "published": "2026-11-04T16:58:14Z",
+         "translated_from": "ja",
+         "original_title": "暮らしの中の毛筆文化に光 書道、ユネスコ無形文化遺産登録へ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "f9cac5340e20",
+     "title": "Japan Braces for Potential US Foreign Policy Shifts After Midterms",
+     "summary": "Japanese officials and trading houses are evaluating economic and foreign policy uncertainties following the Democratic sweep in the US midterms.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-04T20:01:58Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "How US midterm results could reshape Trump’s foreign policy",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+       "published": "2026-11-04T19:15:50Z",
+       "official": false
+      },
+      {
+       "outlet": "Japan Forward",
+       "title": "Japan Braces for Trump's Foreign Policy Shifts After US Midterms",
+       "url": "https://japan-forward.com/us-midterms-takaichi-trump-china-russia/",
+       "published": "2026-11-04T05:01:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump's tariff policies remains",
+       "url": "https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-04T12:58:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Japan's trading house chiefs warn of uncertainty after US midterms",
+       "url": "https://asia.nikkei.com/business/companies/japan-s-trading-house-chiefs-warn-of-uncertainty-after-us-midterms",
+       "published": "2026-11-04T20:01:58Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "f4e6804fda59",
+     "title": "South Korean Police Arrest Woman for Stabbing Doctor at Seoul Hospital",
+     "summary": "Police in Seoul arrested a female suspect accused of stabbing and injuring a doctor at a major hospital, with investigations into her motives underway.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-04T10:44:45Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Korea Herald",
+       "title": "Police arrest woman for stabbing doctor at hospital",
+       "url": "https://www.koreaherald.com/article/10926141",
+       "published": "2026-11-04T10:44:45Z",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "Police arrest woman for stabbing doctor at hospital",
+       "url": "https://en.yna.co.kr/view/AEN20261104010900320",
+       "published": "2026-11-04T08:59:53Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "622a27490a56",
+     "title": "South Korean President Lee Jae Myung to Launch Personal YouTube Show",
+     "summary": "President Lee Jae Myung is set to premiere a direct-communication YouTube program titled 'The President’s Y' to connect with the public.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-04T09:00:13Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "KBS World",
+       "title": "President Lee’s YouTube Program to Premiere Thursday",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205348",
+       "published": "2026-11-04T09:00:13Z",
+       "official": false
+      },
+      {
+       "outlet": "The Korea Herald",
+       "title": "Lee to launch YouTube show ‘The President’s Y’",
+       "url": "https://www.koreaherald.com/article/10926030",
+       "published": "2026-11-04T08:22:32Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Lee set to launch new YouTube program to communicate with public",
+         "url": "https://www.koreaherald.com/article/10925900",
+         "published": "2026-11-04T07:01:05Z"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "226b34784f70",
+     "title": "PlayStation’s Massive Black Friday 2026 Sale Goes Live",
+     "summary": "Sony's official Black Friday sale has launched on the PlayStation Store, offering major discounts on titles like Silent Hill 2, God of War Ragnarok, and Astro Bot.",
+     "importance": 3,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-04T19:30:06Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "IGN",
+       "title": "PlayStation’s Black Friday Sale Is Live With Big Discounts on Digital PS5 Games",
+       "url": "https://www.ign.com/articles/playstations-black-friday-sale-is-live",
+       "published": "2026-11-04T14:41:50Z",
+       "official": false
+      },
+      {
+       "outlet": "Push Square",
+       "title": "PS5 Dynamic Pricing Impacts New PS Store Black Friday Offers, Roughly $5 Variations in Prices",
+       "url": "https://www.pushsquare.com/news/2026/11/ps5-dynamic-pricing-impacts-new-ps-store-black-friday-offers-roughly-usd5-variations-in-prices",
+       "published": "2026-11-04T19:15:00Z",
+       "official": false,
+       "also": [
+        {
+         "title": "PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts",
+         "url": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts",
+         "published": "2026-11-04T00:30:00Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Insider Gaming",
+       "title": "Best PlayStation Black Friday Deals For 2026",
+       "url": "https://insider-gaming.com/best-playstation-black-friday-deals-2026/",
+       "published": "2026-11-04T16:14:48Z",
+       "official": false,
+       "also": [
+        {
+         "title": "PlayStation’s Black Friday Sale is Live for Everyone",
+         "url": "https://insider-gaming.com/playstations-black-friday-sale-is-live-for-everyone/",
+         "published": "2026-11-04T15:36:13Z"
+        }
+       ]
+      },
+      {
+       "outlet": "AppleInsider",
+       "title": "Best early Black Friday MacBook deals start at $1,099",
+       "url": "https://appleinsider.com/articles/26/11/04/best-early-black-friday-macbook-deals-start-at-1099?utm_source=rss",
+       "published": "2026-11-04T16:59:32Z",
+       "official": false
+      },
+      {
+       "outlet": "Kotaku",
+       "title": "PlayStation’s Massive Black Friday 2026 Sale Is Live Now And Filled With Big Deals On PS5 Games",
+       "url": "https://kotaku.com/playstations-massive-black-friday-2026-sale-is-live-now-and-filled-with-big-deals-on-ps5-games-2000753373",
+       "published": "2026-11-04T19:30:06Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "d47fe78ed7cd",
+     "title": "Nintendo Switch 2 Console on Sale for $448 During Early Black Friday Event",
+     "summary": "Shoppers can secure a Nintendo Switch 2 USA model for $448 during early Black Friday promotions.",
+     "importance": 3,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-04T16:25:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "IGN",
+       "title": "Get a Nintendo Switch 2 Console (USA Model) for $448 During the AliExpress Early Black Friday Sale",
+       "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale",
+       "published": "2026-11-04T16:25:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "db000aad4331",
+     "title": "Google Pixel 11 Series Discounted by Up to $350 in Early Sale",
+     "summary": "Google's latest Pixel 11 smartphones have dropped to their lowest prices yet, offering up to $350 in savings ahead of the official holiday shopping season.",
+     "importance": 3,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-04T18:27:19Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wired",
+       "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+       "url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+       "published": "2026-11-04T18:27:19Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "59501ecfbe54",
+     "title": "Save on Persona Dancing: Endless Night Collection on US PSN",
+     "summary": "The Persona Dancing collection featuring titles for P3, P4, and P5 is heavily discounted to $13.74 on the US PlayStation Network.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-04T19:13:20Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Persona Dancing: Endless Night Collection is $13.74 on US PSN Includes: Persona 3: Dancing in Moonlight, Persona 5: Dancing in Starlight, & Persona 4: Dancing All Night",
+       "url": "https://buff.ly/S8nEH2Y",
+       "published": "2026-11-04T19:13:20Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "1d741e2f3c9c",
+     "title": "Dragon Quest Monsters: The Dark Prince Available for $7.99 on Steam",
+     "summary": "Dragon Quest Monsters: The Dark Prince is currently on sale on Steam for $7.99.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-04T18:40:12Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "DRAGON QUEST MONSTERS: The Dark Prince is $7.99 on Steam",
+       "url": "https://buff.ly/ApV0JBG",
+       "published": "2026-11-04T18:40:12Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "703b3b2cd373",
+     "title": "Save Up to 40% on Samsung Nintendo Switch 2 Memory Cards",
+     "summary": "Tested Samsung memory cards for the Nintendo Switch 2 are discounted by up to 40% ahead of Black Friday.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-04T16:20:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "IGN",
+       "title": "Save Up to 40% Off Samsung Nintendo Switch 2 Memory Cards Ahead of Black Friday",
+       "url": "https://www.ign.com/articles/samsung-p9-nintendo-switch-2-memory-card-deal-november-2026",
+       "published": "2026-11-04T16:20:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f7edcf64704a",
+     "title": "Humble Games Bundle Offers Resident Evil Collection for $40",
+     "summary": "A new Humble bundle features multiple Resident Evil titles for a combined price of $40.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-04T19:00:40Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Humble Games Bundle: Resident Evil ($40 for all)",
+       "url": "https://buff.ly/f9AqFko",
+       "published": "2026-11-04T19:00:40Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T20:01:58Z",
+ "timezone": "America/New_York",
+ "window_hours": 26,
+ "mode": "ai",
+ "model": "gemini-3.5-flash-lite",
+ "stats": {
+  "items": 1295,
+  "clusters": 1067,
+  "feeds_ok": 174,
+  "feeds_failed": 2
+ },
+ "feed_health": [
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "wapo-politics",
+   "title": "The Washington Post: Politics",
+   "status": "error",
+   "detail": "HTTPError: 502 Server Error: Bad Gateway for url: https://feeds.washingtonpost.com/rss/politics"
+  },
+  {
+   "key": "err",
+   "title": "ERR News (Estonia)",
+   "status": "error",
+   "detail": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss"
+  },
+  {
+   "key": "dring",
+   "title": "Christopher Dring",
+   "status": "stale",
+   "detail": "no new items since 2026-10-13"
+  }
+ ]
+}
