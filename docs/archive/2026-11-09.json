@@ -1,0 +1,1911 @@
+{
+ "version": 1,
+ "headline": "Jensen Huang faces corporate crisis amid Nvidia security probe, while international peace talks and gaming launches dominate headlines.",
+ "top": [
+  {
+   "id": "207c0c97b06a",
+   "title": "Nvidia Board Probes CEO Jensen Huang Amid Security Concerns Over Affair",
+   "summary": "Nvidia's board has opened an investigation into CEO Jensen Huang following his admission to an affair, sending shares sliding and triggering high-stakes national security scrutiny over potential Chinese espionage links. Chinese media has dismissed the spy allegations as a fabricated narrative.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Europe",
+   "published": "2026-11-09T11:00:49Z",
+   "outlet_count": 39,
+   "sources": [
+    {
+     "outlet": "The Hindu",
+     "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+     "url": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
+     "published": "2026-11-09T07:48:39Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Untangling Nvidia chief Jensen Huang’s Chinese spy connection",
+       "url": "https://www.thehindu.com/sci-tech/technology/untangling-nvidia-chief-jensen-huangs-chinese-spy-connection/article71681955.ece",
+       "published": "2026-11-09T09:46:34Z"
+      },
+      {
+       "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
+       "url": "https://www.thehindu.com/news/international/china-dismisses-a-spy-plot-claim-involving-nvidia-ceo-jensen-huang-as-smear-campaign/article71682030.ece",
+       "published": "2026-11-09T09:34:21Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Axios",
+     "title": "Jensen Huang spy scandal rocks AI race",
+     "url": "https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai",
+     "published": "2026-11-09T10:00:04Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+       "url": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+       "published": "2026-11-09T00:00:35Z"
+      },
+      {
+       "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+       "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
+       "published": "2026-11-08T20:14:05Z"
+      }
+     ]
+    },
+    {
+     "outlet": "The Verge",
+     "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+     "published": "2026-11-08T20:22:39Z",
+     "official": false
+    },
+    {
+     "outlet": "Sky News",
+     "title": "AI giant Nvidia launches investigation into CEO's affair with 'Chinese spy'",
+     "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
+     "published": "2026-11-08T20:41:00Z",
+     "official": false
+    },
+    {
+     "outlet": "TechCrunch",
+     "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+     "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+     "published": "2026-11-08T21:00:11Z",
+     "official": false
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Nvidia probes whether CEO Jensen Huang targeted by foreign intelligence as he admits affair",
+     "url": "https://www.cbc.ca/news/world/nvidia-investigation-ceo-jensen-huang-foreign-intelligence-9.7414358?cmp=rss",
+     "published": "2026-11-08T21:14:15Z",
+     "official": false
+    },
+    {
+     "outlet": "Engadget",
+     "title": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts",
+     "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/",
+     "published": "2026-11-08T21:17:45Z",
+     "official": false
+    },
+    {
+     "outlet": "PC Gamer",
+     "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
+     "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
+     "published": "2026-11-08T21:38:31Z",
+     "official": false
+    },
+    {
+     "outlet": "The Hill",
+     "title": "Nvidia investigates reports of CEO’s relationship with alleged Chinese spy",
+     "url": "https://thehill.com/policy/technology/6206971-nvidia-investigates-jensen-huang/",
+     "published": "2026-11-08T21:51:52Z",
+     "official": false
+    },
+    {
+     "outlet": "Insider Gaming",
+     "title": "NVIDIA CEO Jensen Huang Investigated for Affair With ‘Suspected Chinese Spy’",
+     "url": "https://insider-gaming.com/jensen-huang-suspected-chinese-spy-investigation/",
+     "published": "2026-11-08T21:56:43Z",
+     "official": false
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Honeypot Scandal",
+     "url": "https://kotaku.com/nvidia-launches-investigation-into-ceo-jensen-huang-following-honeypot-scandal-2000754894",
+     "published": "2026-11-08T22:09:06Z",
+     "official": false
+    },
+    {
+     "outlet": "Courthouse News Service",
+     "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+     "url": "https://www.courthousenews.com/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/",
+     "published": "2026-11-08T22:14:42Z",
+     "official": false
+    },
+    {
+     "outlet": "Hacker News (100+ points)",
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+     "published": "2026-11-08T22:20:09Z",
+     "official": false
+    },
+    {
+     "outlet": "IGN",
+     "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
+     "url": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
+     "published": "2026-11-08T22:34:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Deutsche Welle (Germany)",
+     "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+     "url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-11-08T23:07:00Z",
+     "official": false
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+     "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+     "published": "2026-11-09T00:25:28Z",
+     "official": false
+    },
+    {
+     "outlet": "Semafor",
+     "title": "Nvidia’s $4.5 trillion test of founder immunity",
+     "url": "https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity",
+     "published": "2026-11-09T02:58:19Z",
+     "official": false
+    },
+    {
+     "outlet": "The Daily Caller",
+     "title": "Nvidia CEO Admits To Extramarital Affair Amid Corporate Investigation Of Potential Chinese Espionage Targeting",
+     "url": "https://dailycaller.com/2026/11/08/nvidia-ceo-admits-to-extramarital-affair-amid-corporate-investigation-of-potential-chinese-espionage-targeting",
+     "published": "2026-11-09T03:02:10Z",
+     "official": false
+    },
+    {
+     "outlet": "CNA (Singapore)",
+     "title": "Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang",
+     "url": "https://www.channelnewsasia.com/world/nvidia-shares-jensen-huang-probe-affair-6535186",
+     "published": "2026-11-09T03:03:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Wall Street Journal via Techmeme",
+     "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley",
+     "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&reflink=desktopwebshare_permalink",
+     "published": "2026-11-09T05:10:00Z",
+     "official": false
+    },
+    {
+     "outlet": "BBC News",
+     "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+     "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-09T07:10:11Z",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "title": "Nvidia Shares Fall As Huang's Affair Triggers China Spying Probe",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-09/daybreak-europe-11-09-2026-video",
+     "published": "2026-11-09T08:12:31Z",
+     "official": false
+    },
+    {
+     "outlet": "TheJournal.ie (Ireland)",
+     "title": "AI giant Nvidia launches probe into boss amid fears he had affair with Chinese spy",
+     "url": "https://www.thejournal.ie/jensen-huang-nvidia-probe-7220080-Nov2026/",
+     "published": "2026-11-09T08:19:08Z",
+     "official": false
+    },
+    {
+     "outlet": "Times of India",
+     "title": "'A baseless smearing': China denies spying charge targeting Nvidia CEO Jensen Huang",
+     "url": "https://timesofindia.indiatimes.com/world/china/a-baseless-smear-campaign-china-denies-spying-charge-targeting-nvidia-ceo-jensen-huang/articleshow/135674983.cms",
+     "published": "2026-11-09T08:35:20Z",
+     "official": false
+    },
+    {
+     "outlet": "CBS News",
+     "title": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
+     "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+     "published": "2026-11-09T08:41:51Z",
+     "official": false
+    },
+    {
+     "outlet": "ORF News (Austria)",
+     "title": "Affair with suspected Chinese spy",
+     "url": "https://orf.at/stories/3447652/",
+     "published": "2026-11-09T08:57:46Z",
+     "translated_from": "de",
+     "original_title": "Affäre mit mutmaßlicher chinesischer Spionin",
+     "official": false
+    },
+    {
+     "outlet": "Yahoo News",
+     "title": "Nvidia stock sinks as board investigates CEO's affair with suspected Chinese spy",
+     "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
+     "published": "2026-11-09T09:08:57Z",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg via Techmeme",
+     "title": "Chinese media denies Beijing's link to Jensen Huang's affair, accuses the US media of a fabricated spy narrative, and warns the issue may hurt trade relations",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
+     "published": "2026-11-09T09:20:04Z",
+     "official": false
+    },
+    {
+     "outlet": "El País (Spain)",
+     "title": "Nvidia plunges on stock market after launching investigation into CEO's extramarital affair",
+     "url": "https://elpais.com/economia/2026-11-09/nvidia-se-desploma-en-bolsa-tras-confirmar-una-investigacion-sobre-la-relacion-extramatrimonial-de-su-ceo-con-una-presunta-espia-china.html",
+     "published": "2026-11-09T09:31:37Z",
+     "translated_from": "es",
+     "original_title": "Nvidia se hunde en Bolsa tras iniciar una investigación por una relación extramatrimonial de su CEO",
+     "official": false
+    },
+    {
+     "outlet": "Der Spiegel (Germany)",
+     "title": "Nvidia Shares Fall Sharply Following CEO Jensen Huang's Affair Confession",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e#ref=rss",
+     "published": "2026-11-09T10:25:00Z",
+     "translated_from": "de",
+     "original_title": "Nvidia: Aktie fällt nach Affären-Geständnis von Konzernchef Jensen Huang deutlich",
+     "official": false,
+     "also": [
+      {
+       "title": "Nvidia: China dismisses espionage allegations against Jensen Huang",
+       "url": "https://www.spiegel.de/politik/deutschland/nvidia-china-weist-spionagevorwuerfe-gegen-jensen-huang-zurueck-a-e74f92b9-bb87-4f5a-a017-cd670c4f2f7d#ref=rss",
+       "published": "2026-11-09T09:47:00Z",
+       "translated_from": "de",
+       "original_title": "Nvidia: China weist Spionagevorwürfe gegen Jensen Huang zurück"
+      }
+     ]
+    },
+    {
+     "outlet": "Newsweek",
+     "title": "Who Is Lori Huang? Jensen Huang’s Wife as He Faces Chinese Spy Affair Claim",
+     "url": "https://www.newsweek.com/lori-huang-jensen-huang-wife-chinese-spy-affair-claim-12685552",
+     "published": "2026-11-09T10:05:28Z",
+     "official": false
+    },
+    {
+     "outlet": "New York Times",
+     "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+     "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+     "published": "2026-11-09T10:06:15Z",
+     "official": false
+    },
+    {
+     "outlet": "Euronews",
+     "title": "Who is Alice Huang, the alleged Chinese spy linked to Nvidia's Jensen Huang?",
+     "url": "https://www.euronews.com/video/2026/11/09/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang",
+     "published": "2026-11-09T10:53:22Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Nvidia stock slides as company probes claims CEO was foreign intelligence target",
+       "url": "https://www.euronews.com/2026/11/09/nvidia-stock-slides-as-company-probes-claims-ceo-was-foreign-intelligence-target",
+       "published": "2026-11-09T10:16:45Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Le Monde (France)",
+     "title": "Nvidia: China denies any attempt to trap Jensen Huang, the CEO who admitted an affair with a woman accused of being a Chinese spy",
+     "url": "https://www.lemonde.fr/international/article/2026/11/09/operation-d-espionnage-visant-le-patron-de-nvidia-la-chine-dement-toute-tentative-de-pieger-jensen-huang_6808638_3210.html",
+     "published": "2026-11-09T10:36:38Z",
+     "translated_from": "fr",
+     "original_title": "Nvidia : la Chine dément toute tentative de piéger Jensen Huang, le PDG qui a reconnu une liaison avec une femme accusée d’être une espionne chinoise",
+     "official": false
+    },
+    {
+     "outlet": "Financial Times via Techmeme",
+     "title": "Nvidia drops ~5% pre-market after its board opens a probe into Jensen Huang; Nvidia previously dismissed the interactions as \"nothing unusual or unexpected\"",
+     "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654",
+     "published": "2026-11-09T10:40:00Z",
+     "official": false
+    },
+    {
+     "outlet": "ERT News (Greece)",
+     "title": "Nvidia: China denies spying on Jensen Huang – Reactions and potential impacts of the case",
+     "url": "https://www.ertnews.gr/eidiseis/diethni/nvidia-i-kina-diapseydei-oti-kataskopeye-ton-tzensen-xouangk-oi-antidraseis-kai-oi-pithanes-epiptoseis-tis-ypothesis/",
+     "published": "2026-11-09T10:44:14Z",
+     "translated_from": "el",
+     "original_title": "Nvidia: Η Κίνα διαψεύδει ότι κατασκόπευε τον Τζένσεν Χουάνγκ – Οι αντιδράσεις και οι πιθανές επιπτώσεις της υπόθεσης",
+     "official": false
+    },
+    {
+     "outlet": "Al Jazeera",
+     "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+     "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+     "published": "2026-11-09T10:49:02Z",
+     "official": false
+    },
+    {
+     "outlet": "Corriere della Sera (Italy)",
+     "title": "Jensen Huang admits betrayal with \"spy\" Alice Huang Le. Apology to his wife, Nvidia's drop on the Stock Exchange: but who is the \"Chinese agent\"?",
+     "url": "https://www.corriere.it/esteri/26_novembre_09/jensen-huang-tradimento-spia-cinese-df65da4f-0229-42e3-a0bf-24f8794aexlk.shtml",
+     "published": "2026-11-09T10:51:16Z",
+     "translated_from": "it",
+     "original_title": "Jensen Huang ammette il tradimento con «la spia» Alice Huang Le. Le scuse alla moglie, il calo di Nvidia in Borsa: ma chi è l’«agente cinese»?",
+     "official": false
+    },
+    {
+     "outlet": "The Copenhagen Post (Denmark)",
+     "title": "China rejects espionage allegations involving Nvidia CEO Jensen Huang",
+     "url": "https://cphpost.dk/2026-11-09/global/china-rejects-espionage-allegations-involving-nvidia-ceo-jensen-huang/",
+     "published": "2026-11-09T10:55:52Z",
+     "official": false
+    },
+    {
+     "outlet": "Nikkei Asia",
+     "title": "Nvidia probes CEO Jensen Huang's affair amid China security concerns",
+     "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-probes-ceo-jensen-huang-s-affair-amid-china-security-concerns",
+     "published": "2026-11-09T11:00:49Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "6e25838f263b",
+   "title": "US and International Diplomats Prepare for New Round of Ukraine Peace Talks in Abu Dhabi",
+   "summary": "U.S.-led talks to end the Russia-Ukraine war are set to resume this week in Abu Dhabi without a ceasefire on the table, as G7 foreign ministers meet in Paris to assess shifting Western foreign policy.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Europe",
+   "published": "2026-11-09T10:41:40Z",
+   "outlet_count": 8,
+   "sources": [
+    {
+     "outlet": "Meduza (Russia)",
+     "title": "Trump says Ukraine will ‘end up with a little bit different shape’ once the war ends",
+     "url": "https://meduza.io/en/news/2026/11/09/trump-says-ukraine-will-have-a-somewhat-different-shape-once-the-war-ends",
+     "published": "2026-11-09T08:31:42Z",
+     "official": false
+    },
+    {
+     "outlet": "The Kyiv Independent (Ukraine)",
+     "title": "Europe's attendance at Abu Dhabi peace talks, clarified",
+     "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/",
+     "published": "2026-11-09T09:00:34Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Ukraine will likely 'end up with a little bit different shape' after war, Trump tells 60 Minutes",
+       "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+       "published": "2026-11-09T02:56:20Z"
+      }
+     ]
+    },
+    {
+     "outlet": "CNA (Singapore)",
+     "title": "G7 allies to assess impact of Trump's midterm setback at Paris talks",
+     "url": "https://www.channelnewsasia.com/world/g7-meeting-paris-talks-trump-midterm-setback-6535286",
+     "published": "2026-11-09T04:12:46Z",
+     "official": false
+    },
+    {
+     "outlet": "Euronews",
+     "title": "EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi",
+     "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi",
+     "published": "2026-11-09T09:17:19Z",
+     "official": false
+    },
+    {
+     "outlet": "Ukrainska Pravda (Ukraine)",
+     "title": "Russia agrees with Trump's remark about \"little bit different shape\" of post-war Ukraine",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061914/",
+     "published": "2026-11-09T10:03:00Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Ukrainian foreign minister expects to meet Rubio on sidelines of G7 summit in Paris",
+       "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061912/",
+       "published": "2026-11-09T09:51:00Z"
+      }
+     ]
+    },
+    {
+     "outlet": "New York Times",
+     "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+     "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+     "published": "2026-11-09T09:59:53Z",
+     "official": false
+    },
+    {
+     "outlet": "Tagesschau (Germany)",
+     "title": "G7 Foreign Ministers Discuss Ukraine and Iran",
+     "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+     "published": "2026-11-09T10:05:12Z",
+     "translated_from": "de",
+     "original_title": "G7-Außenminister sprechen über Ukraine und Iran",
+     "official": false
+    },
+    {
+     "outlet": "RFI (France)",
+     "title": "G7 talks in Paris weigh impact of US midterms on Trump's foreign policy",
+     "url": "https://www.rfi.fr/en/international/20261109-g7-talks-in-paris-weigh-impact-of-us-midterms-on-trump-s-foreign-policy",
+     "published": "2026-11-09T10:41:40Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "2653c8b415b5",
+   "title": "Trump Backtracks on Press Secretary Offer and Admits Deportation Policy Flaws",
+   "summary": "Donald Trump clarified that his offer of a White House press secretary role to UFC head Dana White was merely a joke, while also acknowledging that his strict deportation policies may have been too harsh and hurt him in the midterms.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "US",
+   "published": "2026-11-09T11:00:49Z",
+   "outlet_count": 20,
+   "sources": [
+    {
+     "outlet": "The Hill",
+     "title": "Trump says he was 'kidding' about Dana White for press secretary",
+     "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
+     "published": "2026-11-09T02:20:19Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump says his immigration crackdown ‘might be too tough’ after midterm losses",
+       "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+       "published": "2026-11-09T01:23:22Z"
+      }
+     ]
+    },
+    {
+     "outlet": "The Daily Wire",
+     "title": "The Daily Wire Asks, Trump Answers: ‘I Was Kidding’ About Dana White",
+     "url": "https://www.dailywire.com/news/trump-laughs-off-dana-white-press-secretary-offer-i-was-kidding",
+     "published": "2026-11-08T19:58:54Z",
+     "official": false
+    },
+    {
+     "outlet": "The Washington Post",
+     "title": "‘60 Minutes’ takeaways: Trump calls deportation policy ‘too tough’",
+     "url": "https://www.washingtonpost.com/politics/2026/11/08/60-minutes-takeaways-trump-calls-deportation-policy-too-tough/",
+     "published": "2026-11-09T02:04:05Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job",
+       "url": "https://www.washingtonpost.com/politics/2026/11/08/trump-says-he-was-only-kidding-about-offering-ufcs-dana-white-press-secretary-job/",
+       "published": "2026-11-09T00:31:25Z"
+      },
+      {
+       "title": "Trump shares cartoon of UFC fighters beating reporters after offering Dana White press job",
+       "url": "https://www.washingtonpost.com/politics/2026/11/08/trump-shares-cartoon-ufc-fighters-beating-reporters-after-offering-dana-white-press-job/",
+       "published": "2026-11-08T22:30:00Z"
+      }
+     ]
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Trump insists he was 'only kidding' about wanting UFC's Dana White as press secretary",
+     "url": "https://www.cbc.ca/news/world/trump-dana-white-press-secretary-9.7414466?cmp=rss",
+     "published": "2026-11-08T23:56:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Tangle",
+     "title": "Trump said he was kidding when he asked Dana White to be new press secretary.",
+     "url": "https://www.readtangle.com/trump-said-he-was-kidding-when-he-asked-dana-white-to-be-new-press-secretary/",
+     "published": "2026-11-09T00:02:02Z",
+     "official": false
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump says he was ‘only kidding’ about making Dana White press secretary",
+     "url": "https://www.foxnews.com/politics/trump-says-only-kidding-making-dana-white-white-house-press-secretary",
+     "published": "2026-11-09T00:06:40Z",
+     "official": false
+    },
+    {
+     "outlet": "New York Times",
+     "title": "Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Midterms",
+     "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html",
+     "published": "2026-11-09T03:16:26Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
+       "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html",
+       "published": "2026-11-09T00:43:21Z"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief-of-staff role",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "published": "2026-11-09T10:53:52Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
+       "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+       "published": "2026-11-09T08:32:32Z"
+      },
+      {
+       "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+       "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+       "published": "2026-11-09T01:10:55Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Yahoo News",
+     "title": "Trump says he was 'only kidding' about naming Dana White his new press secretary",
+     "url": "https://sports.yahoo.com/mma/article/donald-trump-only-kidding-about-dana-white-press-secretary-offer-but-ufc-boss-loves-the-idea-014005206.html",
+     "published": "2026-11-09T01:40:05Z",
+     "official": false
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Trump says deportations were ‘too tough’ and hurt him in midterms",
+     "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-deportations-tough-hurt-midterms-rcna608208",
+     "published": "2026-11-09T02:28:26Z",
+     "official": false
+    },
+    {
+     "outlet": "RTÉ News (Ireland)",
+     "title": "Trump 'only kidding' over press role offer to UFC boss",
+     "url": "https://www.rte.ie/news/us/2026/1109/1598470-trump-dana-joke/",
+     "published": "2026-11-09T05:02:57Z",
+     "official": false
+    },
+    {
+     "outlet": "Deutsche Welle (Germany)",
+     "title": "US President Donald Trump says deportation policy was 'too tough' for voters",
+     "url": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-11-09T06:14:00Z",
+     "official": false
+    },
+    {
+     "outlet": "TheJournal.ie (Ireland)",
+     "title": "Trump says he was ‘only kidding’ about offering UFC's chief the White House press secretary job",
+     "url": "https://www.thejournal.ie/trump-dana-white-ufc-white-house-press-secretary-7220055-Nov2026/",
+     "published": "2026-11-09T07:41:55Z",
+     "official": false
+    },
+    {
+     "outlet": "Al Jazeera",
+     "title": "Trump says his immigration policy ‘too tough’ for voters",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+     "published": "2026-11-09T08:35:05Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Trump ‘only kidding’ about Dana White press secretary role",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+       "published": "2026-11-09T08:18:00Z"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+     "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-09T08:49:17Z",
+     "official": false
+    },
+    {
+     "outlet": "Tagesschau (Germany)",
+     "title": "Trump calls offer of press secretary post to Dana White a \"joke\"",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
+     "published": "2026-11-09T10:41:19Z",
+     "translated_from": "de",
+     "original_title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+     "official": false,
+     "also": [
+      {
+       "title": "US President Trump calls job offer for new White House press secretary a joke",
+       "url": "https://www.tagesschau.de/video/video-1680608.html",
+       "published": "2026-11-09T08:57:31Z",
+       "translated_from": "de",
+       "original_title": "US-Präsident Trump bezeichnet Jobangebot für neuen Pressesprecher White als Spaß"
+      }
+     ]
+    },
+    {
+     "outlet": "franceinfo (France)",
+     "title": "Donald Trump acknowledges his administration's immigrant expulsion policy is 'too harsh'",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-reconnait-une-politique-d-expulsions-d-immigres-trop-dure_8274197.html#xtor=RSS-3-[lestitres]",
+     "published": "2026-11-09T09:01:10Z",
+     "translated_from": "fr",
+     "original_title": "Donald Trump reconnaît que la politique d'expulsions d'immigrés de son administration est \"trop dure\"",
+     "official": false
+    },
+    {
+     "outlet": "ABC News",
+     "title": "Trump says 'too tough' deportation policies hurt him in the midterms",
+     "url": "https://abcnews.com/US/trump-tough-deportation-policies-hurt-midterms/story?id=137963657",
+     "published": "2026-11-09T09:22:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Der Spiegel (Germany)",
+     "title": "USA: Donald Trump admits mistakes in deportation policy – 'was too harsh'",
+     "url": "https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart-a-1639fc22-1bc7-4081-aae3-e45202f1b355#ref=rss",
+     "published": "2026-11-09T10:01:00Z",
+     "translated_from": "de",
+     "original_title": "USA: Donald Trump räumt Fehler bei Abschiebepolitik ein – »war zu hart«",
+     "official": false
+    },
+    {
+     "outlet": "Just the News",
+     "title": "Trump says his deportation policies 'might be too tough,' open to deal with Democrats on immigration",
+     "url": "https://justthenews.com/government/white-house/trump-says-his-deportation-policies-might-be-too-tough-open-deal-dems?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+     "published": "2026-11-09T11:00:49Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "adf3a40c672d",
+   "title": "Legend of Zelda: Ocarina of Time Remake Breaks Physical Launch Records in the UK",
+   "summary": "The newly released Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time has debuted at the top of the UK physical charts, marking the second-biggest launch in franchise history behind only Breath of the Wild.",
+   "importance": 4,
+   "label": "CONFIRMED",
+   "category": "Gaming",
+   "published": "2026-11-09T09:47:01Z",
+   "outlet_count": 6,
+   "sources": [
+    {
+     "outlet": "VGC",
+     "title": "The Legend of Zelda: Ocarina of Time Remake complete walkthrough hub",
+     "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-complete-walkthrough-hub/",
+     "published": "2026-11-09T09:47:01Z",
+     "official": false
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "Speedrunners Are Already Breaking The Legend Of Zelda: Ocarina Of Time Remake In Absurd Ways",
+     "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
+     "published": "2026-11-08T16:52:15Z",
+     "official": false
+    },
+    {
+     "outlet": "IGN",
+     "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+     "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
+     "published": "2026-11-08T17:04:56Z",
+     "official": false
+    },
+    {
+     "outlet": "Christopher Dring",
+     "title": "The Legend of Zelda: Ocarina of Time remake is the second biggest Zelda launch in UK history, beating Breath of the Wild (physical sales only).",
+     "url": "https://substack.com/@christopherdring/note/c-382170035?r=52dp8y&utm_source=notes-share-action&utm_medium=web",
+     "published": "2026-11-08T17:46:17Z",
+     "official": false
+    },
+    {
+     "outlet": "GoNintendo",
+     "title": "Zelda: Ocarina of Time is the biggest physical UK launch of 2026, second biggest Zelda launch of all-time",
+     "url": "https://gonintendo.com/contents/67057-zelda-ocarina-of-time-is-the-biggest-physical-uk-launch-of-2026-second-biggest-zelda",
+     "published": "2026-11-08T19:15:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Nintendo Life",
+     "title": "UK Charts: Zelda: Ocarina Of Time Is The Second Biggest UK Launch In Franchise History",
+     "url": "https://www.nintendolife.com/news/2026/11/uk-charts-zelda-ocarina-of-time-is-the-second-biggest-uk-launch-in-franchise-history",
+     "published": "2026-11-09T09:30:00Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "60a26e794f58",
+   "title": "Russell Brand Faces Imminent Prison Sentencing Following Rape Conviction",
+   "summary": "Disgraced comedian Russell Brand is being sentenced today after being convicted last week of rape and sexual assault, with prosecutors warning he faces a significant prison term.",
+   "importance": 4,
+   "label": "REPORTED",
+   "category": "World",
+   "published": "2026-11-09T10:55:35Z",
+   "outlet_count": 6,
+   "sources": [
+    {
+     "outlet": "RTÉ News (Ireland)",
+     "title": "Sentencing of Russell Brand for rape, sexual assault",
+     "url": "https://www.rte.ie/news/2026/1109/1598509-russell-brand-sentencing/",
+     "published": "2026-11-09T10:49:12Z",
+     "official": false
+    },
+    {
+     "outlet": "NPR",
+     "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+     "published": "2026-11-08T15:07:15Z",
+     "official": false
+    },
+    {
+     "outlet": "Yahoo News",
+     "title": "Russell Brand facing lengthy prison term as he awaits sentencing for rape",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brand-facing-significant-prison-050213431.html",
+     "published": "2026-11-09T05:02:13Z",
+     "official": false
+    },
+    {
+     "outlet": "The Straits Times",
+     "title": "UK's Russell Brand due in court for rape and sexual assault sentencing",
+     "url": "https://www.straitstimes.com/world/europe/uks-russell-brand-due-in-court-for-rape-and-sexual-assault-sentencing",
+     "published": "2026-11-09T09:53:52Z",
+     "official": false
+    },
+    {
+     "outlet": "New York Post",
+     "title": "Russell Brand sentencing live updates: British comedian’s wife arrives at court his sentencing after rape conviction",
+     "url": "https://pagesix.com/2026/11/09/celebrity-news/russell-brand-live-updates-from-the-british-comedians-sentencing/",
+     "published": "2026-11-09T10:22:57Z",
+     "official": false
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
+     "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+     "published": "2026-11-09T10:44:45Z",
+     "official": false
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "68ff5ed661ee",
+     "title": "Goldman Sachs Reportedly Pulls Claude Code From Bankers and Traders",
+     "summary": "Goldman Sachs has reportedly restricted its banking and trading personnel from using Anthropic's coding tool, highlighting emerging enterprise risk and security controls.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-08T18:16:07Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Hacker News (100+ points)",
+       "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+       "published": "2026-11-08T18:16:07Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "23cac4c7caec",
+     "title": "Nvidia and Korean Ministry Expand Sovereign AI and Startup Collaboration",
+     "summary": "Nvidia and South Korea's MSIT announced new investments in Korean startups and broadened cooperation across sovereign AI infrastructure, open models, and physical AI systems.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "AI",
+     "published": "2026-11-09T09:47:21Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "NVIDIA Blog",
+       "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+       "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+       "published": "2026-11-09T08:00:53Z",
+       "official": true,
+       "also": [
+        {
+         "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+         "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+         "published": "2026-11-09T05:00:40Z"
+        },
+        {
+         "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+         "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+         "published": "2026-11-09T05:00:39Z"
+        },
+        {
+         "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+         "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+         "published": "2026-11-09T05:00:04Z"
+        },
+        {
+         "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+         "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+         "published": "2026-11-09T05:00:00Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "Nvidia, SKT, Rebellions to jointly establish heterogeneous computing system for AI",
+       "url": "https://en.yna.co.kr/view/AEN20261109005452320",
+       "published": "2026-11-09T09:47:21Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Nvidia, SKT, Rebellions to jointly establish heterogeneous computing system for AI",
+         "url": "https://en.yna.co.kr/view/AEN20261109005451320",
+         "published": "2026-11-09T07:52:09Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6cb2318c2610",
+     "title": "Tencent Chief AI Scientist Warns of Biological Risks in Closed Models",
+     "summary": "Tencent's chief AI scientist stated that upcoming AI bio-capabilities will pose severe risk potential, giving weight to Anthropic's arguments for maintaining closed models.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-09T03:15:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "South China Morning Post via Techmeme",
+       "title": "Tencent Chief AI Scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models",
+       "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+       "published": "2026-11-09T03:15:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b5e076245ed3",
+     "title": "Andrej Karpathy Builds Curated Video Platform Using Claude and Hacker News",
+     "summary": "OpenAI co-founder Andrej Karpathy utilized Claude's Opus 5.5 over a weekend to curate thousands of videos from decades of Hacker News discussions.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-08T14:23:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Decoder",
+       "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+       "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+       "published": "2026-11-08T14:23:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "cd43bf874da6",
+     "title": "AI Safety Advocates Layout Strategy Following Midterm Results",
+     "summary": "AI safety groups are evaluating their political positioning after the midterms while sketching out future regulatory frameworks for Washington.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-09T09:57:23Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Semafor",
+       "title": "AI safety groups outline their plans for a new Washington",
+       "url": "https://www.semafor.com/article/11/09/2026/ai-safety-groups-outline-their-plans-for-a-new-washington",
+       "published": "2026-11-09T09:57:23Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "111b66d97ab0",
+     "title": "MIT Technology Review Examines the True Climate Cost of AI Growth",
+     "summary": "As international climate conferences convene, analysts emphasize that the massive environmental and energy footprint of AI infrastructure lacks a definitive sustainability justification.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-09T10:00:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "MIT Technology Review",
+       "title": "The climate case for AI has not been made",
+       "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+       "published": "2026-11-09T10:00:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "4e879ddc8c2d",
+     "title": "Managing Teams and Determining Pay Becomes Complex as AI Agents Replace Humans",
+     "summary": "The integration of AI agents into corporate workflows is disrupting traditional organizational structures, complicating how managers evaluate grade and compensation.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-09T09:00:13Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Financial Times via Techmeme",
+       "title": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage",
+       "url": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682",
+       "published": "2026-11-09T09:00:13Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "16300678c139",
+     "title": "Apple Prepares Siri to Become More 'Agent-Like' Next Year",
+     "summary": "Apple is reportedly targeting features for Siri as early as next year to transition the voice assistant into a more advanced, always-on proactive agent akin to competing tools.",
+     "importance": 4,
+     "label": "RUMOR-CREDIBLE",
+     "category": "Tech",
+     "published": "2026-11-08T17:24:45Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
+       "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+       "published": "2026-11-08T17:24:45Z",
+       "official": false
+      },
+      {
+       "outlet": "9to5Mac",
+       "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+       "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+       "published": "2026-11-08T15:30:36Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "de7a8be5bf28",
+     "title": "Apple Alters iOS 28 and macOS 28 Development Process to Foster Creativity",
+     "summary": "According to industry reports, Apple has separated early development schedules for iOS 28 and macOS 28 updates to give engineering teams more creative flexibility.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-08T16:00:34Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "AppleInsider",
+       "title": "Apple's iOS 28 schedule shift helps engineers get more creative",
+       "url": "https://appleinsider.com/articles/26/11/08/apples-ios-28-schedule-shift-helps-engineers-get-more-creative?utm_source=rss",
+       "published": "2026-11-08T16:00:34Z",
+       "official": false
+      },
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
+       "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+       "published": "2026-11-08T15:42:38Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "ca95821dc10d",
+     "title": "Federal Prosecutors Warn of $129M Lost to AI Voice-Impersonation Scams",
+     "summary": "A federal indictment reveals that fraudsters have used generative AI to impersonate corporate executives and attorneys, defrauding businesses of over $129 million.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-09T09:50:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "New York Times via Techmeme",
+       "title": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024",
+       "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+       "published": "2026-11-09T09:50:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3734ac408f2b",
+     "title": "Google Drops Major November Update Freeing Up System RAM",
+     "summary": "Google's latest operating system update incorporates on-device AI optimizations that reclaim between 3GB and 6GB of RAM while patching multiple Android and Chrome vulnerabilities.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-09T06:35:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Android Central via Techmeme",
+       "title": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more",
+       "url": "https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone",
+       "published": "2026-11-09T06:35:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "d6974e813ba1",
+     "title": "Epic Games Launcher Set to Arrive on SteamOS",
+     "summary": "The Epic Games Launcher is officially expanding to SteamOS, though native Linux support for Fortnite's Easy Anti-Cheat remains uncertain.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-08T21:11:37Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "Epic Games Launcher is coming to SteamOS",
+       "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+       "published": "2026-11-08T20:52:05Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "5714678211ae",
+     "title": "EU Sues IBM, Atos, and Leonardo Over Smart Border System Delays",
+     "summary": "The European Union has filed a lawsuit in Estonia against major technology contractors over repeated delays in deploying the Entry/Exit smart border travel system.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-09T09:35:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Financial Times via Techmeme",
+       "title": "Sources: the EU sues IBM, French IT group Atos, and Italian contractor Leonardo over delays in developing its smart border system, which caused travel chaos",
+       "url": "https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301",
+       "published": "2026-11-09T09:35:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3e2aafe90662",
+     "title": "Ada and Dialpad Agree to Merge in All-Share AI Customer Service Deal",
+     "summary": "Toronto-based Ada and San Francisco-based Dialpad have agreed to an all-share merger valuing Ada at approximately $430 million.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-09T08:46:41Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Globe and Mail via Techmeme",
+       "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M",
+       "url": "https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/",
+       "published": "2026-11-09T08:46:41Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "f4d7282b9631",
+     "title": "Grand Theft Auto 6 Reportedly Features 55 Launch Achievements and Trophies",
+     "summary": "Upcoming sandbox blockbuster GTA 6 is slated to launch on November 19 with 55 achievements and trophies, outstripping both its predecessor and Red Dead Redemption 2.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T09:41:40Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Eurogamer",
+       "title": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
+       "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
+       "published": "2026-11-09T09:41:40Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "29802d31ff16",
+     "title": "Sony Files Patent Targeting Smurf Accounts via Controller Movement Tracking",
+     "summary": "A newly published patent from Sony outlines a method for identifying secondary and smurf gaming accounts by monitoring how players handle their controllers.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T10:40:44Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Insider Gaming",
+       "title": "Sony Patent Could Identify Smurf Accounts by Tracking How Players Use Their Controllers",
+       "url": "https://insider-gaming.com/sony-identify-smurf-patent/",
+       "published": "2026-11-09T10:40:44Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "258423e83aed",
+     "title": "Selfridges Opens Massive GTA 6 Merchandise Store in London",
+     "summary": "London department store Selfridges has launched an extensive GTA 6 retail takeover offering over 60 exclusive items, with select high-end merchandise quickly selling out.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T10:07:17Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Insider Gaming",
+       "title": "Insane GTA 6 Takeover Arrives in London’s Selfridges Store",
+       "url": "https://insider-gaming.com/gta-6-selfridges-insane-merch-lineup/",
+       "published": "2026-11-09T09:38:18Z",
+       "official": false
+      },
+      {
+       "outlet": "VGC",
+       "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
+       "url": "https://www.videogameschronicle.com/news/selfridges-london-gta6/",
+       "published": "2026-11-09T10:07:17Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e7cc3a78db97",
+     "title": "Godzilla Minus Zero Stomps Box Office Expectations With $63M Opening",
+     "summary": "Godzilla Minus Zero achieved a record-breaking box office debut, marking the highest single-day and opening weekend figures for a live-action film in Japanese history.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T07:34:00Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "The Japan Times",
+       "title": "‘Godzilla Minus Zero’ makes monster debut at the box office",
+       "url": "https://www.japantimes.co.jp/culture/2026/11/09/entertainment-news/godzilla-film-box-office-figures/",
+       "published": "2026-11-09T07:34:00Z",
+       "official": false
+      },
+      {
+       "outlet": "IGN",
+       "title": "Godzilla Minus Zero Stomps on Expectations With $63 Million Box Office Opening Weekend",
+       "url": "https://www.ign.com/articles/godzilla-minus-zero-stomps-on-expectations-with-63-million-box-office-opening-weekend",
+       "published": "2026-11-08T18:47:03Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "00a5552f9eb0",
+     "title": "Path of Exile 2 Reaches 1.0 Release and Free-to-Play Transition in December",
+     "summary": "Grinding Gear Games has confirmed that Path of Exile 2 will officially launch its 1.0 update on December 11 and transition to a free-to-play model.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T09:53:47Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Steam News",
+       "title": "Path of Exile 2 releases December 11 with a huge update it goes free to play",
+       "url": "https://store.steampowered.com/news/group/4218320/view/680766470739722599",
+       "published": "2026-11-09T09:53:47Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "cec6bdf55dc8",
+     "title": "German Games Industry Association Warns EU KIDS Act Threatens Age Ratings",
+     "summary": "Game, the German trade association, has cautioned that the proposed EU KIDS Act could disrupt established video game age-rating systems across the region.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T09:43:50Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "GamesIndustry.biz",
+       "title": "German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games",
+       "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
+       "published": "2026-11-09T09:43:50Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": [
+    {
+     "id": "a770afc8c4f5",
+     "title": "Former President Joe Biden Scales Back Book Tour as Cancer Progresses",
+     "summary": "Former President Joe Biden announced that his promotional book tour will be curtailed as ongoing cancer treatments continue to impact his health and energy levels.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-09T09:53:56Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Joe Biden to scale back book tour as cancer ‘slows me down’",
+       "url": "https://www.nbcnews.com/politics/joe-biden/joe-biden-cancer-health-book-tour-promise-me-america-rcna608260",
+       "published": "2026-11-09T09:53:56Z",
+       "official": false
+      },
+      {
+       "outlet": "The Washington Post",
+       "title": "Biden says cancer fight means he will scale back book promotion tour",
+       "url": "https://www.washingtonpost.com/politics/2026/11/08/biden-says-cancer-fight-means-he-will-scale-back-book-promotion-tour/",
+       "published": "2026-11-09T00:25:05Z",
+       "official": false
+      },
+      {
+       "outlet": "Fox News",
+       "title": "Joe Biden says cancer slowed him down, limiting memoir promotion tour",
+       "url": "https://www.foxnews.com/politics/joe-biden-says-cancer-slowed-him-down-limiting-memoir-promotion-tour",
+       "published": "2026-11-09T00:29:19Z",
+       "official": false
+      },
+      {
+       "outlet": "New York Times",
+       "title": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
+       "url": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
+       "published": "2026-11-09T02:14:35Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "fed109c41bd9",
+     "title": "White House Says New Iran Strikes Unlikely if Negotiations Progress",
+     "summary": "The White House indicated that renewed military strikes against Iran are improbable provided that current diplomatic negotiations continue to make headway.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-09T11:00:49Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Bloomberg",
+       "title": "Trump Says Strikes Unlikely as Rubio Slams Iran’s Demands",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-says-strikes-unlikely-even-as-rubio-slams-iran-s-demands",
+       "published": "2026-11-09T08:20:16Z",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
+       "url": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-08T20:55:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Hill",
+       "title": "Trump says he's 'unlikely' to renew attacks on Iran if talks show progress",
+       "url": "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/",
+       "published": "2026-11-08T21:02:25Z",
+       "official": false
+      },
+      {
+       "outlet": "Just the News",
+       "title": "Trump says new Iran strikes unlikely if negotiations make progress",
+       "url": "https://justthenews.com/government/white-house/trump-says-new-iran-strikes-unlikely-if-negotiations-make-progress?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+       "published": "2026-11-09T11:00:49Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "60b9fb42f779",
+     "title": "Krakow Mass Shooting Suspect Dies in Polish Police Custody",
+     "summary": "The 24-year-old suspect accused of killing six people in a mass shooting in Krakow, Poland, has died from injuries sustained during his arrest.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-09T10:56:06Z",
+     "outlet_count": 15,
+     "sources": [
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+       "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-09T06:53:00Z",
+       "official": false
+      },
+      {
+       "outlet": "CBC News",
+       "title": "Poland in mourning after deadly mass shooting in Krakow",
+       "url": "https://www.cbc.ca/news/world/krakow-shooting-attack-far-right-9.7414042?cmp=rss",
+       "published": "2026-11-08T13:30:13Z",
+       "official": false
+      },
+      {
+       "outlet": "France 24",
+       "title": "Poland braces for tense week after deadly Krakow shooting deepens political divisions",
+       "url": "https://www.france24.com/en/europe/20261109-poland-braces-for-tense-week-after-deadly-shooting-deepens-political-divisions",
+       "published": "2026-11-09T07:43:11Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Poland in shock after 6 killed in Krakow far-right shooting",
+         "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+         "published": "2026-11-08T14:21:18Z"
+        },
+        {
+         "title": "Mourning in Poland after mass shooting",
+         "url": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
+         "published": "2026-11-08T14:18:48Z"
+        }
+       ]
+      },
+      {
+       "outlet": "RTÉ News (Ireland)",
+       "title": "Krakow shooting suspect dies in hospital, say police",
+       "url": "https://www.rte.ie/news/europe/2026/1109/1598473-poland-krakow-shooting/",
+       "published": "2026-11-09T07:00:52Z",
+       "official": false
+      },
+      {
+       "outlet": "TheJournal.ie (Ireland)",
+       "title": "Suspected gunman in Kraków mass shooting dies in hospital",
+       "url": "https://www.thejournal.ie/poland-shooting-suspect-dead-krakow-7220047-Nov2026/",
+       "published": "2026-11-09T07:07:41Z",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "Gunman who killed at least 6 people in Poland mass shooting has died in hospital",
+       "url": "https://www.cnn.com/2026/11/09/europe/krakow-shooting-poland-gunman-dead-intl-hnk",
+       "published": "2026-11-09T07:20:26Z",
+       "official": false
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital",
+       "url": "https://www.nbcnews.com/world/europe/krakow-shooting-gunman-poland-attack-dies-hospital-rcna608248",
+       "published": "2026-11-09T07:21:24Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Krakow shooting suspect has died in hospital, police say",
+       "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-09T07:26:09Z",
+       "official": false
+      },
+      {
+       "outlet": "South China Morning Post",
+       "title": "Gunman who killed 6 in Polish city square dies in hospital",
+       "url": "https://www.scmp.com/news/world/europe/article/3373776/gunman-who-killed-6-polish-city-square-dies-hospital",
+       "published": "2026-11-09T07:46:19Z",
+       "official": false
+      },
+      {
+       "outlet": "New York Post",
+       "title": "Police say the 24-year-old who fatally shot 6 people in a Krakow square has died in the hospital",
+       "url": "https://nypost.com/2026/11/09/world-news/police-say-the-24-year-old-who-fatally-shot-6-people-in-a-krakow-square-has-died-in-the-hospital/",
+       "published": "2026-11-09T07:51:08Z",
+       "official": false
+      },
+      {
+       "outlet": "Politico Europe",
+       "title": "Kraków shooter dies in hospital",
+       "url": "https://www.politico.eu/article/krakow-shooter-dies-in-hospital/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+       "published": "2026-11-09T08:47:36Z",
+       "official": false
+      },
+      {
+       "outlet": "New York Times",
+       "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+       "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+       "published": "2026-11-09T09:24:53Z",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Kraków shooting suspect who killed six has died, say police in Poland",
+       "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+       "published": "2026-11-09T10:22:54Z",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Man who carried out mass shooting in Poland has died, police say",
+       "url": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
+       "published": "2026-11-09T10:27:09Z",
+       "official": false
+      },
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "Suspect in deadly Krakow shooting dies as Poland investigates terrorism",
+       "url": "https://cphpost.dk/2026-11-09/global/suspect-in-deadly-krakow-shooting-dies-as-poland-investigates-terrorism/",
+       "published": "2026-11-09T10:56:06Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3f026cbdce6f",
+     "title": "At Least Seven Dead and 100 Injured Following Train Collision in Egypt",
+     "summary": "A passenger train collision south of Cairo has resulted in at least seven fatalities and over a hundred injuries as investigators probe the cause.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-09T10:26:00Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "Der Spiegel (Germany)",
+       "title": "Egypt: At Least Seven Dead in Train Collision",
+       "url": "https://www.spiegel.de/panorama/aegypten-mindestens-sieben-menschen-sterben-bei-zugunglueck-a-2053fb10-9a89-40bd-8165-24e3da950465#ref=rss",
+       "published": "2026-11-09T10:26:00Z",
+       "translated_from": "de",
+       "original_title": "Ägypten: Mindestens sieben Menschen sterben bei Zugunglück",
+       "official": false
+      },
+      {
+       "outlet": "Sky News",
+       "title": "Seven dead and 114 injured in train crash near Cairo",
+       "url": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
+       "published": "2026-11-08T14:55:00Z",
+       "official": false
+      },
+      {
+       "outlet": "CBC News",
+       "title": "At least 7 killed, more than 100 injured after trains collide in Egypt",
+       "url": "https://www.cbc.ca/news/world/cairo-egypt-train-collision-9.7414207?cmp=rss",
+       "published": "2026-11-08T17:16:10Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125",
+       "url": "https://www.pbs.org/newshour/world/collision-between-2-trains-in-egypt-kills-7-and-injures-more-than-100",
+       "published": "2026-11-08T17:40:25Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+       "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-08T19:58:02Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "fc84ce3fd3f2",
+     "title": "Pope Leo XIV Visits Argentina and Urges Priority for Citizens Over Economy",
+     "summary": "During the first papal visit to Argentina in nearly four decades, Pope Leo XIV met with President Javier Milei and stressed that the economy must serve human well-being.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-09T03:00:00Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+       "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-09T01:35:00Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Pope Leo arrives in Argentina and tells Milei that people, not the economy, should come first",
+       "url": "https://www.pbs.org/newshour/world/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first",
+       "published": "2026-11-08T22:42:57Z",
+       "official": false
+      },
+      {
+       "outlet": "MercoPress (South Atlantic)",
+       "title": "Leo XIV, before Milei: “The economy must serve the person”",
+       "url": "https://en.mercopress.com/2026/11/09/leo-xiv-before-milei-the-economy-must-serve-the-person?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+       "published": "2026-11-09T03:00:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "097b2d0e8e8e",
+     "title": "At Least 34 Migrants Die After Europe-Bound Boat Sinks Off Senegal",
+     "summary": "A tragic maritime accident occurred off the coast of Senegal as a boat carrying migrants attempting the Atlantic crossing toward Spain's Canary Islands capsized.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-09T10:59:26Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+       "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-09T10:59:26Z",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Many killed after migrant boat sinks off Senegal",
+       "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-08T19:12:00Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "64c70a0ec20c",
+     "title": "German Chancellor Nominates Ilse Aigner for Federal President",
+     "summary": "German Chancellor Merz and the CDU board have nominated Ilse Aigner to become the country's first female federal president.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-09T10:42:49Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "ORF News (Austria)",
+       "title": "D: CDU board nominates Aigner as Federal President",
+       "url": "https://orf.at/stories/3447686/",
+       "published": "2026-11-09T10:42:49Z",
+       "translated_from": "de",
+       "original_title": "D: CDU-Vorstand nominiert Aigner als Bundespräsidentin",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Germany: Chancellor Merz to nominate Aigner for president",
+       "url": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-08T19:43:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "German chancellor backs Ilse Aigner to become country’s first female president",
+       "url": "https://cphpost.dk/2026-11-09/global/german-chancellor-backs-ilse-aigner-to-become-countrys-first-female-president/",
+       "published": "2026-11-09T05:28:51Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "1b45c8afc090",
+     "title": "French Prime Minister Holds Talks to Address Cost-of-Living Protests",
+     "summary": "French Prime Minister Sebastien Lecornu met with trade unions and employer groups to negotiate solutions for cost-of-living grievances sparking nationwide protests.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-09T10:40:01Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "France 24",
+       "title": "French PM Lecornu holds talks over protesters' cost-of-living concerns",
+       "url": "https://www.france24.com/en/video/20261109-french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns",
+       "published": "2026-11-09T10:40:01Z",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times",
+       "title": "French PM Lecornu holds talks over protesters' cost-of-living concerns",
+       "url": "https://www.straitstimes.com/world/europe/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns",
+       "published": "2026-11-09T10:08:54Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b9d77a114424",
+     "title": "At Least 20 Migrants Die in Multiple Shipwrecks Near Crete",
+     "summary": "Four separate shipwrecks in the Mediterranean off the coast of Crete left at least 20 migrants dead, while rescue teams managed to save over 130 individuals.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-09T10:26:06Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "SRF News (Switzerland)",
+       "title": "Migration Across the Mediterranean – At Least 20 Migrants Dead in Shipwrecks Off Crete",
+       "url": "https://www.srf.ch/news/schweiz/migration-uebers-mittelmeer-mindestens-20-tote-migranten-bei-bootsungluecken-vor-kreta",
+       "published": "2026-11-09T10:26:06Z",
+       "translated_from": "de",
+       "original_title": "Migration übers Mittelmeer – Mindestens 20 tote Migranten bei Bootsunglücken vor Kreta",
+       "official": false
+      },
+      {
+       "outlet": "Tagesschau (Germany)",
+       "title": "At least 20 dead in shipwrecks off Crete",
+       "url": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
+       "published": "2026-11-09T09:59:46Z",
+       "translated_from": "de",
+       "original_title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "787fbc489d5b",
+     "title": "Mitsui Chemicals to Acquire Semiconductor Materials Giant JSR for 1.8 Trillion Yen",
+     "summary": "Mitsui Chemicals is moving forward with an industry-record 1.8 trillion yen acquisition of semiconductor materials major JSR from government-backed fund JIC.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-09T10:44:37Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Asahi Shimbun (Japanese)",
+       "title": "Mitsui Chemicals to Acquire Semiconductor Materials Giant JSR From JIC for Approximately 1.8 Trillion Yen",
+       "url": "http://www.asahi.com/articles/ASVC90TN6VC9ULFA004M.html?ref=rss",
+       "published": "2026-11-09T10:01:38Z",
+       "translated_from": "ja",
+       "original_title": "三井化学、半導体材料大手JSRを買収へ 約1.8兆円でJICから",
+       "official": false,
+       "also": [
+        {
+         "title": "Semiconductor material \"offensive restructuring\" public-private fund expectations match, but future holds burdens",
+         "url": "http://www.asahi.com/articles/ASVC93C1ZVC9ULFA00GM.html?ref=rss",
+         "published": "2026-11-09T10:44:37Z",
+         "translated_from": "ja",
+         "original_title": "半導体素材「攻めの再編」官民ファンドも思惑一致 先行きに重荷も"
+        }
+       ]
+      },
+      {
+       "outlet": "Mainichi Shimbun (Japanese)",
+       "title": "Mitsui Chemicals to acquire semiconductor materials major JSR in industry-record 1.8 trillion yen deal",
+       "url": "https://mainichi.jp/articles/20261109/k00/00m/020/195000c",
+       "published": "2026-11-09T09:03:01Z",
+       "translated_from": "ja",
+       "original_title": "三井化学、半導体素材大手JSR買収へ 業界最大1.8兆円規模",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "4fd91212d266",
+     "title": "Okinawa Governor Calls for Review of U.S. Forces Pact After Murder Allegation",
+     "summary": "Okinawa's governor announced intentions to request a formal review of the U.S.-Japan status of forces agreement following the alleged murder of a local woman by an American Marine.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-09T10:38:05Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Okinawa governor calls for review of U.S.-Japan troops pact",
+       "url": "https://www.cbsnews.com/news/okinawa-governor-review-us-japan-troops-pact-womans-murder/",
+       "published": "2026-11-09T10:38:05Z",
+       "official": false
+      },
+      {
+       "outlet": "CNA (Singapore)",
+       "title": "Okinawa governor calls for review of US forces pact after murder of Japanese woman",
+       "url": "https://www.channelnewsasia.com/east-asia/japan-okinawa-review-united-states-forces-pact-murder-6535351",
+       "published": "2026-11-09T07:13:09Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b0f2993f5cdd",
+     "title": "Chinese National Arrested in Tokyo for Using Phishing Radio Wave Equipment",
+     "summary": "Tokyo police arrested a Chinese national in the Ginza district for operating unauthorized wireless equipment inside a vehicle designed to force nearby smartphones onto vulnerable 2G networks.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-09T10:20:09Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "Car Emits Powerful Radio Waves to Force Nearby Smartphones Onto 2G Network, Suspected of Targeting Phishing Scams",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261109de72718",
+       "published": "2026-11-09T10:20:09Z",
+       "translated_from": "ja",
+       "original_title": "車から強力電波 周辺スマホ強制的に2Gに 詐欺メール送信狙いか",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "5f3a16d01617",
+     "title": "UN COP31 Climate Summit Opens in Turkey Focusing on Emissions and AI Data Centers",
+     "summary": "The COP31 international climate change conference has opened in Turkey, centering discussions on global cooperation, emissions thresholds, and the energy footprint of AI data centers.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-09T10:35:00Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Japan Forward",
+       "title": "COP31 Begins with Calls to Look Beyond Emissions",
+       "url": "https://japan-forward.com/editorial-cop31-un-climate-change-beyond-emissions/",
+       "published": "2026-11-09T10:35:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Asahi Shimbun (Japanese)",
+       "title": "COP31 Opens With Discussions on 1.5-Degree Threshold and AI Data Centers",
+       "url": "http://www.asahi.com/articles/ASVC936Q3VC9UTFL005M.html?ref=rss",
+       "published": "2026-11-09T10:05:39Z",
+       "translated_from": "ja",
+       "original_title": "COP31が開幕 1.5度超えの対策、AIデータセンターも議論",
+       "official": false
+      },
+      {
+       "outlet": "NHK News (Japanese)",
+       "title": "COP31 Opens to Implement Climate Change Measures as Presidency Calls for Global Cooperation",
+       "url": "https://news.web.nhk/newsweb/na/nd-20261109de72895",
+       "published": "2026-11-09T10:06:09Z",
+       "translated_from": "ja",
+       "original_title": "COP31開幕 気候変動対策の実行へ 議長国が各国に協力呼びかけ",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "e0b65f074a6c",
+     "title": "Special Counsel Raids Ballot Counting Machine Companies Over Suspected Collusion",
+     "summary": "South Korean special investigators searched two ballot-counting machine suppliers over allegations of price-fixing and collusive bidding to secure contracts with election watchdogs.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-09T11:00:49Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "KBS World",
+       "title": "Special Counsel Raids Ballot-Counting Machine Suppliers Over Suspected Price-Fixing",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205453",
+       "published": "2026-11-09T09:59:58Z",
+       "official": false
+      },
+      {
+       "outlet": "The Korea Times",
+       "title": "Special counsel raids ballot counting machine companies over suspected collusion",
+       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261109/special-counsel-raids-ballot-counting-machine-companies-over-suspected-collusion?utm_source=rss",
+       "published": "2026-11-09T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "629aa43cd2ce",
+     "title": "South Korean Prosecution Seeks Prison Terms for Ex-Security Officials in THAAD Leak Case",
+     "summary": "Prosecutors requested prison sentences for three former security officials who served under Moon Jae-in, accusing them of leaking classified intelligence regarding the U.S. THAAD missile defense system.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-09T11:00:49Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Yonhap News",
+       "title": "Prison terms sought for ex-security officials for leaking THAAD-related intelligence",
+       "url": "https://en.yna.co.kr/view/AEN20261109008500315",
+       "published": "2026-11-09T08:03:39Z",
+       "official": false
+      },
+      {
+       "outlet": "The Korea Times",
+       "title": "Prison terms sought for ex-security officials for leaking THAAD-related intelligence",
+       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261109/prison-terms-sought-for-ex-security-officials-for-leaking-thaad-related-intelligence?utm_source=rss",
+       "published": "2026-11-09T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f6633c39e490",
+     "title": "German Materials Firm Henkel to Open AI Chip Packaging R&D Center in Seoul",
+     "summary": "German industrial maker Henkel is establishing a new research center in Seoul dedicated to developing specialized packaging materials for AI chips and high-bandwidth memory.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-09T11:00:49Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Korea Times",
+       "title": "Germany's Henkel to open chip packaging materials R&D center in Seoul",
+       "url": "https://www.koreatimes.co.kr/southkorea/20261109/germanys-henkel-to-open-chip-packaging-materials-rd-center-in-seoul?utm_source=rss",
+       "published": "2026-11-09T11:00:49Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "e7e0dff540ca",
+     "title": "Delivery Platforms Baemin and Coupang Dispute FTC Record Fines",
+     "summary": "Operators of major South Korean food delivery apps Baemin and Coupang are pushing back against the Fair Trade Commission's imposition of multi-billion-won penalty surcharges.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-09T09:56:26Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "KBS World",
+       "title": "Baemin, Coupang Eats Dispute FTC Findings, Challenge Record Fines",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205452",
+       "published": "2026-11-09T09:56:26Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "3819bfb9c27d",
+     "title": "LEGO Retro Video Game Batman Minifigure Free with $40 DC Purchases",
+     "summary": "LEGO is offering a free Retro Video Game Batman Minifigure gift-with-purchase on orders of $40 or more on DC sets at the official LEGO Store.",
+     "importance": 1,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-09T05:22:33Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "LEGO Retro Video Game Batman Minifigure GWP free with purchase of $40 or more LEGO DC on LEGO Store was previously exclusive to LEGO Batman: Legacy of the Dark Knight Deluxe Edition (Switch 2)",
+       "url": "https://buff.ly/FjKzB0L",
+       "published": "2026-11-09T05:22:33Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T11:00:49Z",
+ "timezone": "America/New_York",
+ "window_hours": 26,
+ "mode": "ai",
+ "model": "gemini-3.5-flash-lite",
+ "stats": {
+  "items": 1059,
+  "clusters": 873,
+  "feeds_ok": 175,
+  "feeds_failed": 1
+ },
+ "feed_health": [
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "helsinkitimes",
+   "title": "Helsinki Times (Finland)",
+   "status": "error",
+   "detail": "HTTPError: 403 Client Error: Forbidden for url: https://www.helsinkitimes.fi/?format=feed&type=rss"
+  }
+ ]
+}
