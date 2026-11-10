@@ -20,7 +20,8 @@ struct RootView: View {
         .animation(.default, value: model.phase)
         // The one place articles are presented (AppModel.openArticle), so two never compete.
         // Full screen: articles are long reads, and a sheet's swipe-down fought the page's scrolling.
-        .fullScreenCover(item: $model.presentedArticle) { link in
+        // Once it has finished closing, the model may offer the swipe-to-save tip.
+        .fullScreenCover(item: $model.presentedArticle, onDismiss: { model.articleDidClose() }) { link in
             // Safari's Close button dismisses the cover from UIKit; make sure the model hears of
             // it (from the delegate, and on disappear whatever closed it), or opening the same
             // article again would do nothing.
@@ -83,6 +84,15 @@ struct MainTabs: View {
         .onChange(of: model.selectedTab, initial: true) { _, tab in
             if tab == .today { model.clearBadge() }
         }
+        // "Swipe left to save", after an article closes. At the top, like the toasts: since iOS 26
+        // the floating tab bar isn't part of the bottom safe area, so a card there slid under it.
+        .overlay(alignment: .top) {
+            if let tip = model.swipeTip {
+                SwipeTipCard(prompt: tip)
+                    .transition(.move(edge: .top).combined(with: .opacity))
+            }
+        }
+        .animation(.snappy, value: model.swipeTip)
     }
 }
 
@@ -116,6 +126,8 @@ struct TodayView: View {
                 .navigationDestination(for: TopicDestination.self) { TopicPageView(destination: $0) }
                 .navigationDestination(for: NewStoriesDestination.self) { _ in NewStoriesView() }
         }
+        // Story rows on this stack open their pages here.
+        .environment(\.navigationTab, .today)
     }
 }
 
