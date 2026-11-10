@@ -23,12 +23,14 @@ extension AppModel {
         articleStory = nil
     }
 
-    /// The article browser finished closing (RootView). After a story's article, offer the
-    /// swipe-to-save tip, unless it's asleep, turned off, or the story is already saved.
+    /// The article browser closed (RootView calls this from more than one place; only the first
+    /// counts). After a story's article, offer the swipe-to-save tip, unless it's asleep, turned
+    /// off, or the story is already saved.
     func articleDidClose() {
-        guard let story = articleStory else { return }
+        // Another article already open: its own close offers the tip.
+        guard presentedArticle == nil, let story = articleStory else { return }
         articleStory = nil
-        guard presentedArticle == nil, phase == .ready, !isSaved(story) else { return }
+        guard phase == .ready, !isSaved(story) else { return }
         let at = now()
         guard SwipeTip.isDue(now: at, lastShown: LocalStore.swipeTipShownAt,
                              disabled: LocalStore.swipeTipDisabled) else { return }

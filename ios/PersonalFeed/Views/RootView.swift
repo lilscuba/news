@@ -20,14 +20,18 @@ struct RootView: View {
         .animation(.default, value: model.phase)
         // The one place articles are presented (AppModel.openArticle), so two never compete.
         // Full screen: articles are long reads, and a sheet's swipe-down fought the page's scrolling.
-        // Once it has finished closing, the model may offer the swipe-to-save tip.
+        // Once it has closed, the model may offer the swipe-to-save tip (from onDismiss, and from
+        // onDisappear for a close UIKit started, which onDismiss may not hear of).
         .fullScreenCover(item: $model.presentedArticle, onDismiss: { model.articleDidClose() }) { link in
             // Safari's Close button dismisses the cover from UIKit; make sure the model hears of
             // it (from the delegate, and on disappear whatever closed it), or opening the same
             // article again would do nothing.
             ArticleBrowser(link: link, onDone: { closeArticle(link) })
                 .ignoresSafeArea()
-                .onDisappear { closeArticle(link) }
+                .onDisappear {
+                    closeArticle(link)
+                    model.articleDidClose()
+                }
         }
     }
 

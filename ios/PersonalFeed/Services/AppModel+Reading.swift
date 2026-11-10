@@ -1,8 +1,9 @@
 import Foundation
 
 /// Reading state, all on this phone: what's been read, what's new since the last visit, saved
-/// stories, recently read and what the reader reads most. Each is a small JSON file in Application Support, written off the
-/// main thread a second after the last change (and when the app goes to the background).
+/// stories, recently read and what the reader reads most. Each is a small JSON file in Application
+/// Support, written off the main thread a second after the last change (and when the app goes to
+/// the background).
 extension AppModel {
     // MARK: Read
 
