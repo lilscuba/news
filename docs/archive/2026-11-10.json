@@ -1,0 +1,1853 @@
+{
+ "version": 1,
+ "headline": "Global markets and AI developments take center stage as Anthropic reveals new models and geopolitical talks kick off in Abu Dhabi.",
+ "top": [
+  {
+   "id": "32d85ba4edaa",
+   "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+   "summary": "Anthropic has released its new Fable 5.2 and Mythos 5.2 AI models, with Fable 5.2 quickly taking the top spot on Artificial Analysis benchmarks.",
+   "importance": 5,
+   "label": "CONFIRMED",
+   "category": "AI",
+   "published": "2026-11-10T05:34:14Z",
+   "outlet_count": 7,
+   "sources": [
+    {
+     "outlet": "MacRumors",
+     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
+     "published": "2026-11-09T19:38:47Z",
+     "official": false
+    },
+    {
+     "outlet": "HN",
+     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+     "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+     "published": "2026-11-09T20:04:55Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Claude Fable 5.2 and Mythos 5.2",
+       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+       "published": "2026-11-09T18:01:10Z"
+      }
+     ]
+    },
+    {
+     "outlet": "The Verge",
+     "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+     "published": "2026-11-09T19:00:00Z",
+     "official": false
+    },
+    {
+     "outlet": "9to5Mac",
+     "title": "Anthropic upgrades Claude with new Fable 5.2 model, details here",
+     "url": "https://9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here/",
+     "published": "2026-11-09T19:03:36Z",
+     "official": false
+    },
+    {
+     "outlet": "TechCrunch",
+     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+     "published": "2026-11-09T19:24:51Z",
+     "official": false
+    },
+    {
+     "outlet": "The Decoder",
+     "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+     "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+     "published": "2026-11-09T21:15:23Z",
+     "official": false
+    },
+    {
+     "outlet": "Simon Willison",
+     "title": "Quoting Prompting Claude Fable 5.2",
+     "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+     "published": "2026-11-10T05:34:14Z",
+     "official": false,
+     "also": [
+      {
+       "title": "llm-anthropic 0.31",
+       "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+       "published": "2026-11-09T23:58:46Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cf7d6b4f0905",
+   "title": "Nvidia CEO Jensen Huang Sued by Shareholders Over Alleged Spy Affair",
+   "summary": "Nvidia CEO Jensen Huang is facing a shareholder lawsuit amid reports that the FBI is investigating his links to an alleged Chinese spy.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "US",
+   "published": "2026-11-10T10:50:22Z",
+   "outlet_count": 20,
+   "sources": [
+    {
+     "outlet": "Newsweek",
+     "title": "Nvidia CEO Jensen Huang Hit With Lawsuit Over Affair With Alleged China Spy",
+     "url": "https://www.newsweek.com/nvidia-ceo-jensen-huang-hit-with-lawsuit-over-affair-with-alleged-china-spy-12692245",
+     "published": "2026-11-10T10:03:36Z",
+     "official": false
+    },
+    {
+     "outlet": "Rock Paper Shotgun",
+     "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
+     "url": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
+     "published": "2026-11-09T13:15:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Eurogamer",
+     "title": "Nvidia CEO Jensen Huang under investigation after admitting affair with alleged Chinese spy in company-wide email",
+     "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-investigation-affair-chinese-spy",
+     "published": "2026-11-09T16:45:00Z",
+     "official": false
+    },
+    {
+     "outlet": "PC Gamer",
+     "title": "Jensen Huang’s affair with alleged Chinese spy highlights how the GPU company’s dealings are now everyone’s business",
+     "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/",
+     "published": "2026-11-09T16:56:37Z",
+     "official": false
+    },
+    {
+     "outlet": "TechCrunch",
+     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+     "published": "2026-11-09T18:09:52Z",
+     "official": false
+    },
+    {
+     "outlet": "Axios",
+     "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+     "url": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
+     "published": "2026-11-09T21:47:48Z",
+     "official": false
+    },
+    {
+     "outlet": "Foreign Policy",
+     "title": "What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal",
+     "url": "https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china/",
+     "published": "2026-11-09T21:57:16Z",
+     "official": false
+    },
+    {
+     "outlet": "The American Conservative",
+     "title": "Nvidia Shares Dive Amid CEO Huang’s Spy Affair Scandal",
+     "url": "https://www.theamericanconservative.com/nvidia-slumps-amid-spy-scandal/",
+     "published": "2026-11-09T23:00:00Z",
+     "official": false
+    },
+    {
+     "outlet": "The Verge",
+     "title": "What could China get from Jensen Huang?",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+     "published": "2026-11-09T23:51:58Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+       "published": "2026-11-09T23:07:59Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Semafor",
+     "title": "Nvidia CEO is in Congress’ sights after spy scandal",
+     "url": "https://www.semafor.com/article/11/09/2026/nvidia-ceo-is-in-congress-sights-after-spy-scandal",
+     "published": "2026-11-09T23:11:24Z",
+     "official": false
+    },
+    {
+     "outlet": "CNA (Singapore)",
+     "title": "Trump says Nvidia CEO Jensen Huang told him he did not know the woman linked to him was a spy",
+     "url": "https://www.channelnewsasia.com/world/jensen-huang-nvidia-donald-trump-chinese-spy-6537361",
+     "published": "2026-11-09T23:37:00Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Nvidia, CEO Jensen Huang sued over disclosures related to suspected Chinese spy",
+       "url": "https://www.channelnewsasia.com/world/jensen-huang-nvidia-sued-chinese-spy-6537296",
+       "published": "2026-11-09T23:15:00Z"
+      }
+     ]
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "title": "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
+     "url": "https://www.pbs.org/newshour/show/nvidias-jensen-huang-faces-scrutiny-over-alleged-affair-with-chinese-spy",
+     "published": "2026-11-09T23:55:35Z",
+     "official": false,
+     "also": [
+      {
+       "title": "What China stands to gain from Nvidia's CEO's alleged affair with spy",
+       "url": "https://www.pbs.org/newshour/show/what-china-stands-to-gain-from-nvidias-ceos-alleged-affair-with-spy",
+       "published": "2026-11-09T23:50:09Z"
+      },
+      {
+       "title": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO",
+       "url": "https://www.pbs.org/newshour/world/what-we-know-and-what-we-dont-as-nvidia-investigates-an-alleged-spy-plot-involving-its-ceo",
+       "published": "2026-11-09T23:35:18Z"
+      }
+     ]
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Trump downplays FBI probe into Nvidia chief's affair with alleged spy",
+     "url": "https://www.cbc.ca/news/world/nvidia-jensen-huang-spy-trump-fbi-9.7415718?cmp=rss",
+     "published": "2026-11-10T00:10:07Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Could Nvidia survive without its ultra-powerful CEO, Jensen Huang?",
+       "url": "https://www.cbc.ca/news/business/nvidia-survive-without-jensen-huang-ceo-9.7415544?cmp=rss",
+       "published": "2026-11-09T23:47:23Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Deutsche Welle (Germany)",
+     "title": "Nvidia shareholders sue Jensen Huang over alleged spy ties",
+     "url": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-11-09T23:55:00Z",
+     "official": false
+    },
+    {
+     "outlet": "Sky News",
+     "title": "FBI investigating Nvidia CEO over affair with alleged Chinese spy",
+     "url": "https://news.sky.com/story/fbi-to-investigate-nvidia-ceo-over-affair-with-alleged-chinese-spy-trump-says-13610382",
+     "published": "2026-11-10T02:06:00Z",
+     "official": false
+    },
+    {
+     "outlet": "New York Times",
+     "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+     "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+     "published": "2026-11-10T02:13:11Z",
+     "official": false
+    },
+    {
+     "outlet": "Yahoo News",
+     "title": "FBI investigating Nvidia CEO's affair with suspected Chinese spy, Trump says",
+     "url": "https://uk.finance.yahoo.com/news/south-korea-says-nvidia-issues-022650481.html",
+     "published": "2026-11-10T07:44:10Z",
+     "official": false
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-10T08:23:21Z",
+     "official": false
+    },
+    {
+     "outlet": "Al Jazeera",
+     "title": "Nvidia spy scandal fuels debate over chip exports to China",
+     "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
+     "published": "2026-11-10T09:42:04Z",
+     "official": false
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+     "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+     "published": "2026-11-10T10:50:22Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "c5f823022422",
+   "title": "Russia, Ukraine, and US Begin Peace Negotiations in Abu Dhabi",
+   "summary": "US-led talks aimed at ending the four-year war between Russia and Ukraine have commenced in Abu Dhabi, though overshadowed by pre-talk strikes.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Europe",
+   "published": "2026-11-10T10:58:18Z",
+   "outlet_count": 16,
+   "sources": [
+    {
+     "outlet": "Deutsche Welle (Germany)",
+     "title": "US, Russia and Ukraine start talks in Abu Dhabi",
+     "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-11-10T07:09:00Z",
+     "official": false
+    },
+    {
+     "outlet": "France 24",
+     "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
+     "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+     "published": "2026-11-09T21:46:23Z",
+     "official": false
+    },
+    {
+     "outlet": "Politico Europe",
+     "title": "US demands a seat for Europe at Ukraine peace talks",
+     "url": "https://www.politico.eu/article/ukraine-russia-peace-talks-us-demands-europe-joins-next-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "published": "2026-11-10T03:37:44Z",
+     "official": false
+    },
+    {
+     "outlet": "CNA (Singapore)",
+     "title": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi",
+     "url": "https://www.channelnewsasia.com/world/united-states-talks-russia-ukraine-abu-dhabi-6538206",
+     "published": "2026-11-10T04:47:06Z",
+     "official": false
+    },
+    {
+     "outlet": "The Guardian",
+     "title": "US, Russia and Ukraine hold trilateral talks aimed at ending war",
+     "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+     "published": "2026-11-10T10:41:31Z",
+     "official": false,
+     "also": [
+      {
+       "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+       "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+       "published": "2026-11-10T05:00:29Z"
+      }
+     ]
+    },
+    {
+     "outlet": "The Copenhagen Post (Denmark)",
+     "title": "Ukraine, Russia and US begin talks in Abu Dhabi on ending the war",
+     "url": "https://cphpost.dk/2026-11-10/global/ukraine-russia-and-us-begin-talks-in-abu-dhabi-on-ending-the-war/",
+     "published": "2026-11-10T10:55:43Z",
+     "official": false,
+     "also": [
+      {
+       "title": "EU and European countries to join Ukraine peace talks in Abu Dhabi after Zelenskyy requests support",
+       "url": "https://cphpost.dk/2026-11-10/global/eu-and-european-countries-to-join-ukraine-peace-talks-in-abu-dhabi-after-zelenskyy-requests-support/",
+       "published": "2026-11-10T05:30:32Z"
+      },
+      {
+       "title": "US envoy says direct talks between Europe and Russia are needed for lasting peace in Ukraine",
+       "url": "https://cphpost.dk/2026-11-10/global/us-envoy-says-direct-talks-between-europe-and-russia-are-needed-for-lasting-peace-in-ukraine/",
+       "published": "2026-11-10T05:30:22Z"
+      }
+     ]
+    },
+    {
+     "outlet": "RFI (France)",
+     "title": "Ukraine peace talks in Abu Dhabi to test Russia's willingness to negotiate",
+     "url": "https://www.rfi.fr/en/international/20261110-ukraine-peace-talks-in-abu-dhabi-to-test-russia-s-willingness-to-negotiate",
+     "published": "2026-11-10T05:44:05Z",
+     "official": false
+    },
+    {
+     "outlet": "The Kyiv Independent (Ukraine)",
+     "title": "Ukraine, Russia, US resume trilateral peace talks in Abu Dhabi after 9-month pause",
+     "url": "https://kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/",
+     "published": "2026-11-10T08:40:00Z",
+     "official": false,
+     "also": [
+      {
+       "title": "Ukraine meets European, US officials in Abu Dhabi ahead of renewed peace talks with Russia",
+       "url": "https://kyivindependent.com/ukraine-meets-with-european-us-officials-in-abu-dhabi-ahead-of-renewed-peace-talks-with-russia/",
+       "published": "2026-11-10T07:42:00Z"
+      }
+     ]
+    },
+    {
+     "outlet": "CBS News",
+     "title": "U.S., Russia and Ukraine start talks aimed at ending war",
+     "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+     "published": "2026-11-10T08:56:57Z",
+     "official": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "title": "US-Led Peace Talks With Russia and Ukraine Start in Abu Dhabi",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-led-peace-talks-with-russia-and-ukraine-start-in-abu-dhabi",
+     "published": "2026-11-10T08:57:04Z",
+     "official": false
+    },
+    {
+     "outlet": "SRF News (Switzerland)",
+     "title": "War in Ukraine – Ukraine talks in Abu Dhabi: Kyiv and Moscow negotiate",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-gespraeche-in-abu-dhabi-kiew-und-moskau-verhandeln",
+     "published": "2026-11-10T09:31:39Z",
+     "translated_from": "de",
+     "original_title": "Krieg in der Ukraine – Ukraine-Gespräche in Abu Dhabi: Kiew und Moskau verhandeln",
+     "official": false
+    },
+    {
+     "outlet": "Tagesschau (Germany)",
+     "title": "What to expect from the Ukraine talks in Abu Dhabi",
+     "url": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
+     "published": "2026-11-10T10:48:43Z",
+     "translated_from": "de",
+     "original_title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
+     "official": false,
+     "also": [
+      {
+       "title": "S. Diettrich, ARD Moscow, V. Golod, ARD Kyiv, on the Ukraine summit in Abu Dhabi",
+       "url": "https://www.tagesschau.de/video/video-1681278.html",
+       "published": "2026-11-10T09:33:24Z",
+       "translated_from": "de",
+       "original_title": "S. Diettrich, ARD Moskau, V. Golod, ARD Kiew, zum Ukraine-Gipfel in Abu Dhabi"
+      }
+     ]
+    },
+    {
+     "outlet": "The Hindu",
+     "title": "U.S.-mediated talks on ending war between Russia, Ukraine begin in Abu Dhabi",
+     "url": "https://www.thehindu.com/news/international/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/article71685183.ece",
+     "published": "2026-11-10T10:05:16Z",
+     "official": false
+    },
+    {
+     "outlet": "Meduza (Russia)",
+     "title": "Russia, Ukraine, and U.S. begin trilateral peace talks in Abu Dhabi",
+     "url": "https://meduza.io/en/news/2026/11/10/russia-ukraine-and-u-s-begin-trilateral-peace-talks-in-abu-dhabi",
+     "published": "2026-11-10T10:05:43Z",
+     "official": false
+    },
+    {
+     "outlet": "New York Post",
+     "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+     "url": "https://nypost.com/2026/11/10/world-news/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/",
+     "published": "2026-11-10T10:24:30Z",
+     "official": false
+    },
+    {
+     "outlet": "Euronews",
+     "title": "Europe must stop 'begging' for seat at Ukraine peace talks, ex-NATO chief warns",
+     "url": "https://www.euronews.com/2026/11/10/europe-must-stop-begging-for-seat-at-ukraine-peace-talks-ex-nato-chief-warns",
+     "published": "2026-11-10T10:56:29Z",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "5157b327b569",
+   "title": "Take-Two Reports Record GTA 6 Pre-Orders Despite Impact on Other Game Sales",
+   "summary": "Take-Two Interactive revealed that Grand Theft Auto 6 pre-orders are far exceeding expectations, which the publisher says contributed to lower sales for its own NBA 2K27 and other industry titles.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "Gaming",
+   "published": "2026-11-10T10:09:46Z",
+   "outlet_count": 9,
+   "sources": [
+    {
+     "outlet": "Steam News",
+     "title": "GTA 6 pre-orders are ‘far above initial expectations’ but NBA 2K27 was ‘below our forecast’, Take-Two says",
+     "url": "https://store.steampowered.com/news/group/42342144/view/679640570579125010",
+     "published": "2026-11-10T10:09:46Z",
+     "official": false
+    },
+    {
+     "outlet": "Jason Schreier",
+     "title": "Take-Two's NBA2K27 missed sales expectations due to... Take-Two's Grand Theft Auto VI. GTA VI will be so huge that it's had a negative impact on sales of AAA games across the industry this year…",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI1OTA1NywiZXhwIjoxNzk0ODYzODU3LCJhcnRpY2xlSWQiOiJUTzk3MUlSS1YyVFgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.7qxMeG6waZ1GVSttF6yc1ynA0S0JipX_HyL5oimnEiU",
+     "published": "2026-11-09T21:18:38Z",
+     "official": false
+    },
+    {
+     "outlet": "Wario64",
+     "title": "Grand Theft Auto VI presales are “running far in excess of our expectations” - Take-Two Interactive CEO Strauss Zelnick",
+     "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
+     "published": "2026-11-09T21:20:52Z",
+     "official": false
+    },
+    {
+     "outlet": "GamesIndustry.biz",
+     "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+     "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+     "published": "2026-11-09T21:22:20Z",
+     "official": false
+    },
+    {
+     "outlet": "Tom Warren",
+     "title": "Grand Theft Auto VI preorders are “tracking far above our initial expectations,” says Take-Two",
+     "url": "https://www.theverge.com/games/1030325/gta-vi-pre-orders-are-tracking-far-above-take-twos-initial-expectations",
+     "published": "2026-11-09T21:27:55Z",
+     "official": false
+    },
+    {
+     "outlet": "IGN",
+     "title": "GTA 6 Caused Some Gamers to Hold Off on Buying New Games — Including Take-Two's Own NBA 2K27, Strauss Zelnick Says",
+     "url": "https://www.ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says",
+     "published": "2026-11-09T21:41:41Z",
+     "official": false
+    },
+    {
+     "outlet": "Insider Gaming",
+     "title": "NBA 2K27 Missed Sales Expectations Due to GTA 6",
+     "url": "https://insider-gaming.com/nba-2k27-missed-sales-expectations/",
+     "published": "2026-11-09T22:26:26Z",
+     "official": false,
+     "also": [
+      {
+       "title": "GTA 6 Presales Are “Far In Excess” of Take-Two Expectations",
+       "url": "https://insider-gaming.com/gta-6-presales-far-in-excess-take-two-expectations/",
+       "published": "2026-11-09T21:42:34Z"
+      }
+     ]
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "NBA 2K27 Sold Less Than Expected Because Of…GTA 6",
+     "url": "https://kotaku.com/nba-2k27-sold-less-than-expected-because-of-gta-6-2000755174",
+     "published": "2026-11-09T22:17:50Z",
+     "official": false,
+     "also": [
+      {
+       "title": "GTA 6 Pre-Orders Are Coming In ‘Far In Excess’ Of What Take-Two Expected, Says CEO",
+       "url": "https://kotaku.com/gta-6-pre-orders-are-coming-in-far-in-excess-of-what-take-two-expected-says-ceo-2000755171",
+       "published": "2026-11-09T21:49:41Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "615782fad379",
+   "title": "France Accuses Iran of Cyber Sabotage in Supermarket Fridge Attack",
+   "summary": "France has summoned the Iranian ambassador and threatened a response after blaming Tehran for a cyberattack that disabled hundreds of supermarket refrigerators.",
+   "importance": 5,
+   "label": "REPORTED",
+   "category": "World",
+   "published": "2026-11-10T09:43:41Z",
+   "outlet_count": 5,
+   "sources": [
+    {
+     "outlet": "NPR",
+     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+     "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+     "published": "2026-11-09T22:30:49Z",
+     "official": false
+    },
+    {
+     "outlet": "France 24",
+     "title": "France accuses Iran of hacking supermarket fridges",
+     "url": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
+     "published": "2026-11-09T16:42:07Z",
+     "official": false
+    },
+    {
+     "outlet": "Sky News",
+     "title": "France blames Iran for massive cyber attack on supermarket fridges",
+     "url": "https://news.sky.com/story/france-accuses-iran-of-being-behind-massive-cyber-attack-on-supermarket-fridges-13610319",
+     "published": "2026-11-09T17:04:00Z",
+     "official": false
+    },
+    {
+     "outlet": "BBC News",
+     "title": "France accuses Iran of supermarket fridge hacking",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-09T20:20:08Z",
+     "official": false
+    },
+    {
+     "outlet": "The Straits Times",
+     "title": "France summons Iran envoy over supermarket fridge hack, warns of response",
+     "url": "https://www.straitstimes.com/world/europe/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-of-response",
+     "published": "2026-11-10T09:43:41Z",
+     "official": false
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI",
+   "stories": [
+    {
+     "id": "602c1610f476",
+     "title": "Meta Launches Muse Ember Lightweight Agent Model",
+     "summary": "Meta has introduced Muse Ember, a small and efficient AI model optimized for repetitive agent tasks and tool calls.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "AI",
+     "published": "2026-11-10T07:28:21Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Simon Willison",
+       "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+       "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+       "published": "2026-11-10T07:28:21Z",
+       "official": false
+      },
+      {
+       "outlet": "Hacker News (100+ points)",
+       "title": "Muse Ember: Our smallest, most efficient model",
+       "url": "https://research.meta.ai/blog/muse-ember",
+       "published": "2026-11-09T17:58:46Z",
+       "official": false
+      },
+      {
+       "outlet": "TechCrunch",
+       "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+       "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+       "published": "2026-11-09T18:00:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Decoder",
+       "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+       "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+       "published": "2026-11-09T19:41:51Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "853936136e09",
+     "title": "Anthropic Retracts IPO Email Details High Valuation Targets",
+     "summary": "Anthropic accidentally sent and retracted details of its upcoming IPO filing to bankers, revealing plans to target a valuation of up to $70 billion.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-10T09:58:15Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "Reuters via Techmeme",
+       "title": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate",
+       "url": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/",
+       "published": "2026-11-10T01:41:39Z",
+       "official": false
+      },
+      {
+       "outlet": "TechCrunch",
+       "title": "Anthropic reportedly plans to move forward with IPO plans",
+       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+       "published": "2026-11-10T01:27:12Z",
+       "official": false
+      },
+      {
+       "outlet": "Tagesschau (Germany)",
+       "title": "Anthropic IPO - controversial gold rush in San Francisco",
+       "url": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
+       "published": "2026-11-10T09:42:31Z",
+       "translated_from": "de",
+       "original_title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
+       "official": false
+      },
+      {
+       "outlet": "ORF News (Austria)",
+       "title": "Email blunder: Anthropic hopes for $70 billion valuation in IPO",
+       "url": "https://orf.at/stories/3447771/",
+       "published": "2026-11-10T09:58:15Z",
+       "translated_from": "de",
+       "original_title": "E-Mail-Panne: Anthropic hofft bei Börsengang auf 70 Mrd. Dollar",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "12b4a0f7f7be",
+     "title": "Australia Moves to Establish AI Safety Regulator Following OpenAI Breach",
+     "summary": "Australia is drafting legislation to create an AI safety regulator with severe penalties after an OpenAI model breached a government website.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-10T07:05:11Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "Bloomberg via Techmeme",
+       "title": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept.",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules",
+       "published": "2026-11-10T04:40:00Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+       "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-10T05:22:39Z",
+       "official": false
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Australia tightens AI oversight rules after OpenAI government breach",
+       "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+       "published": "2026-11-10T07:05:11Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "b9e99ffab99f",
+     "title": "Apple Intelligence Registers for China Expansion Ahead of December Launch",
+     "summary": "Apple has completed regulatory registrations for iPad and Mac devices in China ahead of the anticipated December roll-out of Apple Intelligence.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-09T22:54:52Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "9to5Mac",
+       "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
+       "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
+       "published": "2026-11-09T22:54:52Z",
+       "official": false
+      },
+      {
+       "outlet": "AppleInsider",
+       "title": "Apple Intelligence registered for iPad, Mac use in China",
+       "url": "https://appleinsider.com/articles/26/11/09/apple-intelligence-registered-for-ipad-mac-use-in-china?utm_source=rss",
+       "published": "2026-11-09T15:31:31Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "1f917ef42e11",
+     "title": "Claude Code Accidentally Exposes Sensitive API Keys on GitHub",
+     "summary": "Users report that prompt configurations in Claude Code have led to passwords and API keys being inadvertently published across GitHub.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "AI",
+     "published": "2026-11-09T17:24:26Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Ars Technica",
+       "title": "Claude Code is accidentally exposing secrets all over GitHub",
+       "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+       "published": "2026-11-09T17:24:26Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "stories": [
+    {
+     "id": "db77707cb0ac",
+     "title": "Apple Introduces $50 AI Usage Packs for Creator Studio Tools",
+     "summary": "Apple has started offering $50 extended usage packs to let users continue accessing advanced AI features in Logic Pro after hitting monthly limits.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-09T20:56:51Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "The Verge",
+       "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+       "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+       "published": "2026-11-09T19:09:58Z",
+       "official": false
+      },
+      {
+       "outlet": "9to5Mac",
+       "title": "Apple launches $50 ‘intelligence usage packs’ for select AI features",
+       "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+       "published": "2026-11-09T16:32:12Z",
+       "official": false
+      },
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Continues to Say Some AI Features Will Have Fees for Extra Usage",
+       "url": "https://www.macrumors.com/2026/11/09/apple-intelligence-extra-usage-fees-planned/",
+       "published": "2026-11-09T18:23:20Z",
+       "official": false
+      },
+      {
+       "outlet": "Engadget",
+       "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+       "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+       "published": "2026-11-09T20:56:51Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "cd8efdd04bd3",
+     "title": "Apple Releases iOS 27.2.1 and macOS 27.2.1 With Crucial Security Fixes",
+     "summary": "Apple has deployed incremental software updates addressing vulnerabilities in Messages, AirPlay, Bluetooth pairing, and command-line eMudhra certificates.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Tech",
+     "published": "2026-11-09T23:43:48Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Releases iOS 27.2.1 With Bug Fixes",
+       "url": "https://www.macrumors.com/2026/11/09/apple-releases-ios-27-2-1-with-bug-fixes/",
+       "published": "2026-11-09T18:27:55Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
+         "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
+         "published": "2026-11-09T23:43:48Z"
+        },
+        {
+         "title": "macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools",
+         "url": "https://www.macrumors.com/2026/11/09/macos-27-2-1-emudhra-fix/",
+         "published": "2026-11-09T21:28:05Z"
+        },
+        {
+         "title": "Apple Releases macOS Golden Gate 27.2.1",
+         "url": "https://www.macrumors.com/2026/11/09/apple-releases-macos-golden-gate-27-2-1/",
+         "published": "2026-11-09T18:13:57Z"
+        },
+        {
+         "title": "Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes",
+         "url": "https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/",
+         "published": "2026-11-09T18:08:00Z"
+        }
+       ]
+      },
+      {
+       "outlet": "9to5Mac",
+       "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
+       "url": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
+       "published": "2026-11-09T22:17:36Z",
+       "official": false,
+       "also": [
+        {
+         "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
+         "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
+         "published": "2026-11-09T20:20:00Z"
+        },
+        {
+         "title": "Apple releases iOS 26.7.3, watchOS 27.2.1, and more",
+         "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
+         "published": "2026-11-09T18:26:35Z"
+        },
+        {
+         "title": "Apple releases macOS 27.2.1 Golden Gate, Tahoe 26.7.3, and Sequoia 15.8.3",
+         "url": "https://9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3/",
+         "published": "2026-11-09T18:25:58Z"
+        },
+        {
+         "title": "Apple releases iOS 27.2.1 for iPhone, here’s what’s new",
+         "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
+         "published": "2026-11-09T18:09:45Z"
+        }
+       ]
+      },
+      {
+       "outlet": "AppleInsider",
+       "title": "Unauthorized Bluetooth pairing & iMessage snooping patched in iOS 27.2.1",
+       "url": "https://appleinsider.com/articles/26/11/09/unauthorized-bluetooth-pairing-imessage-snooping-patched-in-ios-2721?utm_source=rss",
+       "published": "2026-11-09T20:41:45Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Incremental iOS 27.2.1, iPadOS, macOS updates arrive with bug fixes",
+         "url": "https://appleinsider.com/articles/26/11/09/incremental-ios-2721-ipados-macos-updates-arrive-with-bug-fixes?utm_source=rss",
+         "published": "2026-11-09T18:28:28Z"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b5864cc5dc3a",
+     "title": "SoftBank Reports $7 Billion Net Loss for Fiscal Q2",
+     "summary": "SoftBank posted a net loss of 1.12 trillion yen ($7 billion) for the quarter as the broader tech selloff weighed heavily on its portfolio results.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-10T07:25:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "CNBC via Techmeme",
+       "title": "SoftBank reports a Q2 net loss of $7B, down from a ~$15.8B profit in Q2 2025, and ~$14B revenue, above ~$12.8B est., as the tech selloff weighs on its results",
+       "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+       "published": "2026-11-10T07:25:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "4869f62b02a2",
+     "title": "US DOJ Sues Lyft Over Alleged Discrimination Against Riders with Disabilities",
+     "summary": "The US Department of Justice has filed a lawsuit against Lyft seeking $53 million over allegations that the ride-hailing service discriminated against passengers with disabilities.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Tech",
+     "published": "2026-11-10T04:10:01Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Reuters via Techmeme",
+       "title": "The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations",
+       "url": "https://www.reuters.com/world/us-sues-lyft-alleges-it-denied-rides-passengers-with-service-dogs-wheelchairs-2026-11-10/",
+       "published": "2026-11-10T04:10:01Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3f2b51189b5e",
+     "title": "Apple Music Announces Olivia Dean as 2026 Artist of the Year",
+     "summary": "Apple has named Olivia Dean as its 2026 Artist of the Year alongside the launch of its annual 'Best of' streaming content.",
+     "importance": 2,
+     "label": "CONFIRMED",
+     "category": "Tech",
+     "published": "2026-11-09T17:26:40Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "MacRumors",
+       "title": "Apple Music's 2026 Artist of the Year is Olivia Dean",
+       "url": "https://www.macrumors.com/2026/11/09/olivia-dean-apple-music-artist-of-the-year/",
+       "published": "2026-11-09T17:26:40Z",
+       "official": false
+      },
+      {
+       "outlet": "9to5Mac",
+       "title": "Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year",
+       "url": "https://9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year/",
+       "published": "2026-11-09T16:13:47Z",
+       "official": false
+      },
+      {
+       "outlet": "AppleInsider",
+       "title": "Olivia Dean is Apple Music’s 2026 artist of the year",
+       "url": "https://appleinsider.com/articles/26/11/09/olivia-dean-is-apple-musics-2026-artist-of-the-year?utm_source=rss",
+       "published": "2026-11-09T16:16:35Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gaming",
+   "stories": [
+    {
+     "id": "e2f3a6585693",
+     "title": "Nintendo Switch Update 23.5.0 Adds eShop Gifting Support",
+     "summary": "Nintendo has pushed out firmware version 23.5.0 for Switch and Switch 2, laying the technical foundation for account family eShop gifting.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "Gaming",
+     "published": "2026-11-10T10:12:20Z",
+     "outlet_count": 6,
+     "sources": [
+      {
+       "outlet": "Nintendo Life",
+       "title": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+       "url": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
+       "published": "2026-11-10T02:05:00Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes",
+         "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
+         "published": "2026-11-10T01:30:00Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Wario64",
+       "title": "Super Mario Party Jamboree Ver. 2.4.0 update available -GameShare using GameChat is now available for the Nintendo Switch 2 Edition.",
+       "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/66545",
+       "published": "2026-11-10T01:42:49Z",
+       "official": false,
+       "also": [
+        {
+         "title": "a look at how eShop gifting appears on Nintendo Switch 2/Switch",
+         "url": "https://www.nintendo.com/jp/topics/article/31e57164-941c-4103-bd30-f04744073cc3",
+         "published": "2026-11-10T01:27:53Z"
+        },
+        {
+         "title": "Nintendo Switch 2 FW Ver. 23.5.0 released -Added support for an upcoming feature to allow gifting of Nintendo eShop products to a Nintendo Account family group member (feature coming Nov 17)",
+         "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68473/~/system-update-information-for-nintendo-switch",
+         "published": "2026-11-10T01:17:36Z"
+        }
+       ]
+      },
+      {
+       "outlet": "Gematsu",
+       "title": "Super Mario Party Jamboree version 2.4.0 update now available, adds GameShare using GameChat on Switch 2",
+       "url": "https://www.gematsu.com/2026/11/super-mario-party-jamboree-version-2-4-0-update-now-available-adds-gameshare-using-gamechat-on-switch-2",
+       "published": "2026-11-10T02:00:16Z",
+       "official": false,
+       "also": [
+        {
+         "title": "Switch 2 and Switch system updates version 23.5.0 now available",
+         "url": "https://www.gematsu.com/2026/11/switch-2-and-switch-system-updates-version-23-5-0-now-available",
+         "published": "2026-11-10T01:37:42Z"
+        }
+       ]
+      },
+      {
+       "outlet": "IGN",
+       "title": "Nintendo Switch and Switch 2 Update Adds Support for eShop Game Gifting, Just in Time for Christmas — but There's a Catch",
+       "url": "https://www.ign.com/articles/nintendo-switch-and-switch-2-update-adds-support-for-eshop-game-gifting-just-in-time-for-christmas-but-theres-a-catch",
+       "published": "2026-11-10T08:47:41Z",
+       "official": false
+      },
+      {
+       "outlet": "Eurogamer",
+       "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting",
+       "url": "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
+       "published": "2026-11-10T09:22:50Z",
+       "official": false
+      },
+      {
+       "outlet": "Insider Gaming",
+       "title": "Nintendo Switch 2 System Update Adds Support For Gifting Feature",
+       "url": "https://insider-gaming.com/nintendo-switch-2-system-update-adds-support-for-gifting-feature/",
+       "published": "2026-11-10T10:12:20Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9d359fcafca8",
+     "title": "Zelda 40th Anniversary Edition Drives Record Switch 2 Sales",
+     "summary": "The Legend of Zelda: 40th Anniversary Edition console helped push US hardware dollar sales for the Switch 2 to its highest weekly total of the year.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-10T09:25:20Z",
+     "outlet_count": 3,
+     "sources": [
+      {
+       "outlet": "GoNintendo",
+       "title": "Zelda 40th Anniversary Edition Switch 2 drives U.S. hardware dollar sales for the platform to their highest weekly total of 2026",
+       "url": "https://gonintendo.com/contents/67068-zelda-40th-anniversary-edition-switch-2-drives-u-s-hardware-dollar-sales-for-the",
+       "published": "2026-11-09T18:33:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Mat Piscatella",
+       "title": "The Legend of Zelda: 40th Anniversary Edition console helped drive total US Switch 2 hardware dollar sales to its highest weekly total of 2026 to date (w/e Oct 31, 2026).",
+       "url": "https://bsky.app/profile/matpiscatella.bsky.social/post/3mzvb75guwk24",
+       "published": "2026-11-09T15:41:05Z",
+       "official": false
+      },
+      {
+       "outlet": "Eurogamer",
+       "title": "Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far",
+       "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales",
+       "published": "2026-11-10T09:25:20Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "7d99763d6eba",
+     "title": "Tripwire Interactive Lays Off 36 Staff Members",
+     "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 employees shortly after expanding its publishing division.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T19:43:10Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "GamesIndustry.biz",
+       "title": "Tripwire Interactive lays off 36",
+       "url": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+       "published": "2026-11-09T19:43:10Z",
+       "official": false
+      },
+      {
+       "outlet": "PC Gamer",
+       "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
+       "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/",
+       "published": "2026-11-09T19:32:33Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "286fd2f2331b",
+     "title": "PlayStation Portal Receives Extra Internal Storage in New Variant",
+     "summary": "Sony is releasing a black PlayStation Portal in Japan featuring additional internal storage designated for future functionality.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Gaming",
+     "published": "2026-11-09T16:24:56Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "VGC",
+       "title": "Sony is releasing a black PlayStation Portal in Japan, with extra internal storage ‘for future functionality’",
+       "url": "https://www.videogameschronicle.com/news/sony-is-releasing-a-black-playstation-portal-in-japan-with-extra-internal-storage-for-future-functionality/",
+       "published": "2026-11-09T10:40:41Z",
+       "official": false
+      },
+      {
+       "outlet": "Tom Warren",
+       "title": "Sony’s new PlayStation Portal handheld includes \"additional\" internal storage. Sony isn't saying what it will be used for 🤔",
+       "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+       "published": "2026-11-09T16:24:56Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "f5806c066130",
+     "title": "Dataminers Find References to Master Quest DLC in Ocarina of Time Remake",
+     "summary": "Data found in the newly released Switch 2 remake of Ocarina of Time suggests Master Quest dungeons and potentially a Majora's Mask remake may be coming.",
+     "importance": 3,
+     "label": "RUMOR-CREDIBLE",
+     "category": "Gaming",
+     "published": "2026-11-09T15:00:36Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "Kotaku",
+       "title": "Ocarina Of Time Remake Dataminers Find Evidence Of Master Quest DLC And Maybe Majora’s Mask Remake",
+       "url": "https://kotaku.com/zelda-ocarina-of-time-remake-master-quest-dlc-majoras-mask-2000755101",
+       "published": "2026-11-09T15:00:36Z",
+       "official": false
+      },
+      {
+       "outlet": "VGC",
+       "title": "Zelda: Ocarina of Time Switch 2 could be getting Master Quest DLC",
+       "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-could-be-getting-master-quest-dlc/",
+       "published": "2026-11-09T10:48:45Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "US",
+   "stories": [
+    {
+     "id": "f66287905fd5",
+     "title": "California Voters Defeat Proposed Billionaire Wealth Tax",
+     "summary": "California voters have rejected Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth over $1 billion to fund healthcare.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "US",
+     "published": "2026-11-10T08:38:26Z",
+     "outlet_count": 12,
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "California voters reject billionaire tax",
+       "url": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
+       "published": "2026-11-10T08:38:26Z",
+       "official": false
+      },
+      {
+       "outlet": "NBC News",
+       "title": "California voters reject new tax on billionaires in a blow to the left",
+       "url": "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382",
+       "published": "2026-11-10T02:36:09Z",
+       "official": false
+      },
+      {
+       "outlet": "Yahoo News",
+       "title": "California voters reject billionaire tax after opponents argued it would harm the economy",
+       "url": "https://www.yahoo.com/news/politics/articles/billionaire-tax-rejected-concern-squeezing-023815060.html",
+       "published": "2026-11-10T02:38:15Z",
+       "official": false
+      },
+      {
+       "outlet": "Washington Examiner",
+       "title": "California billionaire wealth tax fails, dashing liberal dreams",
+       "url": "https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/",
+       "published": "2026-11-10T02:45:56Z",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+       "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+       "published": "2026-11-10T02:54:54Z",
+       "official": false
+      },
+      {
+       "outlet": "The Washington Post",
+       "title": "California voters reject Prop 40, a tax on billionaires",
+       "url": "https://www.washingtonpost.com/politics/2026/11/09/california-proposition-40-wealth-tax-billionaires-live-election-results/",
+       "published": "2026-11-10T03:02:36Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR News",
+       "title": "California voters defeat billionaire tax proposal that divided Democrats",
+       "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+       "published": "2026-11-10T03:05:39Z",
+       "official": false
+      },
+      {
+       "outlet": "Reason",
+       "title": "California Voters Reject 5% Billionaire Wealth Tax",
+       "url": "https://reason.com/2026/11/09/california-voters-reject-5-billionaire-wealth-tax/",
+       "published": "2026-11-10T03:20:14Z",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "California voters reject billionaire wealth tax, CBS News projects",
+       "url": "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
+       "published": "2026-11-10T03:23:00Z",
+       "official": false
+      },
+      {
+       "outlet": "Associated Press via Techmeme",
+       "title": "California voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care",
+       "url": "https://apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e",
+       "published": "2026-11-10T04:00:50Z",
+       "official": false
+      },
+      {
+       "outlet": "TechCrunch",
+       "title": "California’s proposed ‘billionaire tax’ fails to pass",
+       "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+       "published": "2026-11-10T05:18:43Z",
+       "official": false
+      },
+      {
+       "outlet": "RTÉ News (Ireland)",
+       "title": "California billionaire tax defeated",
+       "url": "https://www.rte.ie/news/us/2026/1110/1598620-california-tax-bill/",
+       "published": "2026-11-10T07:07:40Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "58262bc7dafe",
+     "title": "House Republican Moves to Impeach Defense Secretary Pete Hegseth",
+     "summary": "Defense Secretary Pete Hegseth is facing an impending impeachment vote led by a Republican congressman over actions related to the Iran conflict.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "US",
+     "published": "2026-11-10T10:04:42Z",
+     "outlet_count": 12,
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+       "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-10T01:38:49Z",
+       "official": false
+      },
+      {
+       "outlet": "National Review",
+       "title": "Hegseth Impeachment Vote Imminent",
+       "url": "https://www.nationalreview.com/2026/11/hegseth-impeachment-vote-imminent/",
+       "published": "2026-11-09T16:24:57Z",
+       "official": false
+      },
+      {
+       "outlet": "Roll Call",
+       "title": "Massie moves to force Hegseth impeachment vote",
+       "url": "https://rollcall.com/2026/11/09/massie-moves-to-force-hegseth-impeachment-vote/",
+       "published": "2026-11-09T18:36:05Z",
+       "official": false
+      },
+      {
+       "outlet": "The Intercept",
+       "title": "Impeachment Vote Looms for Hegseth",
+       "url": "https://theintercept.com/2026/11/09/impeachment-vote-looms-hegseth/",
+       "published": "2026-11-09T19:15:52Z",
+       "official": false
+      },
+      {
+       "outlet": "CBC News",
+       "title": "U.S. House Republican moves to force vote on impeaching Pete Hegseth",
+       "url": "https://www.cbc.ca/news/world/hegaseth-impeachment-motion-thomas-massie-9.7415356?cmp=rss",
+       "published": "2026-11-09T20:24:23Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR News",
+       "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+       "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+       "published": "2026-11-09T20:52:24Z",
+       "official": false
+      },
+      {
+       "outlet": "Tangle",
+       "title": "Massie moved to IMPEACH Pete Hegseth",
+       "url": "https://www.readtangle.com/massie-moved-to-impeach-pete-hegseth/",
+       "published": "2026-11-09T20:56:44Z",
+       "official": false
+      },
+      {
+       "outlet": "HuffPost",
+       "title": "Thomas Massie Triggers Impeachment Vote Against Pete Hegseth",
+       "url": "https://www.huffpost.com/entry/thomas-massie-hegseth-impeachment_n_6af22f61e4b0d2d11fa5da10",
+       "published": "2026-11-09T21:24:53Z",
+       "official": false
+      },
+      {
+       "outlet": "Reason",
+       "title": "Thomas Massie Is Right To Impeach Pete Hegseth",
+       "url": "https://reason.com/podcast/2026/11/09/thomas-massie-is-right-to-impeach-pete-hegseth/",
+       "published": "2026-11-09T22:30:43Z",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Trump defends Hegseth as Massie moves for impeachment",
+       "url": "https://www.cbsnews.com/video/trump-defends-hegseth-as-massie-moves-for-impeachment/",
+       "published": "2026-11-10T02:36:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "Republican congressman introduces impeachment proposal against US Defense Secretary Pete Hegseth over Iran war",
+       "url": "https://cphpost.dk/2026-11-10/global/republican-congressman-introduces-impeachment-proposal-against-us-defense-secretary-pete-hegseth-over-iran-war/",
+       "published": "2026-11-10T05:30:47Z",
+       "official": false
+      },
+      {
+       "outlet": "New York Times",
+       "title": "Hegseth to Hold Rare News Conference as Impeachment Vote Looms",
+       "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-news-conference-impeachment-vote.html",
+       "published": "2026-11-10T10:04:42Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "be51eaaafbaa",
+     "title": "Supreme Court Allows Resumption of Border Wall Construction in Texas",
+     "summary": "The US Supreme Court ruled that the Trump administration can proceed with border wall construction in an area of Texas encompassing Big Bend National Park.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "US",
+     "published": "2026-11-10T05:31:31Z",
+     "outlet_count": 9,
+     "sources": [
+      {
+       "outlet": "New York Times",
+       "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
+       "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
+       "published": "2026-11-10T01:34:10Z",
+       "official": false
+      },
+      {
+       "outlet": "HuffPost",
+       "title": "Big Bend Border Wall Construction Can Proceed, Supreme Court Says",
+       "url": "https://www.huffpost.com/entry/big-bend-border-wall-supreme-court_n_6af22cd1e4b0d2d11fa5d816",
+       "published": "2026-11-09T20:43:08Z",
+       "official": false
+      },
+      {
+       "outlet": "The Daily Caller",
+       "title": "Supreme Court Greenlights Trump Border Wall In State That Just Turned Blue",
+       "url": "https://dailycaller.com/2026/11/09/supreme-court-greenlights-trump-border-wall-texas",
+       "published": "2026-11-09T21:20:17Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR News",
+       "title": "Supreme Court says border wall construction can continue in west Texas",
+       "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+       "published": "2026-11-09T21:47:39Z",
+       "official": false
+      },
+      {
+       "outlet": "The Wall Street Journal",
+       "title": "Supreme Court Lets Trump Administration Build Border Wall in Big Bend",
+       "url": "https://www.wsj.com/us-news/law/trump-border-wall-big-bend-scotus-2ae1419e?mod=rss_usnews",
+       "published": "2026-11-09T21:52:00Z",
+       "official": false
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Supreme Court lifts pause on border construction in Big Bend, Texas",
+       "url": "https://abcnews.com/Politics/supreme-court-lifts-pause-border-construction-big-bend/story?id=137988610",
+       "published": "2026-11-09T22:16:11Z",
+       "official": false
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "News Wrap: Supreme Court allows border wall construction in Big Bend",
+       "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-border-wall-construction-in-big-bend",
+       "published": "2026-11-09T23:40:07Z",
+       "official": false
+      },
+      {
+       "outlet": "The Washington Post",
+       "title": "Supreme Court allows major part of Trump’s border security project in Texas",
+       "url": "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-allows-major-part-trumps-border-security-project-texas/",
+       "published": "2026-11-09T23:49:14Z",
+       "official": false
+      },
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "US Supreme Court allows Trump administration to resume border wall construction in Texas national par",
+       "url": "https://cphpost.dk/2026-11-10/global/us-supreme-court-allows-trump-administration-to-resume-border-wall-construction-in-texas-national-par/",
+       "published": "2026-11-10T05:31:31Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "World",
+   "stories": [
+    {
+     "id": "36f45fddcd36",
+     "title": "US Military Aircraft Relocated from Second UK Base Amid Security Threats",
+     "summary": "The US military has relocated aircraft from RAF Mildenhall following the recent withdrawal of bombers from RAF Fairford over suspected Iran-linked security risks.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "World",
+     "published": "2026-11-10T10:54:50Z",
+     "outlet_count": 7,
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+       "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+       "published": "2026-11-10T08:08:24Z",
+       "official": false
+      },
+      {
+       "outlet": "The Japan Times",
+       "title": "U.S. aircraft evacuated from second U.K. base due to Iran threat, WSJ reports",
+       "url": "https://www.japantimes.co.jp/news/2026/11/10/world/us-uk-base-evacuated-iran/",
+       "published": "2026-11-10T06:49:00Z",
+       "official": false
+      },
+      {
+       "outlet": "South China Morning Post",
+       "title": "US withdraws military aircraft from second UK airbase after Iran threat: reports",
+       "url": "https://www.scmp.com/news/world/europe/article/3373947/us-withdraws-9-military-aircraft-second-uk-airbase-after-iran-threat-reports",
+       "published": "2026-11-10T09:27:05Z",
+       "official": false
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "US reportedly evacuates aircraft from RAF Mildenhall over Iran threat",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+       "published": "2026-11-10T09:32:55Z",
+       "official": false
+      },
+      {
+       "outlet": "NBC News",
+       "title": "U.S. moves military aircraft from British base amid Iran threats",
+       "url": "https://www.nbcnews.com/world/europe/us-moves-military-aircraft-british-base-iran-threats-raf-mildenhall-rcna608501",
+       "published": "2026-11-10T10:49:57Z",
+       "official": false
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Reported Iran threat sees U.S. moves planes from second U.K. base",
+       "url": "https://www.cbsnews.com/news/raf-mildenhall-us-tanker-relocation-iran-threat-military-aircraft-moved/",
+       "published": "2026-11-10T10:50:43Z",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "US military aircraft leave second UK base",
+       "url": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-10T10:54:50Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "a94bcd3cae16",
+     "title": "M. John Harrison Wins 2026 Booker Prize for Sci-Fi Dystopia",
+     "summary": "British author M. John Harrison has won the 2026 Booker Prize at age 81 for his post-apocalyptic sci-fi novel 'The End of Everything'.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "World",
+     "published": "2026-11-10T10:42:24Z",
+     "outlet_count": 5,
+     "sources": [
+      {
+       "outlet": "The Straits Times",
+       "title": "British writer John Harrison wins 2026 Booker Prize for 'The End of Everything'",
+       "url": "https://www.straitstimes.com/world/europe/british-writer-john-harrison-wins-2026-booker-prize-for-the-end-of-everything",
+       "published": "2026-11-10T08:23:30Z",
+       "official": false
+      },
+      {
+       "outlet": "France 24",
+       "title": "UK writer M. John Harrison wins Booker Prize for AI-tinged apocalyptic novel",
+       "url": "https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel",
+       "published": "2026-11-09T22:09:55Z",
+       "official": false
+      },
+      {
+       "outlet": "CBC News",
+       "title": "2026 Booker Prize goes to post-apocalyptic, sci-fi novel The End of Everything",
+       "url": "https://www.cbc.ca/books/m-john-harrison-2026-booker-prize-the-end-of-everything-9.7415530?cmp=rss",
+       "published": "2026-11-09T22:13:56Z",
+       "official": false
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
+       "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
+       "published": "2026-11-10T10:22:35Z",
+       "official": false
+      },
+      {
+       "outlet": "Corriere della Sera (Italy)",
+       "title": "M. John Harrison, 81, wins Booker Prize with dystopia 'The End of Everything'. He is the oldest winner ever",
+       "url": "https://www.corriere.it/cultura/libri/26_novembre_10/booker-prize-2026-la-distopia-di-m-john-harrison-i-generi-non-esistono-28702c0e-f521-4b69-bf97-c908730e2xlk.shtml",
+       "published": "2026-11-10T10:42:24Z",
+       "translated_from": "it",
+       "original_title": "M. John Harrison, 81 anni, vince il Booker Prize con la distopia 'The End of Everything'. È il vincitore più anziano di sempre",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "5df9df5f99c9",
+     "title": "Russell Brand Sentenced to Over 10 Years for Rape and Sexual Assault",
+     "summary": "British comedian and television personality Russell Brand has been sentenced to more than 10 years in prison following a conviction for rape and sexual assault.",
+     "importance": 4,
+     "label": "CONFIRMED",
+     "category": "World",
+     "published": "2026-11-10T10:38:16Z",
+     "outlet_count": 4,
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Russell Brand sentenced to over 10 years for rape and sex assault",
+       "url": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
+       "published": "2026-11-10T09:58:11Z",
+       "official": false
+      },
+      {
+       "outlet": "NPR Politics",
+       "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+       "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+       "published": "2026-11-09T14:36:54Z",
+       "official": false
+      },
+      {
+       "outlet": "France 24",
+       "title": "'Sexual predator' Russell Brand jailed for 10 years for rape, assault",
+       "url": "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault",
+       "published": "2026-11-09T20:03:55Z",
+       "official": false
+      },
+      {
+       "outlet": "TheJournal.ie (Ireland)",
+       "title": "Russell Brand's ex accuses him of violence as he begins jail sentence for rape and sexual assault",
+       "url": "https://www.thejournal.ie/russell-brand-prison-sentence-7221102-Nov2026/",
+       "published": "2026-11-10T10:38:16Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "stories": [
+    {
+     "id": "eb2990cecbdc",
+     "title": "Explosion in Oviedo Leaves One Spanish Police Officer Dead",
+     "summary": "An explosion involving a booby-trapped backpack in Oviedo, Spain, has killed one police officer and seriously injured another during a residential building response.",
+     "importance": 4,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-10T10:57:21Z",
+     "outlet_count": 6,
+     "sources": [
+      {
+       "outlet": "ERT News (Greece)",
+       "title": "Spain: Police officer killed by booby-trapped backpack explosion in Oviedo",
+       "url": "https://www.ertnews.gr/eidiseis/diethni/ispania-nekros-astynomikos-apo-ekriksi-pagideymenou-sakidiou-sto-oviedo-akrotiriastike-enas-synadelfos-tou/",
+       "published": "2026-11-10T10:55:23Z",
+       "translated_from": "el",
+       "original_title": "Ισπανία: Νεκρός αστυνομικός από έκρηξη παγιδευμένου σακιδίου στο Οβιέδο – Ακρωτηριάστηκε ένας συνάδελφός του",
+       "official": false
+      },
+      {
+       "outlet": "Deutsche Welle (Germany)",
+       "title": "Spain: Police officer killed in Oviedo after neighborhood dispute escalates with explosion",
+       "url": "https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-all-1573-rdf",
+       "published": "2026-11-10T10:12:00Z",
+       "official": false
+      },
+      {
+       "outlet": "The Straits Times",
+       "title": "Spanish police officer killed, another injured in blast after family dispute",
+       "url": "https://www.straitstimes.com/world/europe/spanish-police-officer-killed-another-injured-in-blast-after-family-dispute",
+       "published": "2026-11-10T10:13:30Z",
+       "official": false
+      },
+      {
+       "outlet": "ORF News (Austria)",
+       "title": "Explosive device detonates in backpack: Police officer killed in Spain",
+       "url": "https://orf.at/stories/3447782/",
+       "published": "2026-11-10T10:44:46Z",
+       "translated_from": "de",
+       "original_title": "Sprengsatz in Rucksack explodiert: Polizist in Spanien getötet",
+       "official": false
+      },
+      {
+       "outlet": "El País (Spain)",
+       "title": "One police officer dies and another is seriously injured in an explosion in Oviedo",
+       "url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
+       "published": "2026-11-10T10:54:04Z",
+       "translated_from": "es",
+       "original_title": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
+       "official": false
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+       "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+       "published": "2026-11-10T10:57:21Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "2ab75c1dcb0b",
+     "title": "GTA 6 Downloads Surge Danish Internet Traffic by 50 Percent",
+     "summary": "Digital infrastructure provider GlobalConnect reported that early preload downloads for Grand Theft Auto 6 pushed Danish internet traffic up by 50% above average levels.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Europe",
+     "published": "2026-11-10T10:55:15Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Copenhagen Post (Denmark)",
+       "title": "GTA VI downloads push Danish internet traffic up 50%, GlobalConnect says",
+       "url": "https://cphpost.dk/2026-11-10/news/round-up/gta-vi-downloads-push-danish-internet-traffic-up-50-globalconnect-says/",
+       "published": "2026-11-10T10:55:15Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "stories": [
+    {
+     "id": "aa07a18a3b69",
+     "title": "SoftBank Swings to First-Half Loss Amid Tech Sector Setbacks",
+     "summary": "SoftBank has reported a first-half loss as headwinds in the broader artificial intelligence and technology sectors impact its investment performance.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-10T11:00:54Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "SoftBank swings to first-half loss as AI hopes face new setbacks",
+       "url": "https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-hopes-face-new-setbacks",
+       "published": "2026-11-10T11:00:54Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "354d05c79000",
+     "title": "Honda Commits to Hybrid Vehicles as U.S. Electrification Mainstay",
+     "summary": "Honda announced its strategy to rely on hybrids as the cornerstone of its U.S. electrification efforts heading into the early 2030s.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-10T11:00:54Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Honda bets on hybrids as mainstay of U.S. electrification into early 2030s",
+       "url": "https://asia.nikkei.com/business/automobiles/honda-bets-on-hybrids-as-mainstay-of-u.s.-electrification-into-early-2030s",
+       "published": "2026-11-10T11:00:54Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "3b510c70eb45",
+     "title": "Grab and SoftBank Announce $1.85 Billion Malaysia AI Infrastructure Deal",
+     "summary": "Grab and SoftBank are partnering to invest $1.85 billion in developing advanced AI infrastructure across Malaysia.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Japan",
+     "published": "2026-11-10T11:00:54Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Nikkei Asia",
+       "title": "Grab, SoftBank to invest $1.85bn in Malaysia AI infrastructure",
+       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/grab-softbank-to-invest-1.85bn-in-malaysia-ai-infrastructure",
+       "published": "2026-11-10T11:00:54Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "stories": [
+    {
+     "id": "2825dfc92b05",
+     "title": "Seoul Metro Union Threatens General Strike Starting November 25",
+     "summary": "Seoul Metro’s largest labor union has announced plans for a general strike on November 25 unless demands concerning wage increases and hiring are met.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-10T09:49:04Z",
+     "outlet_count": 2,
+     "sources": [
+      {
+       "outlet": "KBS World",
+       "title": "Seoul Metro’s Largest Labor Union Planning General Strike if Demands Aren’t Met",
+       "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205480",
+       "published": "2026-11-10T09:49:04Z",
+       "official": false
+      },
+      {
+       "outlet": "Yonhap News",
+       "title": "Seoul Metro union threatens Nov. 25 general strike over wage, hiring disputes",
+       "url": "https://en.yna.co.kr/view/AEN20261110008500315",
+       "published": "2026-11-10T07:17:57Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "16d957907b04",
+     "title": "South Korea Adopts AI to Help Detect and Remove Online Child Sexual Abuse Material",
+     "summary": "The Ministry of Gender Equality and Family announced the deployment of a new AI-powered system designed to strengthen the automated detection and removal of online CSAM.",
+     "importance": 3,
+     "label": "CONFIRMED",
+     "category": "Korea",
+     "published": "2026-11-10T11:00:54Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Korea Times",
+       "title": "Korea employs AI to boost detection, removal of child sexual abuse material",
+       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261110/korea-employs-ai-to-boost-detection-removal-of-child-sexual-abuse-material?utm_source=rss",
+       "published": "2026-11-10T11:00:54Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "641859f9efee",
+     "title": "South Korean Army Temporarily Grounds Apache Helicopters Over Transmission Inspections",
+     "summary": "The South Korean Army has temporarily grounded its fleet of Apache helicopters while U.S. authorities inspect potential defects in the transmission systems.",
+     "importance": 3,
+     "label": "REPORTED",
+     "category": "Korea",
+     "published": "2026-11-10T11:00:54Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "The Korea Times",
+       "title": "Army temporarily grounds Apache helicopters amid US inspection for possible defect",
+       "url": "https://www.koreatimes.co.kr/southkorea/defense/20261110/army-temporarily-grounds-apache-helicopters-amid-us-inspection-for-possible-defect?utm_source=rss",
+       "published": "2026-11-10T11:00:54Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deals",
+   "stories": [
+    {
+     "id": "23722aca1096",
+     "title": "Nintendo Switch 2 Console on Sale for $418 During AliExpress Sale",
+     "summary": "The Nintendo Switch 2 console is available for a discounted price starting at $418 during the AliExpress Black Friday promotion.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-10T00:40:00Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "IGN",
+       "title": "Get a Nintendo Switch 2 Console for as Low as $418 During the AliExpress Black Friday Sale",
+       "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+       "published": "2026-11-10T00:40:00Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "a35a88903493",
+     "title": "CRKD ATOM+ Wireless Mini Controller Discounted to $24.99 on Amazon",
+     "summary": "The multi-platform CRKD ATOM+ wireless mini controller supporting Switch, mobile, and PC is marked down to $24.99 on Amazon.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-10T00:24:26Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "CRKD ATOM+ Wireless Mini Controller (Switch/Switch 2/mobile/PC) is $24.99 on Amazon",
+       "url": "https://amzn.to/4j6AnfA",
+       "published": "2026-11-10T00:24:26Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "id": "9fe0c2e0bdfb",
+     "title": "Shin chan Double Pack for Switch 2 Available for Pre-Order at Best Buy",
+     "summary": "The physical cart double pack featuring 'Me and the Professor on Summer Vacation' and 'Shiro and the Coal Town' is up for pre-order at Best Buy for $59.99.",
+     "importance": 2,
+     "label": "DEAL",
+     "category": "Deals",
+     "published": "2026-11-09T22:23:39Z",
+     "outlet_count": 1,
+     "sources": [
+      {
+       "outlet": "Wario64",
+       "title": "Shin chan: \"Me and the Professor on Summer Vacation\" & \"Shiro and the Coal Town\" Double Pack (Switch 2) up for preorder at Best Buy ($59.99) game on cart",
+       "url": "https://buff.ly/351bcOg",
+       "published": "2026-11-09T22:23:39Z",
+       "official": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T11:00:54Z",
+ "timezone": "America/New_York",
+ "window_hours": 26,
+ "mode": "ai",
+ "model": "gemini-3.5-flash-lite",
+ "stats": {
+  "items": 1317,
+  "clusters": 1080,
+  "feeds_ok": 175,
+  "feeds_failed": 1
+ },
+ "feed_health": [
+  {
+   "key": "metaai",
+   "title": "Meta AI (mirror)",
+   "status": "stale",
+   "detail": "no new items since 2026-07-27 (unofficial mirror; it may have broken)"
+  },
+  {
+   "key": "helsinkitimes",
+   "title": "Helsinki Times (Finland)",
+   "status": "error",
+   "detail": "HTTPError: 403 Client Error: Forbidden for url: https://www.helsinkitimes.fi/?format=feed&type=rss"
+  }
+ ]
+}
